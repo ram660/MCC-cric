@@ -1,0 +1,5932 @@
+[
+    {
+      "file_name": "cricheroes_Whonnock_Warriors_vs_Albion_Avengers_2025-04-05.pdf",
+      "match_details": {
+        "match_title": "Whonnock Warriors vs Albion Avengers",
+        "ground": "Selvey Park, Maple Ridge",
+        "date": "2025-04-05, 20:49 PM UTC",
+        "tournament": "cricheroes"
+      },
+      "match_result": {
+        "toss": "Whonnock Warriors opt to bat",
+        "innings1_score": "Whonnock Warriors 159/9 (25.0 Ov)",
+        "innings2_score": "Albion Avengers 141/10 (23.3 Ov)",
+        "result": "Whonnock Warriors won by 18 runs"
+      },
+      "best_performances": {
+        "batsmen": [
+          {
+            "player_name": "Harshavardhan Reddy Bobba",
+            "R": 58,
+            "B": 38,
+            "4s": 3,
+            "6s": 4,
+            "SR": 152.63
+          },
+          {
+            "player_name": "Daqoo M",
+            "R": 47,
+            "B": 16,
+            "4s": 1,
+            "6s": 6,
+            "SR": 293.75
+          },
+          {
+            "player_name": "Vamsidhar Reddy",
+            "R": 46,
+            "B": 65,
+            "4s": 2,
+            "6s": 0,
+            "SR": 70.77
+          }
+        ],
+        "bowlers": [
+          {
+            "player_name": "Mahesh Gogineni",
+            "O": 3.0,
+            "M": 0,
+            "R": 12,
+            "W": 2,
+            "Eco": 4.00
+          },
+          {
+            "player_name": "Abhilash Reddy Gade",
+            "O": 2.0,
+            "M": 0,
+            "R": 9,
+            "W": 2,
+            "Eco": 4.50
+          },
+          {
+            "player_name": "Naveen Narpina",
+            "O": 3.0,
+            "M": 0,
+            "R": 14,
+            "W": 2,
+            "Eco": 4.67
+          }
+        ]
+      },
+      "match_officials": [
+        {
+          "No": 1,
+          "Name": "Mahesh Gogineni (Whonnock Warriors)",
+          "Role": "Captain"
+        },
+        {
+          "No": 2,
+          "Name": "Srinivas (Albion Avengers)",
+          "Role": "Captain"
+        }
+      ],
+      "innings": [
+        {
+          "innings_number": 1,
+          "team": "Whonnock Warriors",
+          "captain": "Mahesh Gogineni",
+          "score": "159/9",
+          "overs": "25.0",
+          "batted": true,
+          "crr": "6.36",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Avinash Raju (RHB)",
+              "Status": "c DSP b Teja",
+              "R": 6,
+              "B": 9,
+              "M": 13,
+              "4s": 1,
+              "6s": 0,
+              "SR": 66.67
+            },
+            {
+              "No": 2,
+              "Batsman": "Abhilash Reddy Gade (RHB)",
+              "Status": "c Srikanth Thota b Umang Desai",
+              "R": 10,
+              "B": 8,
+              "M": 8,
+              "4s": 0,
+              "6s": 1,
+              "SR": 125.00
+            },
+            {
+              "No": 3,
+              "Batsman": "Rahul (RHB)",
+              "Status": "c Vamsidhar Reddy b Sudhakar Botta",
+              "R": 1,
+              "B": 12,
+              "M": 15,
+              "4s": 0,
+              "6s": 0,
+              "SR": 8.33
+            },
+            {
+              "No": 4,
+              "Batsman": "Harshavardhan Reddy Bobba (RHB)",
+              "Status": "b DSP",
+              "R": 58,
+              "B": 38,
+              "M": 53,
+              "4s": 3,
+              "6s": 4,
+              "SR": 152.63
+            },
+            {
+              "No": 5,
+              "Batsman": "Sharath Reddy Gade (RHB)",
+              "Status": "c Vamsidhar Reddy b Srinivas",
+              "R": 11,
+              "B": 19,
+              "M": 24,
+              "4s": 1,
+              "6s": 0,
+              "SR": 57.89
+            },
+            {
+              "No": 6,
+              "Batsman": "Ankit Khanna (RHB)",
+              "Status": "lbw b Naveen Narpina",
+              "R": 1,
+              "B": 2,
+              "M": 1,
+              "4s": 0,
+              "6s": 0,
+              "SR": 50.00
+            },
+            {
+              "No": 7,
+              "Batsman": "Mahesh Gogineni (c) (RHB)",
+              "Status": "b Teja",
+              "R": 36,
+              "B": 35,
+              "M": 37,
+              "4s": 2,
+              "6s": 0,
+              "SR": 102.86
+            },
+            {
+              "No": 8,
+              "Batsman": "Winston Garnepudi (RHB)",
+              "Status": "c Vamsidhar Reddy b Naveen Narpina",
+              "R": 12,
+              "B": 21,
+              "M": 18,
+              "4s": 0,
+              "6s": 0,
+              "SR": 57.14
+            },
+            {
+              "No": 9,
+              "Batsman": "Naga Bhaskar Sharma Mukka (RHB)",
+              "Status": "c Vivek R b Sudhakar Botta",
+              "R": 1,
+              "B": 5,
+              "M": 3,
+              "4s": 0,
+              "6s": 0,
+              "SR": 20.00
+            },
+            {
+              "No": 10,
+              "Batsman": "Raja Allam (RHB)",
+              "Status": "not out",
+              "R": 3,
+              "B": 3,
+              "M": 6,
+              "4s": 0,
+              "6s": 0,
+              "SR": 100.00
+            },
+            {
+              "No": 11,
+              "Batsman": "Ram Malineni (RHB)",
+              "Status": "not out",
+              "R": 1,
+              "B": 1,
+              "M": 1,
+              "4s": 0,
+              "6s": 0,
+              "SR": 100.00
+            }
+          ],
+          "extras": {
+            "total": 19,
+            "details": "wd 15, nb 3, b 1"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Teja",
+              "O": 4,
+              "M": 0,
+              "R": 24,
+              "W": 2,
+              "Os": 15,
+              "4s": 1,
+              "6s": 1,
+              "WD": 4,
+              "NB": 0,
+              "Eco": 6.00
+            },
+            {
+              "No": 2,
+              "Bowler": "Umang Desai",
+              "O": 2,
+              "M": 0,
+              "R": 7,
+              "W": 1,
+              "Os": 8,
+              "4s": 0,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 3.50
+            },
+            {
+              "No": 3,
+              "Bowler": "Sudhakar Botta",
+              "O": 3,
+              "M": 0,
+              "R": 28,
+              "W": 2,
+              "Os": 9,
+              "4s": 1,
+              "6s": 3,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 9.33
+            },
+            {
+              "No": 4,
+              "Bowler": "Vamsidhar Reddy",
+              "O": 2,
+              "M": 0,
+              "R": 8,
+              "W": 0,
+              "Os": 7,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 4.00
+            },
+            {
+              "No": 5,
+              "Bowler": "Vivek R",
+              "O": 2,
+              "M": 0,
+              "R": 19,
+              "W": 0,
+              "Os": 3,
+              "4s": 1,
+              "6s": 1,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 9.50
+            },
+            {
+              "No": 6,
+              "Bowler": "Srinivas (c)",
+              "O": 3,
+              "M": 0,
+              "R": 15,
+              "W": 1,
+              "Os": 9,
+              "4s": 2,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 5.00
+            },
+            {
+              "No": 7,
+              "Bowler": "Naveen Narpina",
+              "O": 3,
+              "M": 0,
+              "R": 14,
+              "W": 2,
+              "Os": 8,
+              "4s": 0,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 4.67
+            },
+            {
+              "No": 8,
+              "Bowler": "DSP",
+              "O": 4,
+              "M": 0,
+              "R": 34,
+              "W": 1,
+              "Os": 6,
+              "4s": 1,
+              "6s": 0,
+              "WD": 2,
+              "NB": 3,
+              "Eco": 8.50
+            },
+            {
+              "No": 9,
+              "Bowler": "Santhosh Kotagiri",
+              "O": 2,
+              "M": 0,
+              "R": 9,
+              "W": 0,
+              "Os": 5,
+              "4s": 0,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 4.50
+            }
+          ],
+          "to_bat": [],
+          "fall_of_wickets": [
+            {
+              "score": "13-1",
+              "player": "Abhilash Reddy Gade",
+              "over": 1.5
+            },
+            {
+              "score": "18-2",
+              "player": "Avinash Raju",
+              "over": 3.0
+            },
+            {
+              "score": "36-3",
+              "player": "Rahul",
+              "over": 5.5
+            },
+            {
+              "score": "88-4",
+              "player": "Sharath Reddy Gade",
+              "over": 13.0
+            },
+            {
+              "score": "91-5",
+              "player": "Ankit Khanna",
+              "over": 13.4
+            },
+            {
+              "score": "107-6",
+              "player": "Harshavardhan Reddy Bobba",
+              "over": 16.3
+            },
+            {
+              "score": "137-7",
+              "player": "Winston Garnepudi",
+              "over": 21.5
+            },
+            {
+              "score": "140-8",
+              "player": "Naga Bhaskar Sharma Mukka",
+              "over": 23.0
+            },
+            {
+              "score": "155-9",
+              "player": "Mahesh Gogineni",
+              "over": 24.3
+            }
+          ]
+        },
+        {
+          "innings_number": 2,
+          "team": "Albion Avengers",
+          "captain": "Srinivas",
+          "score": "141/10",
+          "overs": "23.3",
+          "batted": true,
+          "crr": "6.00",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Vamsidhar Reddy (LHB)",
+              "Status": "b Harshavardhan Reddy Bobba",
+              "R": 46,
+              "B": 65,
+              "M": 100,
+              "4s": 2,
+              "6s": 0,
+              "SR": 70.77
+            },
+            {
+              "No": 2,
+              "Batsman": "Daqoo M (RHB)",
+              "Status": "c Abhilash Reddy Gade b Mahesh Gogineni",
+              "R": 47,
+              "B": 16,
+              "M": 30,
+              "4s": 1,
+              "6s": 6,
+              "SR": 293.75
+            },
+            {
+              "No": 3,
+              "Batsman": "Srikanth Thota (RHB)",
+              "Status": "b Abhilash Reddy Gade",
+              "R": 4,
+              "B": 14,
+              "M": 10,
+              "4s": 0,
+              "6s": 0,
+              "SR": 28.57
+            },
+            {
+              "No": 4,
+              "Batsman": "Vivek R (RHB)",
+              "Status": "c Ankit Khanna b Abhilash Reddy Gade",
+              "R": 4,
+              "B": 9,
+              "M": 8,
+              "4s": 0,
+              "6s": 0,
+              "SR": 44.44
+            },
+            {
+              "No": 5,
+              "Batsman": "Umang Desai (RHB)",
+              "Status": "c Raja Allam b Ankit Khanna",
+              "R": 7,
+              "B": 9,
+              "M": 10,
+              "4s": 0,
+              "6s": 0,
+              "SR": 77.78
+            },
+            {
+              "No": 6,
+              "Batsman": "Teja (RHB)",
+              "Status": "c Sharath Reddy Gade b Ankit Khanna",
+              "R": 2,
+              "B": 4,
+              "M": 6,
+              "4s": 0,
+              "6s": 0,
+              "SR": 50.00
+            },
+            {
+              "No": 7,
+              "Batsman": "Sudhakar Botta (RHB)",
+              "Status": "c Raja Allam b Mahesh Gogineni",
+              "R": 11,
+              "B": 14,
+              "M": 16,
+              "4s": 1,
+              "6s": 0,
+              "SR": 78.57
+            },
+            {
+              "No": 8,
+              "Batsman": "Srinivas (c) (RHB)",
+              "Status": "b Raja Allam",
+              "R": 8,
+              "B": 9,
+              "M": 9,
+              "4s": 0,
+              "6s": 0,
+              "SR": 88.89
+            },
+            {
+              "No": 9,
+              "Batsman": "Santhosh Kotagiri (RHB)",
+              "Status": "run out Harshavardhan Reddy Bobba",
+              "R": 0,
+              "B": 0,
+              "M": 3,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 10,
+              "Batsman": "Naveen Narpina (RHB)",
+              "Status": "not out",
+              "R": 1,
+              "B": 1,
+              "M": 3,
+              "4s": 0,
+              "6s": 0,
+              "SR": 100.00
+            },
+            {
+              "No": 11,
+              "Batsman": "DSP (RHB)",
+              "Status": "b Harshavardhan Reddy Bobba",
+              "R": 0,
+              "B": 1,
+              "M": 1,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            }
+          ],
+          "extras": {
+            "total": 11,
+            "details": "wd 10, nb 1"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Ram Malineni",
+              "O": 3,
+              "M": 0,
+              "R": 11,
+              "W": 0,
+              "Os": 13,
+              "4s": 0,
+              "6s": 0,
+              "WD": 5,
+              "NB": 0,
+              "Eco": 3.67
+            },
+            {
+              "No": 2,
+              "Bowler": "Harshavardhan Reddy Bobba",
+              "O": 3.3,
+              "M": 0,
+              "R": 30,
+              "W": 2,
+              "Os": 10,
+              "4s": 1,
+              "6s": 2,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 8.57
+            },
+            {
+              "No": 3,
+              "Bowler": "Raja Allam",
+              "O": 3,
+              "M": 1,
+              "R": 30,
+              "W": 1,
+              "Os": 11,
+              "4s": 0,
+              "6s": 4,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 10.00
+            },
+            {
+              "No": 4,
+              "Bowler": "Ankit Khanna",
+              "O": 4,
+              "M": 0,
+              "R": 23,
+              "W": 2,
+              "Os": 10,
+              "4s": 2,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 5.75
+            },
+            {
+              "No": 5,
+              "Bowler": "Mahesh Gogineni (c)",
+              "O": 3,
+              "M": 0,
+              "R": 12,
+              "W": 2,
+              "Os": 10,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 1,
+              "Eco": 4.00
+            },
+            {
+              "No": 6,
+              "Bowler": "Winston Garnepudi",
+              "O": 3,
+              "M": 0,
+              "R": 15,
+              "W": 0,
+              "Os": 8,
+              "4s": 1,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 5.00
+            },
+            {
+              "No": 7,
+              "Bowler": "Abhilash Reddy Gade",
+              "O": 2,
+              "M": 0,
+              "R": 9,
+              "W": 2,
+              "Os": 5,
+              "4s": 0,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 4.50
+            },
+            {
+              "No": 8,
+              "Bowler": "Naga Bhaskar Sharma Mukka",
+              "O": 2,
+              "M": 0,
+              "R": 11,
+              "W": 0,
+              "Os": 3,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 5.50
+            }
+          ],
+          "to_bat": [],
+          "fall_of_wickets": [
+            {
+              "score": "58-1",
+              "player": "Daqoo M",
+              "over": 5.1
+            },
+            {
+              "score": "67-2",
+              "player": "Srikanth Thota",
+              "over": 8.2
+            },
+            {
+              "score": "76-3",
+              "player": "Vivek R",
+              "over": 10.4
+            },
+            {
+              "score": "93-4",
+              "player": "Umang Desai",
+              "over": 14.0
+            },
+            {
+              "score": "102-5",
+              "player": "Teja",
+              "over": 15.5
+            },
+            {
+              "score": "120-6",
+              "player": "Sudhakar Botta",
+              "over": 19.3
+            },
+            {
+              "score": "133-7",
+              "player": "Srinivas",
+              "over": 22.0
+            },
+            {
+              "score": "138-8",
+              "player": "Santhosh Kotagiri",
+              "over": 22.3
+            },
+            {
+              "score": "141-9",
+              "player": "Vamsidhar Reddy",
+              "over": 23.2
+            },
+            {
+              "score": "141-10",
+              "player": "DSP",
+              "over": 23.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "MR150_Kanaka_Kings_vs_Whonnock_Warriors_2024-06-16.pdf",
+      "match_details": {
+        "match_title": "Kanaka Kings vs Whonnock Warriors",
+        "ground": "Selvey Park, Maple Ridge",
+        "date": "2024-06-16, 01:08 AM UTC",
+        "tournament": "MR150 CRICKET CHAMPIONSHIP - 2024 (League Matches)"
+      },
+      "match_result": {
+        "toss": "Kanaka Kings opt to bat",
+        "innings1_score": "Kanaka Kings 109/4 (16.0 Ov)",
+        "innings2_score": "Whonnock Warriors 110/4 (14.1 Ov)",
+        "result": "Whonnock Warriors won by 6 wickets"
+      },
+      "best_performances": {
+        "batsmen": [
+          {
+            "player_name": "Abhilash Reddy Gade",
+            "R": 36,
+            "B": 23,
+            "4s": 3,
+            "6s": 1,
+            "SR": 156.52
+          },
+          {
+            "player_name": "Naveen Battula",
+            "R": 29,
+            "B": 24,
+            "4s": 1,
+            "6s": 0,
+            "SR": 120.83
+          },
+          {
+            "player_name": "Maharshi Pandya",
+            "R": 26,
+            "B": 21,
+            "4s": 0,
+            "6s": 1,
+            "SR": 123.81
+          }
+        ],
+        "bowlers": [
+          {
+            "player_name": "Mahesh Gogineni",
+            "O": 3.0,
+            "M": 0,
+            "R": 12,
+            "W": 2,
+            "Eco": 4.00
+          },
+          {
+            "player_name": "Siddharth Khanna",
+            "O": 2.0,
+            "M": 0,
+            "R": 12,
+            "W": 2,
+            "Eco": 6.00
+          },
+          {
+            "player_name": "Sudhakar Botta",
+            "O": 4.0,
+            "M": 0,
+            "R": 31,
+            "W": 2,
+            "Eco": 7.75
+          }
+        ]
+      },
+      "match_officials": [
+        {
+          "No": 1,
+          "Name": "Abhilash",
+          "Role": "Scorer"
+        },
+        {
+          "No": 2,
+          "Name": "Sudhakar Botta",
+          "Role": "Scorer"
+        },
+        {
+          "No": 3,
+          "Name": "Sudhakar Botta (Kanaka Kings)",
+          "Role": "Captain"
+        },
+        {
+          "No": 4,
+          "Name": "Abhilash Reddy Gade (Whonnock Warriors)",
+          "Role": "Captain"
+        }
+      ],
+      "innings": [
+        {
+          "innings_number": 1,
+          "team": "Kanaka Kings",
+          "captain": "Sudhakar Botta",
+          "score": "109/4",
+          "overs": "16.0",
+          "batted": true,
+          "crr": "6.81",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Siddharth Khanna (RHB)",
+              "Status": "run out † Sharath Reddy Gade",
+              "R": 20,
+              "B": 24,
+              "M": 37,
+              "4s": 1,
+              "6s": 0,
+              "SR": 83.33
+            },
+            {
+              "No": 2,
+              "Batsman": "Naveen Battula (RHB)",
+              "Status": "b Mahesh Gogineni",
+              "R": 29,
+              "B": 24,
+              "M": 40,
+              "4s": 1,
+              "6s": 0,
+              "SR": 120.83
+            },
+            {
+              "No": 3,
+              "Batsman": "Maharshi Pandya (wk) (RHB)",
+              "Status": "not out",
+              "R": 26,
+              "B": 21,
+              "M": 36,
+              "4s": 0,
+              "6s": 1,
+              "SR": 123.81
+            },
+            {
+              "No": 4,
+              "Batsman": "Ashish Rana (RHB)",
+              "Status": "b Mahesh Gogineni",
+              "R": 0,
+              "B": 2,
+              "M": 1,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 5,
+              "Batsman": "Sanket (RHB)",
+              "Status": "run out † Sharath Reddy Gade",
+              "R": 3,
+              "B": 7,
+              "M": 8,
+              "4s": 0,
+              "6s": 0,
+              "SR": 42.86
+            },
+            {
+              "No": 6,
+              "Batsman": "Arjun Bhatia (RHB)",
+              "Status": "not out",
+              "R": 20,
+              "B": 18,
+              "M": 22,
+              "4s": 1,
+              "6s": 0,
+              "SR": 111.11
+            }
+          ],
+          "extras": {
+            "total": 11,
+            "details": "wd 9, lb 1, b 1"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Sudheer",
+              "O": 3,
+              "M": 0,
+              "R": 25,
+              "W": 0,
+              "Os": 9,
+              "4s": 2,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 8.33
+            },
+            {
+              "No": 2,
+              "Bowler": "Harshavardhan Reddy Bobba",
+              "O": 2,
+              "M": 0,
+              "R": 13,
+              "W": 0,
+              "Os": 3,
+              "4s": 0,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 6.50
+            },
+            {
+              "No": 3,
+              "Bowler": "DEEPAK CRIC CANADA",
+              "O": 3,
+              "M": 0,
+              "R": 23,
+              "W": 0,
+              "Os": 4,
+              "4s": 1,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 7.67
+            },
+            {
+              "No": 4,
+              "Bowler": "Raja Allam",
+              "O": 3,
+              "M": 0,
+              "R": 21,
+              "W": 0,
+              "Os": 6,
+              "4s": 0,
+              "6s": 1,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 7.00
+            },
+            {
+              "No": 5,
+              "Bowler": "Mahesh Gogineni",
+              "O": 3,
+              "M": 0,
+              "R": 12,
+              "W": 2,
+              "Os": 8,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 4.00
+            },
+            {
+              "No": 6,
+              "Bowler": "Abhilash Reddy Gade (c)",
+              "O": 2,
+              "M": 0,
+              "R": 13,
+              "W": 0,
+              "Os": 1,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 6.50
+            }
+          ],
+          "to_bat": [
+            "Bharath P",
+            "Jk Ram",
+            "Sudheer Niddani",
+            "Sudhakar Botta (c)",
+            "Naga Bhaskar Sharma Mukka",
+            "Shreyash Patel"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "59-1",
+              "player": "Siddharth Khanna",
+              "over": 7.5
+            },
+            {
+              "score": "61-2",
+              "player": "Naveen Battula",
+              "over": 8.2
+            },
+            {
+              "score": "61-3",
+              "player": "Ashish Rana",
+              "over": 8.4
+            },
+            {
+              "score": "68-4",
+              "player": "Sanket",
+              "over": 10.4
+            }
+          ]
+        },
+        {
+          "innings_number": 2,
+          "team": "Whonnock Warriors",
+          "captain": "Abhilash Reddy Gade",
+          "score": "110/4",
+          "overs": "14.1",
+          "batted": true,
+          "crr": "7.76",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Sharath Reddy Gade (wk) (RHB)",
+              "Status": "lbw b Siddharth Khanna",
+              "R": 15,
+              "B": 13,
+              "M": 49,
+              "4s": 0,
+              "6s": 0,
+              "SR": 115.38
+            },
+            {
+              "No": 2,
+              "Batsman": "Akshay Reddy Putta (RHB)",
+              "Status": "b Sudhakar Botta",
+              "R": 7,
+              "B": 10,
+              "M": 9,
+              "4s": 1,
+              "6s": 0,
+              "SR": 70.00
+            },
+            {
+              "No": 3,
+              "Batsman": "Abhilash Reddy Gade (c) (RHB)",
+              "Status": "c †Maharshi Pandya b Siddharth Khanna",
+              "R": 36,
+              "B": 23,
+              "M": 41,
+              "4s": 3,
+              "6s": 1,
+              "SR": 156.52
+            },
+            {
+              "No": 4,
+              "Batsman": "Harshavardhan Reddy Bobba (RHB)",
+              "Status": "not out",
+              "R": 25,
+              "B": 18,
+              "M": 30,
+              "4s": 2,
+              "6s": 0,
+              "SR": 138.89
+            },
+            {
+              "No": 5,
+              "Batsman": "Mahesh Gogineni (RHB)",
+              "Status": "c&b Sudhakar Botta",
+              "R": 4,
+              "B": 7,
+              "M": 8,
+              "4s": 0,
+              "6s": 0,
+              "SR": 57.14
+            },
+            {
+              "No": 6,
+              "Batsman": "Raja Allam (RHB)",
+              "Status": "not out",
+              "R": 13,
+              "B": 15,
+              "M": 19,
+              "4s": 0,
+              "6s": 0,
+              "SR": 86.67
+            }
+          ],
+          "extras": {
+            "total": 10,
+            "details": "wd 8, nb 1, lb 1"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Sudhakar Botta (c)",
+              "O": 4,
+              "M": 0,
+              "R": 31,
+              "W": 2,
+              "Os": 9,
+              "4s": 1,
+              "6s": 1,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 7.75
+            },
+            {
+              "No": 2,
+              "Bowler": "Naveen Battula",
+              "O": 2.1,
+              "M": 0,
+              "R": 18,
+              "W": 0,
+              "Os": 3,
+              "4s": 2,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 8.31
+            },
+            {
+              "No": 3,
+              "Bowler": "Jk Ram",
+              "O": 2,
+              "M": 0,
+              "R": 18,
+              "W": 0,
+              "Os": 3,
+              "4s": 0,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 9.00
+            },
+            {
+              "No": 4,
+              "Bowler": "Siddharth Khanna",
+              "O": 2,
+              "M": 0,
+              "R": 12,
+              "W": 2,
+              "Os": 5,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 6.00
+            },
+            {
+              "No": 5,
+              "Bowler": "Ashish Rana",
+              "O": 3,
+              "M": 0,
+              "R": 22,
+              "W": 0,
+              "Os": 5,
+              "4s": 2,
+              "6s": 0,
+              "WD": 1,
+              "NB": 1,
+              "Eco": 7.33
+            },
+            {
+              "No": 6,
+              "Bowler": "Naga Bhaskar Sharma Mukka",
+              "O": 1,
+              "M": 0,
+              "R": 8,
+              "W": 0,
+              "Os": 1,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 8.00
+            }
+          ],
+          "to_bat": [
+            "Ritesh Shinde",
+            "Dileep Reddy Vatti",
+            "Sudheer",
+            "Ram Malineni",
+            "Siva Ram Chemudupati",
+            "Deepak Cric Canada"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "17-1",
+              "player": "Akshay Reddy Putta",
+              "over": 2.2
+            },
+            {
+              "score": "65-2",
+              "player": "Sharath Reddy Gade",
+              "over": 7.2
+            },
+            {
+              "score": "66-3",
+              "player": "Abhilash Reddy Gade",
+              "over": 7.5
+            },
+            {
+              "score": "75-4",
+              "player": "Mahesh Gogineni",
+              "over": 9.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "MR150_Whonnock_Warriors_vs_Kanaka_Kings_2024-05-05.pdf",
+      "match_details": {
+        "match_title": "Whonnock Warriors vs Kanaka Kings",
+        "ground": "Brown Park Langley, Maple Ridge",
+        "date": "2024-05-05, 15:29 PM UTC",
+        "tournament": "MR150 CRICKET CHAMPIONSHIP - 2024 (League Matches)"
+      },
+      "match_result": {
+        "toss": "Kanaka Kings opt to field",
+        "innings1_score": "Whonnock Warriors 183/5 (20.0 Ov)",
+        "innings2_score": "Kanaka Kings 129/10 (19.0 Ov)",
+        "result": "Whonnock Warriors won by 54 runs"
+      },
+      "best_performances": {
+        "batsmen": [
+          {
+            "player_name": "Sharath Reddy Gade",
+            "R": 86,
+            "B": 60,
+            "4s": 8,
+            "6s": 3,
+            "SR": 143.33
+          },
+          {
+            "player_name": "Siddharth Khanna",
+            "R": 60,
+            "B": 47,
+            "4s": 4,
+            "6s": 4,
+            "SR": 127.66
+          },
+          {
+            "player_name": "Ritesh Shinde",
+            "R": 37,
+            "B": 26,
+            "4s": 2,
+            "6s": 2,
+            "SR": 142.31
+          }
+        ],
+        "bowlers": [
+          {
+            "player_name": "Sudheer",
+            "O": 4.0,
+            "M": 0,
+            "R": 26,
+            "W": 3,
+            "Eco": 6.50
+          },
+          {
+            "player_name": "Harshavardhan Reddy Bobba",
+            "O": 2.0,
+            "M": 0,
+            "R": 5,
+            "W": 2,
+            "Eco": 2.50
+          },
+          {
+            "player_name": "Abhilash Reddy Gade",
+            "O": 3.0,
+            "M": 0,
+            "R": 8,
+            "W": 2,
+            "Eco": 2.67
+          }
+        ]
+      },
+      "match_officials": [
+        {
+          "No": 1,
+          "Name": "Daqoo M",
+          "Role": "Scorer"
+        },
+        {
+          "No": 2,
+          "Name": "Abhilash",
+          "Role": "Scorer"
+        },
+        {
+          "No": 3,
+          "Name": "Abhilash Reddy Gade (Whonnock Warriors)",
+          "Role": "Captain"
+        },
+        {
+          "No": 4,
+          "Name": "Sudhakar Botta (Kanaka Kings)",
+          "Role": "Captain"
+        }
+      ],
+      "innings": [
+        {
+          "innings_number": 1,
+          "team": "Whonnock Warriors",
+          "captain": "Abhilash Reddy Gade",
+          "score": "183/5",
+          "overs": "20.0",
+          "batted": true,
+          "crr": "9.15",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Sharath Reddy Gade (wk) (RHB)",
+              "Status": "lbw b Sampath Chowdary Nimmagadda",
+              "R": 86,
+              "B": 60,
+              "M": 84,
+              "4s": 8,
+              "6s": 3,
+              "SR": 143.33
+            },
+            {
+              "No": 2,
+              "Batsman": "Abhilash Reddy Gade (c) (RHB)",
+              "Status": "run out Shreyash Patel / Sudhakar Botta",
+              "R": 0,
+              "B": 0,
+              "M": 5,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 3,
+              "Batsman": "Harshavardhan Reddy Bobba (RHB)",
+              "Status": "c †Maharshi Pandya b Sampath Chowdary Nimmagadda",
+              "R": 0,
+              "B": 3,
+              "M": 11,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 4,
+              "Batsman": "Mahesh Gogineni (RHB)",
+              "Status": "c †Maharshi Pandya b Shreyash Patel",
+              "R": 28,
+              "B": 27,
+              "M": 32,
+              "4s": 1,
+              "6s": 2,
+              "SR": 103.70
+            },
+            {
+              "No": 5,
+              "Batsman": "Ritesh Shinde (RHB)",
+              "Status": "run out Shreyash Patel / Sudhakar Botta",
+              "R": 37,
+              "B": 26,
+              "M": 39,
+              "4s": 2,
+              "6s": 2,
+              "SR": 142.31
+            },
+            {
+              "No": 6,
+              "Batsman": "Ankit Khanna (RHB)",
+              "Status": "not out",
+              "R": 2,
+              "B": 5,
+              "M": 10,
+              "4s": 0,
+              "6s": 0,
+              "SR": 40.00
+            }
+          ],
+          "extras": {
+            "total": 30,
+            "details": "wd 22, b 7, nb 1"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Sudhakar Botta (c)",
+              "O": 4,
+              "M": 0,
+              "R": 26,
+              "W": 0,
+              "Os": 14,
+              "4s": 2,
+              "6s": 1,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 6.50
+            },
+            {
+              "No": 2,
+              "Bowler": "Sampath Chowdary Nimmagadda",
+              "O": 4,
+              "M": 0,
+              "R": 31,
+              "W": 2,
+              "Os": 11,
+              "4s": 2,
+              "6s": 1,
+              "WD": 4,
+              "NB": 0,
+              "Eco": 7.75
+            },
+            {
+              "No": 3,
+              "Bowler": "Shreyash Patel",
+              "O": 4,
+              "M": 0,
+              "R": 35,
+              "W": 1,
+              "Os": 10,
+              "4s": 2,
+              "6s": 1,
+              "WD": 4,
+              "NB": 0,
+              "Eco": 8.75
+            },
+            {
+              "No": 4,
+              "Bowler": "Ashish Rana",
+              "O": 2,
+              "M": 0,
+              "R": 33,
+              "W": 0,
+              "Os": 3,
+              "4s": 4,
+              "6s": 2,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 16.50
+            },
+            {
+              "No": 5,
+              "Bowler": "Siddharth Khanna",
+              "O": 3,
+              "M": 0,
+              "R": 24,
+              "W": 0,
+              "Os": 9,
+              "4s": 1,
+              "6s": 1,
+              "WD": 3,
+              "NB": 1,
+              "Eco": 8.00
+            },
+            {
+              "No": 6,
+              "Bowler": "Arjun Bhatia",
+              "O": 2,
+              "M": 0,
+              "R": 15,
+              "W": 0,
+              "Os": 4,
+              "4s": 0,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 7.50
+            },
+            {
+              "No": 7,
+              "Bowler": "DSP",
+              "O": 1,
+              "M": 0,
+              "R": 12,
+              "W": 0,
+              "Os": 1,
+              "4s": 0,
+              "6s": 1,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 12.00
+            }
+          ],
+          "to_bat": [
+            "Rahul",
+            "Sudheer",
+            "Parth Patel",
+            "Raghu",
+            "Siva Ram Chemudupati"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "0-1",
+              "player": "Abhilash Reddy Gade",
+              "over": 0.2
+            },
+            {
+              "score": "28-2",
+              "player": "Harshavardhan Reddy Bobba",
+              "over": 3.1
+            },
+            {
+              "score": "96-3",
+              "player": "Mahesh Gogineni",
+              "over": 10.5
+            },
+            {
+              "score": "175-4",
+              "player": "Sharath Reddy Gade",
+              "over": 18.3
+            },
+            {
+              "score": "183-5",
+              "player": "Ritesh Shinde",
+              "over": 20.0
+            }
+          ]
+        },
+        {
+          "innings_number": 2,
+          "team": "Kanaka Kings",
+          "captain": "Sudhakar Botta",
+          "score": "129/10",
+          "overs": "19.0",
+          "batted": true,
+          "crr": "6.79",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Siddharth Khanna (RHB)",
+              "Status": "b Sudheer",
+              "R": 60,
+              "B": 47,
+              "M": 62,
+              "4s": 4,
+              "6s": 4,
+              "SR": 127.66
+            },
+            {
+              "No": 2,
+              "Batsman": "Sudheer Niddani (RHB)",
+              "Status": "lbw b Ankit Khanna",
+              "R": 6,
+              "B": 12,
+              "M": 28,
+              "4s": 0,
+              "6s": 0,
+              "SR": 50.00
+            },
+            {
+              "No": 3,
+              "Batsman": "Maharshi Pandya (wk) (RHB)",
+              "Status": "c Parth Patel b Abhilash Reddy Gade",
+              "R": 23,
+              "B": 15,
+              "M": 18,
+              "4s": 2,
+              "6s": 2,
+              "SR": 153.33
+            },
+            {
+              "No": 4,
+              "Batsman": "Ashish Rana (RHB)",
+              "Status": "c Rahul b Abhilash Reddy Gade",
+              "R": 0,
+              "B": 2,
+              "M": 3,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 5,
+              "Batsman": "Nikhil MCC (RHB)",
+              "Status": "run out Siva Ram chemudupati / † Sharath Reddy Gade",
+              "R": 3,
+              "B": 5,
+              "M": 9,
+              "4s": 0,
+              "6s": 0,
+              "SR": 60.00
+            },
+            {
+              "No": 6,
+              "Batsman": "Sudhakar Botta (c) (RHB)",
+              "Status": "c&b Harshavardhan Reddy Bobba",
+              "R": 2,
+              "B": 6,
+              "M": 8,
+              "4s": 0,
+              "6s": 0,
+              "SR": 33.33
+            },
+            {
+              "No": 7,
+              "Batsman": "Bharath P (RHB)",
+              "Status": "b Sudheer",
+              "R": 2,
+              "B": 2,
+              "M": 2,
+              "4s": 0,
+              "6s": 0,
+              "SR": 100.00
+            },
+            {
+              "No": 8,
+              "Batsman": "DSP (RHB)",
+              "Status": "c Ritesh Shinde b Harshavardhan Reddy Bobba",
+              "R": 1,
+              "B": 5,
+              "M": 7,
+              "4s": 0,
+              "6s": 0,
+              "SR": 20.00
+            },
+            {
+              "No": 9,
+              "Batsman": "Sampath Chowdary Nimmagadda (RHB)",
+              "Status": "b Raghu",
+              "R": 10,
+              "B": 8,
+              "M": 12,
+              "4s": 0,
+              "6s": 1,
+              "SR": 125.00
+            },
+            {
+              "No": 10,
+              "Batsman": "Shreyash Patel (LHB)",
+              "Status": "b Sudheer",
+              "R": 0,
+              "B": 5,
+              "M": 2,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 11,
+              "Batsman": "Arjun Bhatia (RHB)",
+              "Status": "not out",
+              "R": 8,
+              "B": 9,
+              "M": 8,
+              "4s": 0,
+              "6s": 0,
+              "SR": 88.89
+            }
+          ],
+          "extras": {
+            "total": 14,
+            "details": "wd 10, nb 2, lb 1, b 1"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Sudheer",
+              "O": 4,
+              "M": 0,
+              "R": 26,
+              "W": 3,
+              "Os": 15,
+              "4s": 1,
+              "6s": 2,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 6.50
+            },
+            {
+              "No": 2,
+              "Bowler": "Raghu",
+              "O": 3,
+              "M": 0,
+              "R": 23,
+              "W": 1,
+              "Os": 9,
+              "4s": 1,
+              "6s": 1,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 7.67
+            },
+            {
+              "No": 3,
+              "Bowler": "Ankit Khanna",
+              "O": 3,
+              "M": 0,
+              "R": 14,
+              "W": 1,
+              "Os": 11,
+              "4s": 1,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 4.67
+            },
+            {
+              "No": 4,
+              "Bowler": "Siva Ram chemudupati",
+              "O": 2,
+              "M": 0,
+              "R": 22,
+              "W": 0,
+              "Os": 4,
+              "4s": 0,
+              "6s": 2,
+              "WD": 0,
+              "NB": 1,
+              "Eco": 11.00
+            },
+            {
+              "No": 5,
+              "Bowler": "Ritesh Shinde",
+              "O": 1,
+              "M": 0,
+              "R": 12,
+              "W": 0,
+              "Os": 2,
+              "4s": 1,
+              "6s": 1,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 12.00
+            },
+            {
+              "No": 6,
+              "Bowler": "Abhilash Reddy Gade (c)",
+              "O": 3,
+              "M": 0,
+              "R": 8,
+              "W": 2,
+              "Os": 12,
+              "4s": 0,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 2.67
+            },
+            {
+              "No": 7,
+              "Bowler": "Rahul",
+              "O": 1,
+              "M": 0,
+              "R": 17,
+              "W": 0,
+              "Os": 2,
+              "4s": 2,
+              "6s": 1,
+              "WD": 0,
+              "NB": 1,
+              "Eco": 17.00
+            },
+            {
+              "No": 8,
+              "Bowler": "Harshavardhan Reddy Bobba",
+              "O": 2,
+              "M": 0,
+              "R": 5,
+              "W": 2,
+              "Os": 8,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 2.50
+            }
+          ],
+          "to_bat": [],
+          "fall_of_wickets": [
+            {
+              "score": "48-1",
+              "player": "Sudheer Niddani",
+              "over": 6.2
+            },
+            {
+              "score": "83-2",
+              "player": "Maharshi Pandya",
+              "over": 10.2
+            },
+            {
+              "score": "86-3",
+              "player": "Ashish Rana",
+              "over": 10.5
+            },
+            {
+              "score": "106-4",
+              "player": "Nikhil MCC",
+              "over": 13.0
+            },
+            {
+              "score": "106-5",
+              "player": "Siddharth Khanna",
+              "over": 13.1
+            },
+            {
+              "score": "108-6",
+              "player": "Bharath P",
+              "over": 13.3
+            },
+            {
+              "score": "111-7",
+              "player": "Sudhakar Botta",
+              "over": 15.1
+            },
+            {
+              "score": "112-8",
+              "player": "DSP",
+              "over": 15.3
+            },
+            {
+              "score": "113-9",
+              "player": "Shreyash Patel",
+              "over": 16.4
+            },
+            {
+              "score": "129-10",
+              "player": "Sampath Chowdary Nimmagadda",
+              "over": 19.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "MR150_Maple_Mavericks_vs_Whonnock_Warriors_2024-07-20.pdf",
+      "match_details": {
+        "match_title": "Maple Mavericks vs Whonnock Warriors",
+        "ground": "brown park, Langley",
+        "date": "2024-07-20, 01:02 AM UTC",
+        "tournament": "MR150 CRICKET CHAMPIONSHIP - 2024 (League Matches)"
+      },
+      "match_result": {
+        "toss": "Maple Mavericks opt to bat",
+        "innings1_score": "Maple Mavericks 123/10 (19.4 Ov)",
+        "innings2_score": "Whonnock Warriors 124/5 (18.2 Ov)",
+        "result": "Whonnock Warriors won by 5 wickets"
+      },
+      "best_performances": {
+        "batsmen": [
+          {
+            "player_name": "Abhilash Reddy Gade",
+            "R": 44,
+            "B": 41,
+            "4s": 3,
+            "6s": 1,
+            "SR": 107.32
+          },
+          {
+            "player_name": "Rakesh",
+            "R": 25,
+            "B": 26,
+            "4s": 3,
+            "6s": 0,
+            "SR": 96.20
+          },
+          {
+            "player_name": "Mahesh Gogineni",
+            "R": 21,
+            "B": 27,
+            "4s": 0,
+            "6s": 0,
+            "SR": 77.78
+          }
+        ],
+        "bowlers": [
+          {
+            "player_name": "Ram Malineni",
+            "O": 3.4,
+            "M": 1,
+            "R": 23,
+            "W": 3,
+            "Eco": 6.30
+          },
+          {
+            "player_name": "Sudheer",
+            "O": 4.0,
+            "M": 0,
+            "R": 14,
+            "W": 2,
+            "Eco": 3.50
+          },
+          {
+            "player_name": "Kanishk",
+            "O": 3.0,
+            "M": 0,
+            "R": 16,
+            "W": 2,
+            "Eco": 5.33
+          }
+        ]
+      },
+      "match_officials": [
+        {
+          "No": 1,
+          "Name": "VAMSI REDDY NALLA",
+          "Role": "Scorer"
+        },
+        {
+          "No": 2,
+          "Name": "Abhilash",
+          "Role": "Scorer"
+        },
+        {
+          "No": 3,
+          "Name": "Vamsi Reddy Nalla (Maple Mavericks)",
+          "Role": "Captain"
+        },
+        {
+          "No": 4,
+          "Name": "Abhilash Reddy Gade (Whonnock Warriors)",
+          "Role": "Captain"
+        }
+      ],
+      "innings": [
+        {
+          "innings_number": 1,
+          "team": "Maple Mavericks",
+          "captain": "Vamsi Reddy Nalla",
+          "score": "123/10",
+          "overs": "19.4",
+          "batted": true,
+          "crr": "6.25",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Shivam (wk) (LHB)",
+              "Status": "c Akshay Reddy Putta b Ram Malineni",
+              "R": 1,
+              "B": 7,
+              "M": 20,
+              "4s": 0,
+              "6s": 0,
+              "SR": 14.30
+            },
+            {
+              "No": 2,
+              "Batsman": "Krishna (RHB)",
+              "Status": "c&b Abhilash Reddy Gade",
+              "R": 5,
+              "B": 6,
+              "M": 15,
+              "4s": 1,
+              "6s": 0,
+              "SR": 83.30
+            },
+            {
+              "No": 3,
+              "Batsman": "Kanishk (RHB)",
+              "Status": "c Rahul b Sudheer",
+              "R": 16,
+              "B": 14,
+              "M": 16,
+              "4s": 3,
+              "6s": 0,
+              "SR": 114.30
+            },
+            {
+              "No": 4,
+              "Batsman": "Dhruval Patel (LHB)",
+              "Status": "c Akshay Reddy Putta b Ram Malineni",
+              "R": 15,
+              "B": 14,
+              "M": 19,
+              "4s": 1,
+              "6s": 0,
+              "SR": 107.10
+            },
+            {
+              "No": 5,
+              "Batsman": "Rakesh (RHB)",
+              "Status": "c Ram Malineni b Akshay Reddy Putta",
+              "R": 25,
+              "B": 26,
+              "M": 33,
+              "4s": 3,
+              "6s": 0,
+              "SR": 96.20
+            },
+            {
+              "No": 6,
+              "Batsman": "Jaynish Patel (RHB)",
+              "Status": "lbw b Mahesh Gogineni",
+              "R": 15,
+              "B": 16,
+              "M": 22,
+              "4s": 0,
+              "6s": 0,
+              "SR": 93.80
+            },
+            {
+              "No": 7,
+              "Batsman": "Sree K (RHB)",
+              "Status": "c Raja Allam b Mahesh Gogineni",
+              "R": 14,
+              "B": 12,
+              "M": 20,
+              "4s": 0,
+              "6s": 1,
+              "SR": 116.70
+            },
+            {
+              "No": 8,
+              "Batsman": "jay (RHB)",
+              "Status": "c Raja Allam b Sudheer",
+              "R": 17,
+              "B": 14,
+              "M": 24,
+              "4s": 0,
+              "6s": 0,
+              "SR": 121.40
+            },
+            {
+              "No": 9,
+              "Batsman": "VAMSI REDDY NALLA (c) (RHB)",
+              "Status": "run out Mahesh Gogineni",
+              "R": 2,
+              "B": 8,
+              "M": 9,
+              "4s": 0,
+              "6s": 0,
+              "SR": 25.00
+            },
+            {
+              "No": 10,
+              "Batsman": "Sunith Raju (RHB)",
+              "Status": "not out",
+              "R": 1,
+              "B": 2,
+              "M": 4,
+              "4s": 0,
+              "6s": 0,
+              "SR": 50.00
+            },
+            {
+              "No": 11,
+              "Batsman": "Krishna Chaitanya(KC) (RHB)",
+              "Status": "c Sharath Reddy Gade b Ram Malineni",
+              "R": 2,
+              "B": 3,
+              "M": 2,
+              "4s": 0,
+              "6s": 0,
+              "SR": 66.70
+            }
+          ],
+          "extras": {
+            "total": 10,
+            "details": "lb 1, wd 3, b 2, nb 4"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Sudheer",
+              "O": 4,
+              "M": 0,
+              "R": 14,
+              "W": 2,
+              "Os": 15,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 3.50
+            },
+            {
+              "No": 2,
+              "Bowler": "Raja Allam",
+              "O": 0.3,
+              "M": 0,
+              "R": 5,
+              "W": 0,
+              "Os": 2,
+              "4s": 1,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 10.00
+            },
+            {
+              "No": 3,
+              "Bowler": "Abhilash Reddy Gade (c)",
+              "O": 2.3,
+              "M": 0,
+              "R": 25,
+              "W": 1,
+              "Os": 5,
+              "4s": 1,
+              "6s": 1,
+              "WD": 1,
+              "NB": 1,
+              "Eco": 10.00
+            },
+            {
+              "No": 4,
+              "Bowler": "Ram Malineni",
+              "O": 3.4,
+              "M": 1,
+              "R": 23,
+              "W": 3,
+              "Os": 12,
+              "4s": 3,
+              "6s": 0,
+              "WD": 0,
+              "NB": 1,
+              "Eco": 6.30
+            },
+            {
+              "No": 5,
+              "Bowler": "Ankit Khanna",
+              "O": 4,
+              "M": 0,
+              "R": 18,
+              "W": 0,
+              "Os": 13,
+              "4s": 1,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 4.50
+            },
+            {
+              "No": 6,
+              "Bowler": "Akshay Reddy Putta",
+              "O": 2,
+              "M": 0,
+              "R": 14,
+              "W": 1,
+              "Os": 5,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 7.00
+            },
+            {
+              "No": 7,
+              "Bowler": "Mahesh Gogineni",
+              "O": 3,
+              "M": 0,
+              "R": 21,
+              "W": 2,
+              "Os": 8,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 2,
+              "Eco": 7.00
+            }
+          ],
+          "to_bat": [],
+          "fall_of_wickets": [
+            {
+              "score": "7-1",
+              "player": "Krishna",
+              "over": 1.5
+            },
+            {
+              "score": "14-2",
+              "player": "Shivam",
+              "over": 3.1
+            },
+            {
+              "score": "38-3",
+              "player": "Kanishk",
+              "over": 5.5
+            },
+            {
+              "score": "43-4",
+              "player": "Dhruval Patel",
+              "over": 7.2
+            },
+            {
+              "score": "78-5",
+              "player": "Jaynish Patel",
+              "over": 13.0
+            },
+            {
+              "score": "84-6",
+              "player": "Rakesh",
+              "over": 13.3
+            },
+            {
+              "score": "115-7",
+              "player": "Sree K",
+              "over": 16.5
+            },
+            {
+              "score": "120-8",
+              "player": "jay",
+              "over": 18.5
+            },
+            {
+              "score": "121-9",
+              "player": "VAMSI REDDY NALLA",
+              "over": 19.1
+            },
+            {
+              "score": "123-10",
+              "player": "Krishna Chaitanya(KC)",
+              "over": 19.4
+            }
+          ]
+        },
+        {
+          "innings_number": 2,
+          "team": "Whonnock Warriors",
+          "captain": "Abhilash Reddy Gade",
+          "score": "124/5",
+          "overs": "18.2",
+          "batted": true,
+          "crr": "6.76",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Sharath Reddy Gade (RHB)",
+              "Status": "c †Shivam b Kanishk",
+              "R": 17,
+              "B": 13,
+              "M": 16,
+              "4s": 1,
+              "6s": 1,
+              "SR": 130.77
+            },
+            {
+              "No": 2,
+              "Batsman": "Abhilash Reddy Gade (c) (RHB)",
+              "Status": "c Sunith Raju b jay",
+              "R": 44,
+              "B": 41,
+              "M": 61,
+              "4s": 3,
+              "6s": 1,
+              "SR": 107.32
+            },
+            {
+              "No": 3,
+              "Batsman": "Ritesh Shinde (wk) (RHB)",
+              "Status": "b Kanishk",
+              "R": 0,
+              "B": 1,
+              "M": 1,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 4,
+              "Batsman": "Rahul (RHB)",
+              "Status": "run out Krishna",
+              "R": 0,
+              "B": 1,
+              "M": 6,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 5,
+              "Batsman": "Akshay Reddy Putta (RHB)",
+              "Status": "c Dhruval Patel b Sunith Raju",
+              "R": 9,
+              "B": 15,
+              "M": 15,
+              "4s": 1,
+              "6s": 0,
+              "SR": 60.00
+            },
+            {
+              "No": 6,
+              "Batsman": "Mahesh Gogineni (RHB)",
+              "Status": "not out",
+              "R": 21,
+              "B": 27,
+              "M": 36,
+              "4s": 0,
+              "6s": 0,
+              "SR": 77.78
+            },
+            {
+              "No": 7,
+              "Batsman": "Ankit Khanna (RHB)",
+              "Status": "not out",
+              "R": 14,
+              "B": 13,
+              "M": 15,
+              "4s": 1,
+              "6s": 0,
+              "SR": 107.69
+            }
+          ],
+          "extras": {
+            "total": 19,
+            "details": "wd 15, nb 1, b 3"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Sree K",
+              "O": 2,
+              "M": 0,
+              "R": 23,
+              "W": 0,
+              "Os": 4,
+              "4s": 1,
+              "6s": 1,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 11.50
+            },
+            {
+              "No": 2,
+              "Bowler": "Kanishk",
+              "O": 3,
+              "M": 0,
+              "R": 16,
+              "W": 2,
+              "Os": 10,
+              "4s": 1,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 5.33
+            },
+            {
+              "No": 3,
+              "Bowler": "Rakesh",
+              "O": 3,
+              "M": 0,
+              "R": 19,
+              "W": 0,
+              "Os": 10,
+              "4s": 2,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 6.33
+            },
+            {
+              "No": 4,
+              "Bowler": "jay",
+              "O": 4,
+              "M": 0,
+              "R": 12,
+              "W": 1,
+              "Os": 16,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 3.00
+            },
+            {
+              "No": 5,
+              "Bowler": "Sunith Raju",
+              "O": 1.2,
+              "M": 0,
+              "R": 10,
+              "W": 1,
+              "Os": 5,
+              "4s": 1,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 7.50
+            },
+            {
+              "No": 6,
+              "Bowler": "Krishna",
+              "O": 1,
+              "M": 0,
+              "R": 11,
+              "W": 0,
+              "Os": 2,
+              "4s": 0,
+              "6s": 1,
+              "WD": 1,
+              "NB": 1,
+              "Eco": 11.00
+            },
+            {
+              "No": 7,
+              "Bowler": "Krishna Chaitanya(KC)",
+              "O": 1,
+              "M": 0,
+              "R": 12,
+              "W": 0,
+              "Os": 2,
+              "4s": 1,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 12.00
+            },
+            {
+              "No": 8,
+              "Bowler": "VAMSI REDDY NALLA (c)",
+              "O": 2,
+              "M": 0,
+              "R": 10,
+              "W": 0,
+              "Os": 4,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 5.00
+            },
+            {
+              "No": 9,
+              "Bowler": "Dhruval Patel",
+              "O": 1,
+              "M": 0,
+              "R": 8,
+              "W": 0,
+              "Os": 1,
+              "4s": 0,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 8.00
+            }
+          ],
+          "to_bat": [
+            "Sudheer",
+            "Ram Malineni",
+            "Parth Patel",
+            "Raja Allam"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "33-1",
+              "player": "Sharath Reddy Gade",
+              "over": 3.4
+            },
+            {
+              "score": "33-2",
+              "player": "Ritesh Shinde",
+              "over": 3.5
+            },
+            {
+              "score": "40-3",
+              "player": "Rahul",
+              "over": 4.5
+            },
+            {
+              "score": "58-4",
+              "player": "Akshay Reddy Putta",
+              "over": 8.4
+            },
+            {
+              "score": "95-5",
+              "player": "Abhilash Reddy Gade",
+              "over": 14.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "MR150_Whonnock_Warriors_vs_Albion_Avengers_2024-06-02.pdf",
+      "match_details": {
+        "match_title": "Whonnock Warriors vs Albion Avengers",
+        "ground": "Selvey Park, Maple Ridge",
+        "date": "2024-06-02, 00:35 AM UTC",
+        "tournament": "MR150 CRICKET CHAMPIONSHIP - 2024 (League Matches)"
+      },
+      "match_result": {
+        "toss": "Albion Avengers opt to field",
+        "innings1_score": "Whonnock Warriors 111/9 (20.0 Ov)",
+        "innings2_score": "Albion Avengers 114/2 (16.3 Ov)",
+        "result": "Albion Avengers won by 8 wickets"
+      },
+      "best_performances": {
+        "batsmen": [
+          {
+            "player_name": "Daqoo M",
+            "R": 67,
+            "B": 51,
+            "4s": 3,
+            "6s": 1,
+            "SR": 131.37
+          },
+          {
+            "player_name": "Abhilash Reddy Gade",
+            "R": 36,
+            "B": 40,
+            "4s": 3,
+            "6s": 1,
+            "SR": 90.00
+          },
+          {
+            "player_name": "Ketan Chawda",
+            "R": 24,
+            "B": 36,
+            "4s": 0,
+            "6s": 0,
+            "SR": 66.67
+          }
+        ],
+        "bowlers": [
+          {
+            "player_name": "Srinivas",
+            "O": 3.0,
+            "M": 0,
+            "R": 14,
+            "W": 2,
+            "Eco": 4.67
+          },
+          {
+            "player_name": "Drona",
+            "O": 3.0,
+            "M": 0,
+            "R": 17,
+            "W": 2,
+            "Eco": 5.67
+          },
+          {
+            "player_name": "Sandeep Nimmagadda",
+            "O": 4.0,
+            "M": 0,
+            "R": 23,
+            "W": 2,
+            "Eco": 5.75
+          }
+        ]
+      },
+      "match_officials": [
+        {
+          "No": 1,
+          "Name": "Abhilash",
+          "Role": "Scorer"
+        },
+        {
+          "No": 2,
+          "Name": "Sudheer",
+          "Role": "Scorer"
+        },
+        {
+          "No": 3,
+          "Name": "Abhilash Reddy Gade (Whonnock Warriors)",
+          "Role": "Captain"
+        },
+        {
+          "No": 4,
+          "Name": "Vivek R (Albion Avengers)",
+          "Role": "Captain"
+        }
+      ],
+      "innings": [
+        {
+          "innings_number": 1,
+          "team": "Whonnock Warriors",
+          "captain": "Abhilash Reddy Gade",
+          "score": "111/9",
+          "overs": "20.0",
+          "batted": true,
+          "crr": "5.55",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Akshay Reddy Putta (RHB)",
+              "Status": "lbw b Vivek R",
+              "R": 0,
+              "B": 5,
+              "M": 3,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 2,
+              "Batsman": "Harshavardhan Reddy Bobba (RHB)",
+              "Status": "c Winston Garnepudi b Teja",
+              "R": 5,
+              "B": 6,
+              "M": 12,
+              "4s": 1,
+              "6s": 0,
+              "SR": 83.33
+            },
+            {
+              "No": 3,
+              "Batsman": "Sharath Reddy Gade (wk) (RHB)",
+              "Status": "run out Kalyan Varma Alluri / Ketan Chawda",
+              "R": 16,
+              "B": 10,
+              "M": 21,
+              "4s": 0,
+              "6s": 1,
+              "SR": 160.00
+            },
+            {
+              "No": 4,
+              "Batsman": "Mahesh Gogineni (RHB)",
+              "Status": "lbw b Sandeep Nimmagadda",
+              "R": 1,
+              "B": 3,
+              "M": 4,
+              "4s": 0,
+              "6s": 0,
+              "SR": 33.33
+            },
+            {
+              "No": 5,
+              "Batsman": "Ankit Khanna (RHB)",
+              "Status": "b Teja",
+              "R": 7,
+              "B": 13,
+              "M": 22,
+              "4s": 0,
+              "6s": 0,
+              "SR": 53.85
+            },
+            {
+              "No": 6,
+              "Batsman": "Abhilash Reddy Gade (c) (RHB)",
+              "Status": "lbw b Sandeep Nimmagadda",
+              "R": 36,
+              "B": 40,
+              "M": 42,
+              "4s": 3,
+              "6s": 1,
+              "SR": 90.00
+            },
+            {
+              "No": 7,
+              "Batsman": "Ritesh Shinde (RHB)",
+              "Status": "c Bhuvan b Winston Garnepudi",
+              "R": 8,
+              "B": 11,
+              "M": 13,
+              "4s": 0,
+              "6s": 0,
+              "SR": 72.73
+            },
+            {
+              "No": 8,
+              "Batsman": "Parth Patel (RHB)",
+              "Status": "b Srinivas",
+              "R": 5,
+              "B": 15,
+              "M": 19,
+              "4s": 0,
+              "6s": 0,
+              "SR": 33.33
+            },
+            {
+              "No": 9,
+              "Batsman": "DEEPAK CRIC CANADA (RHB)",
+              "Status": "b Srinivas",
+              "R": 3,
+              "B": 3,
+              "M": 2,
+              "4s": 0,
+              "6s": 0,
+              "SR": 100.00
+            },
+            {
+              "No": 10,
+              "Batsman": "Sudheer (RHB)",
+              "Status": "not out",
+              "R": 6,
+              "B": 11,
+              "M": 9,
+              "4s": 0,
+              "6s": 0,
+              "SR": 54.55
+            },
+            {
+              "No": 11,
+              "Batsman": "Raja Allam (RHB)",
+              "Status": "not out",
+              "R": 2,
+              "B": 4,
+              "M": 5,
+              "4s": 0,
+              "6s": 0,
+              "SR": 50.00
+            }
+          ],
+          "extras": {
+            "total": 22,
+            "details": "wd 19, nb 1, b 2"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Vivek R (c)",
+              "O": 4,
+              "M": 0,
+              "R": 10,
+              "W": 1,
+              "Os": 19,
+              "4s": 0,
+              "6s": 0,
+              "WD": 4,
+              "NB": 0,
+              "Eco": 2.50
+            },
+            {
+              "No": 2,
+              "Bowler": "Sandeep Nimmagadda",
+              "O": 4,
+              "M": 0,
+              "R": 23,
+              "W": 2,
+              "Os": 13,
+              "4s": 0,
+              "6s": 1,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 5.75
+            },
+            {
+              "No": 3,
+              "Bowler": "Teja",
+              "O": 3,
+              "M": 0,
+              "R": 17,
+              "W": 2,
+              "Os": 8,
+              "4s": 1,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 5.67
+            },
+            {
+              "No": 4,
+              "Bowler": "Naveen Narpina",
+              "O": 3,
+              "M": 0,
+              "R": 25,
+              "W": 0,
+              "Os": 4,
+              "4s": 1,
+              "6s": 0,
+              "WD": 6,
+              "NB": 1,
+              "Eco": 8.33
+            },
+            {
+              "No": 5,
+              "Bowler": "Winston Garnepudi",
+              "O": 2,
+              "M": 0,
+              "R": 16,
+              "W": 1,
+              "Os": 6,
+              "4s": 1,
+              "6s": 1,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 8.00
+            },
+            {
+              "No": 6,
+              "Bowler": "Srinivas",
+              "O": 3,
+              "M": 0,
+              "R": 14,
+              "W": 2,
+              "Os": 10,
+              "4s": 1,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 4.67
+            },
+            {
+              "No": 7,
+              "Bowler": "Nishu",
+              "O": 1,
+              "M": 0,
+              "R": 4,
+              "W": 0,
+              "Os": 3,
+              "4s": 0,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 4.00
+            }
+          ],
+          "to_bat": [
+            "Raghu"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "4-1",
+              "player": "Akshay Reddy Putta",
+              "over": 0.5
+            },
+            {
+              "score": "23-2",
+              "player": "Harshavardhan Reddy Bobba",
+              "over": 2.3
+            },
+            {
+              "score": "27-3",
+              "player": "Mahesh Gogineni",
+              "over": 3.1
+            },
+            {
+              "score": "32-4",
+              "player": "Sharath Reddy Gade",
+              "over": 4.4
+            },
+            {
+              "score": "56-5",
+              "player": "Ankit Khanna",
+              "over": 8.5
+            },
+            {
+              "score": "79-6",
+              "player": "Ritesh Shinde",
+              "over": 12.3
+            },
+            {
+              "score": "97-7",
+              "player": "Abhilash Reddy Gade",
+              "over": 16.3
+            },
+            {
+              "score": "100-8",
+              "player": "DEEPAK CRIC CANADA",
+              "over": 17.1
+            },
+            {
+              "score": "103-9",
+              "player": "Parth Patel",
+              "over": 18.0
+            }
+          ]
+        },
+        {
+          "innings_number": 2,
+          "team": "Albion Avengers",
+          "captain": "Vivek R",
+          "score": "114/2",
+          "overs": "16.3",
+          "batted": true,
+          "crr": "6.91",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Bhuvan (RHB)",
+              "Status": "b Harshavardhan Reddy Bobba",
+              "R": 3,
+              "B": 11,
+              "M": 16,
+              "4s": 0,
+              "6s": 0,
+              "SR": 27.27
+            },
+            {
+              "No": 2,
+              "Batsman": "Bheemla Nayak (RHB)",
+              "Status": "not out",
+              "R": 67,
+              "B": 51,
+              "M": 73,
+              "4s": 3,
+              "6s": 1,
+              "SR": 131.37
+            },
+            {
+              "No": 3,
+              "Batsman": "Ketan Chawda (RHB)",
+              "Status": "c Harshavardhan Reddy Bobba b Raja Allam",
+              "R": 24,
+              "B": 36,
+              "M": 55,
+              "4s": 0,
+              "6s": 0,
+              "SR": 66.67
+            },
+            {
+              "No": 4,
+              "Batsman": "Nishu (RHB)",
+              "Status": "not out",
+              "R": 6,
+              "B": 1,
+              "M": 1,
+              "4s": 0,
+              "6s": 1,
+              "SR": 600.00
+            }
+          ],
+          "extras": {
+            "total": 14,
+            "details": "wd 14"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Sudheer",
+              "O": 3,
+              "M": 0,
+              "R": 21,
+              "W": 0,
+              "Os": 8,
+              "4s": 1,
+              "6s": 0,
+              "WD": 5,
+              "NB": 0,
+              "Eco": 7.00
+            },
+            {
+              "No": 2,
+              "Bowler": "Harshavardhan Reddy Bobba",
+              "O": 3,
+              "M": 0,
+              "R": 20,
+              "W": 1,
+              "Os": 9,
+              "4s": 1,
+              "6s": 0,
+              "WD": 6,
+              "NB": 0,
+              "Eco": 6.67
+            },
+            {
+              "No": 3,
+              "Bowler": "Raghu",
+              "O": 2,
+              "M": 0,
+              "R": 17,
+              "W": 0,
+              "Os": 2,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 8.50
+            },
+            {
+              "No": 4,
+              "Bowler": "Raja Allam",
+              "O": 3.3,
+              "M": 0,
+              "R": 24,
+              "W": 1,
+              "Os": 11,
+              "4s": 0,
+              "6s": 2,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 6.86
+            },
+            {
+              "No": 5,
+              "Bowler": "Ankit Khanna",
+              "O": 2,
+              "M": 0,
+              "R": 9,
+              "W": 0,
+              "Os": 4,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 4.50
+            },
+            {
+              "No": 6,
+              "Bowler": "DEEPAK CRIC CANADA",
+              "O": 3,
+              "M": 0,
+              "R": 23,
+              "W": 0,
+              "Os": 5,
+              "4s": 0,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 7.67
+            }
+          ],
+          "to_bat": [
+            "Sandeep Nimmagadda",
+            "Srinivas",
+            "Vivek R (c)",
+            "Dsp",
+            "Winston Garnepudi",
+            "Kalyan Varma Alluri",
+            "Naveen Narpina",
+            "Drona"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "29-1",
+              "player": "Bhuvan",
+              "over": 3.5
+            },
+            {
+              "score": "108-2",
+              "player": "Ketan Chawda",
+              "over": 16.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "MR150_Maple_Mavericks_vs_Whonnock_Warriors_2024-07-13.pdf",
+      "match_details": {
+        "match_title": "Maple Mavericks vs Whonnock Warriors",
+        "ground": "Selvey Park, Maple Ridge",
+        "date": "2024-07-13, 00:42 AM UTC",
+        "tournament": "MR150 CRICKET CHAMPIONSHIP - 2024 (League Matches)"
+      },
+      "match_result": {
+        "toss": "Maple Mavericks opt to bat",
+        "innings1_score": "Maple Mavericks 126/6 (20.0 Ov)",
+        "innings2_score": "Whonnock Warriors 102/10 (18.3 Ov)",
+        "result": "Maple Mavericks won by 24 runs"
+      },
+      "best_performances": {
+        "batsmen": [
+          {
+            "player_name": "Dhruval Patel",
+            "R": 70,
+            "B": 47,
+            "4s": 3,
+            "6s": 3,
+            "SR": 148.94
+          },
+          {
+            "player_name": "Harshavardhan Reddy Bobba",
+            "R": 24,
+            "B": 21,
+            "4s": 2,
+            "6s": 1,
+            "SR": 114.29
+          },
+          {
+            "player_name": "Jaynish Patel",
+            "R": 24,
+            "B": 30,
+            "4s": 1,
+            "6s": 0,
+            "SR": 80.00
+          }
+        ],
+        "bowlers": [
+          {
+            "player_name": "Krishna Chaitanya(kc)",
+            "O": 4.0,
+            "M": 0,
+            "R": 14,
+            "W": 4,
+            "Eco": 3.50
+          },
+          {
+            "player_name": "Jay",
+            "O": 4.0,
+            "M": 0,
+            "R": 15,
+            "W": 3,
+            "Eco": 3.75
+          },
+          {
+            "player_name": "Raja Allam",
+            "O": 4.0,
+            "M": 0,
+            "R": 19,
+            "W": 3,
+            "Eco": 4.75
+          }
+        ]
+      },
+      "match_officials": [
+        {
+          "No": 1,
+          "Name": "Abhilash",
+          "Role": "Scorer"
+        },
+        {
+          "No": 2,
+          "Name": "VAMSI REDDY NALLA",
+          "Role": "Scorer"
+        },
+        {
+          "No": 3,
+          "Name": "Vamsi Reddy Nalla (Maple Mavericks)",
+          "Role": "Captain"
+        },
+        {
+          "No": 4,
+          "Name": "Abhilash Reddy Gade (Whonnock Warriors)",
+          "Role": "Captain"
+        }
+      ],
+      "innings": [
+        {
+          "innings_number": 1,
+          "team": "Maple Mavericks",
+          "captain": "Vamsi Reddy Nalla",
+          "score": "126/6",
+          "overs": "20.0",
+          "batted": true,
+          "crr": "6.30",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Kanishk (RHB)",
+              "Status": "c Abhilash Reddy Gade b Harshavardhan Reddy Bobba",
+              "R": 6,
+              "B": 6,
+              "M": 7,
+              "4s": 1,
+              "6s": 0,
+              "SR": 100.00
+            },
+            {
+              "No": 2,
+              "Batsman": "Shivam (wk) (LHB)",
+              "Status": "c Harshavardhan Reddy Bobba b Raja Allam",
+              "R": 11,
+              "B": 13,
+              "M": 16,
+              "4s": 0,
+              "6s": 1,
+              "SR": 84.62
+            },
+            {
+              "No": 3,
+              "Batsman": "Krishna (RHB)",
+              "Status": "b Harshavardhan Reddy Bobba",
+              "R": 4,
+              "B": 10,
+              "M": 14,
+              "4s": 0,
+              "6s": 0,
+              "SR": 40.00
+            },
+            {
+              "No": 4,
+              "Batsman": "Dhruval Patel (LHB)",
+              "Status": "not out",
+              "R": 70,
+              "B": 47,
+              "M": 70,
+              "4s": 3,
+              "6s": 3,
+              "SR": 148.94
+            },
+            {
+              "No": 5,
+              "Batsman": "Rakesh (RHB)",
+              "Status": "c Ankit Khanna b Raja Allam",
+              "R": 0,
+              "B": 3,
+              "M": 3,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 6,
+              "Batsman": "Jaynish Patel (RHB)",
+              "Status": "b Raja Allam",
+              "R": 24,
+              "B": 30,
+              "M": 43,
+              "4s": 1,
+              "6s": 0,
+              "SR": 80.00
+            },
+            {
+              "No": 7,
+              "Batsman": "VAMSI REDDY NALLA (c) (RHB)",
+              "Status": "c Mahesh Gogineni b Sudheer",
+              "R": 7,
+              "B": 9,
+              "M": 13,
+              "4s": 0,
+              "6s": 0,
+              "SR": 77.78
+            },
+            {
+              "No": 8,
+              "Batsman": "jay (RHB)",
+              "Status": "not out",
+              "R": 1,
+              "B": 2,
+              "M": 2,
+              "4s": 0,
+              "6s": 0,
+              "SR": 50.00
+            }
+          ],
+          "extras": {
+            "total": 3,
+            "details": "wd 3"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Sudheer",
+              "O": 4,
+              "M": 0,
+              "R": 23,
+              "W": 1,
+              "Os": 11,
+              "4s": 1,
+              "6s": 1,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 5.75
+            },
+            {
+              "No": 2,
+              "Bowler": "Harshavardhan Reddy Bobba",
+              "O": 4,
+              "M": 0,
+              "R": 23,
+              "W": 2,
+              "Os": 11,
+              "4s": 2,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 5.75
+            },
+            {
+              "No": 3,
+              "Bowler": "Raja Allam",
+              "O": 4,
+              "M": 0,
+              "R": 19,
+              "W": 3,
+              "Os": 13,
+              "4s": 0,
+              "6s": 1,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 4.75
+            },
+            {
+              "No": 4,
+              "Bowler": "Ankit Khanna",
+              "O": 2,
+              "M": 0,
+              "R": 10,
+              "W": 0,
+              "Os": 5,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 5.00
+            },
+            {
+              "No": 5,
+              "Bowler": "Akshay Reddy Putta",
+              "O": 1,
+              "M": 0,
+              "R": 8,
+              "W": 0,
+              "Os": 1,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 8.00
+            },
+            {
+              "No": 6,
+              "Bowler": "Raghu",
+              "O": 2,
+              "M": 0,
+              "R": 15,
+              "W": 0,
+              "Os": 5,
+              "4s": 1,
+              "6s": 1,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 7.50
+            },
+            {
+              "No": 7,
+              "Bowler": "Mahesh Gogineni",
+              "O": 2,
+              "M": 0,
+              "R": 20,
+              "W": 0,
+              "Os": 2,
+              "4s": 0,
+              "6s": 1,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 10.00
+            },
+            {
+              "No": 8,
+              "Bowler": "Dileep Reddy Vatti",
+              "O": 1,
+              "M": 0,
+              "R": 8,
+              "W": 0,
+              "Os": 2,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 8.00
+            }
+          ],
+          "to_bat": [
+            "Krishna Chaitanya(kc)",
+            "Santhosh Kotagiri",
+            "Anil Mcc"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "15-1",
+              "player": "Kanishk",
+              "over": 2.0
+            },
+            {
+              "score": "21-2",
+              "player": "Shivam",
+              "over": 4.2
+            },
+            {
+              "score": "26-3",
+              "player": "Krishna",
+              "over": 6.0
+            },
+            {
+              "score": "27-4",
+              "player": "Rakesh",
+              "over": 6.5
+            },
+            {
+              "score": "98-5",
+              "player": "Jaynish Patel",
+              "over": 16.1
+            },
+            {
+              "score": "119-6",
+              "player": "VAMSI REDDY NALLA",
+              "over": 19.2
+            }
+          ]
+        },
+        {
+          "innings_number": 2,
+          "team": "Whonnock Warriors",
+          "captain": "Abhilash Reddy Gade",
+          "score": "102/10",
+          "overs": "18.3",
+          "batted": true,
+          "crr": "5.51",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Sharath Reddy Gade (wk) (RHB)",
+              "Status": "c Santhosh Kotagiri b Krishna Chaitanya(KC)",
+              "R": 10,
+              "B": 12,
+              "M": 19,
+              "4s": 1,
+              "6s": 0,
+              "SR": 83.33
+            },
+            {
+              "No": 2,
+              "Batsman": "Akshay Reddy Putta (RHB)",
+              "Status": "c Dhruval Patel b Krishna Chaitanya(KC)",
+              "R": 1,
+              "B": 2,
+              "M": 6,
+              "4s": 0,
+              "6s": 0,
+              "SR": 50.00
+            },
+            {
+              "No": 3,
+              "Batsman": "Abhilash Reddy Gade (c) (RHB)",
+              "Status": "c jay b Krishna Chaitanya(KC)",
+              "R": 11,
+              "B": 16,
+              "M": 20,
+              "4s": 1,
+              "6s": 0,
+              "SR": 68.75
+            },
+            {
+              "No": 4,
+              "Batsman": "Rahul (RHB)",
+              "Status": "run out VAMSI REDDY NALLA",
+              "R": 23,
+              "B": 20,
+              "M": 40,
+              "4s": 1,
+              "6s": 0,
+              "SR": 115.00
+            },
+            {
+              "No": 5,
+              "Batsman": "Raja Allam (RHB)",
+              "Status": "lbw b Krishna Chaitanya(KC)",
+              "R": 7,
+              "B": 10,
+              "M": 9,
+              "4s": 0,
+              "6s": 0,
+              "SR": 70.00
+            },
+            {
+              "No": 6,
+              "Batsman": "Ankit Khanna (RHB)",
+              "Status": "c Santhosh Kotagiri b jay",
+              "R": 11,
+              "B": 16,
+              "M": 28,
+              "4s": 0,
+              "6s": 0,
+              "SR": 68.75
+            },
+            {
+              "No": 7,
+              "Batsman": "Harshavardhan Reddy Bobba (RHB)",
+              "Status": "c Krishna b Rakesh",
+              "R": 24,
+              "B": 21,
+              "M": 33,
+              "4s": 2,
+              "6s": 1,
+              "SR": 114.29
+            },
+            {
+              "No": 8,
+              "Batsman": "Mahesh Gogineni (RHB)",
+              "Status": "c Shivam b jay",
+              "R": 4,
+              "B": 2,
+              "M": 2,
+              "4s": 1,
+              "6s": 0,
+              "SR": 200.00
+            },
+            {
+              "No": 9,
+              "Batsman": "Sudheer (RHB)",
+              "Status": "b jay",
+              "R": 2,
+              "B": 10,
+              "M": 10,
+              "4s": 0,
+              "6s": 0,
+              "SR": 20.00
+            },
+            {
+              "No": 10,
+              "Batsman": "Dileep Reddy Vatti (RHB)",
+              "Status": "lbw b Krishna",
+              "R": 0,
+              "B": 1,
+              "M": 4,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 11,
+              "Batsman": "Raghu (RHB)",
+              "Status": "not out",
+              "R": 1,
+              "B": 1,
+              "M": 8,
+              "4s": 0,
+              "6s": 0,
+              "SR": 100.00
+            }
+          ],
+          "extras": {
+            "total": 8,
+            "details": "wd 8"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "VAMSI REDDY NALLA (c)",
+              "O": 4,
+              "M": 0,
+              "R": 23,
+              "W": 0,
+              "Os": 10,
+              "4s": 2,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 5.75
+            },
+            {
+              "No": 2,
+              "Bowler": "Krishna Chaitanya(KC)",
+              "O": 4,
+              "M": 0,
+              "R": 14,
+              "W": 4,
+              "Os": 14,
+              "4s": 0,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 3.50
+            },
+            {
+              "No": 3,
+              "Bowler": "Rakesh",
+              "O": 2.3,
+              "M": 0,
+              "R": 14,
+              "W": 1,
+              "Os": 10,
+              "4s": 2,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 5.60
+            },
+            {
+              "No": 4,
+              "Bowler": "jay",
+              "O": 4,
+              "M": 0,
+              "R": 15,
+              "W": 3,
+              "Os": 13,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 3.75
+            },
+            {
+              "No": 5,
+              "Bowler": "Kanishk",
+              "O": 1,
+              "M": 0,
+              "R": 6,
+              "W": 0,
+              "Os": 0,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 6.00
+            },
+            {
+              "No": 6,
+              "Bowler": "Krishna",
+              "O": 3,
+              "M": 0,
+              "R": 30,
+              "W": 1,
+              "Os": 5,
+              "4s": 2,
+              "6s": 1,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 10.00
+            }
+          ],
+          "to_bat": [],
+          "fall_of_wickets": [
+            {
+              "score": "8-1",
+              "player": "Akshay Reddy Putta",
+              "over": 1.1
+            },
+            {
+              "score": "21-2",
+              "player": "Sharath Reddy Gade",
+              "over": 4.0
+            },
+            {
+              "score": "29-3",
+              "player": "Abhilash Reddy Gade",
+              "over": 5.3
+            },
+            {
+              "score": "39-4",
+              "player": "Raja Allam",
+              "over": 7.5
+            },
+            {
+              "score": "63-5",
+              "player": "Rahul",
+              "over": 11.5
+            },
+            {
+              "score": "71-6",
+              "player": "Ankit Khanna",
+              "over": 13.1
+            },
+            {
+              "score": "75-7",
+              "player": "Mahesh Gogineni",
+              "over": 13.3
+            },
+            {
+              "score": "83-8",
+              "player": "Sudheer",
+              "over": 16.0
+            },
+            {
+              "score": "90-9",
+              "player": "Dileep Reddy Vatti",
+              "over": 16.4
+            },
+            {
+              "score": "102-10",
+              "player": "Harshavardhan Reddy Bobba",
+              "over": 18.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "MR150_Cottonwood_Challengers_vs_Whonnock_Warriors_2024-08-16.pdf",
+      "match_details": {
+        "match_title": "Cottonwood Challengers vs Whonnock Warriors",
+        "ground": "Minoru, Richmond (British Columbia)",
+        "date": "2024-08-16, 00:41 AM UTC",
+        "tournament": "MR150 CRICKET CHAMPIONSHIP - 2024 (League Matches)"
+      },
+      "match_result": {
+        "toss": "Whonnock Warriors opt to field",
+        "innings1_score": "Cottonwood Challengers 135/7 (20.0 Ov)",
+        "innings2_score": "Whonnock Warriors 137/4 (17.0 Ov)",
+        "result": "Whonnock Warriors won by 6 wickets"
+      },
+      "best_performances": {
+        "batsmen": [
+          {
+            "player_name": "Jobanpreet Josan",
+            "R": 48,
+            "B": 46,
+            "4s": 3,
+            "6s": 1,
+            "SR": 104.35
+          },
+          {
+            "player_name": "Harshavardhan Reddy Bobba",
+            "R": 41,
+            "B": 25,
+            "4s": 5,
+            "6s": 2,
+            "SR": 164.00
+          },
+          {
+            "player_name": "Rahul",
+            "R": 27,
+            "B": 33,
+            "4s": 3,
+            "6s": 0,
+            "SR": 81.82
+          }
+        ],
+        "bowlers": [
+          {
+            "player_name": "Harshavardhan Reddy Bobba",
+            "O": 1.0,
+            "M": 0,
+            "R": 4,
+            "W": 2,
+            "Eco": 4.00
+          },
+          {
+            "player_name": "Shivam Patel",
+            "O": 4.0,
+            "M": 0,
+            "R": 17,
+            "W": 2,
+            "Eco": 4.25
+          },
+          {
+            "player_name": "Sudheer",
+            "O": 4.0,
+            "M": 0,
+            "R": 23,
+            "W": 2,
+            "Eco": 5.75
+          }
+        ]
+      },
+      "match_officials": [
+        {
+          "No": 1,
+          "Name": "Abhilash",
+          "Role": "Scorer"
+        },
+        {
+          "No": 2,
+          "Name": "Jayan",
+          "Role": "Scorer"
+        },
+        {
+          "No": 3,
+          "Name": "Evyan (Cottonwood Challengers)",
+          "Role": "Captain"
+        },
+        {
+          "No": 4,
+          "Name": "Abhilash Reddy Gade (Whonnock Warriors)",
+          "Role": "Captain"
+        }
+      ],
+      "innings": [
+        {
+          "innings_number": 1,
+          "team": "Cottonwood Challengers",
+          "captain": "Evyan",
+          "score": "135/7",
+          "overs": "20.0",
+          "batted": true,
+          "crr": "6.75",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "RANJOT SINGH (RHB)",
+              "Status": "c Harshavardhan Reddy Bobba b Sudheer",
+              "R": 9,
+              "B": 11,
+              "M": 14,
+              "4s": 1,
+              "6s": 0,
+              "SR": 81.82
+            },
+            {
+              "No": 2,
+              "Batsman": "Harmeet Singh (RHB)",
+              "Status": "c Parth Patel b Shiva Srikumar",
+              "R": 13,
+              "B": 9,
+              "M": 19,
+              "4s": 2,
+              "6s": 0,
+              "SR": 144.44
+            },
+            {
+              "No": 3,
+              "Batsman": "Maulik Mehta (RHB)",
+              "Status": "c †Sharath Reddy Gade b DEEPAK CRIC CANADA",
+              "R": 15,
+              "B": 20,
+              "M": 27,
+              "4s": 1,
+              "6s": 0,
+              "SR": 75.00
+            },
+            {
+              "No": 4,
+              "Batsman": "Jobanpreet Josan (RHB)",
+              "Status": "b Sudheer",
+              "R": 48,
+              "B": 46,
+              "M": 61,
+              "4s": 3,
+              "6s": 1,
+              "SR": 104.35
+            },
+            {
+              "No": 5,
+              "Batsman": "Prashant Mukherjee MCC (RHB)",
+              "Status": "c&b Harshavardhan Reddy Bobba",
+              "R": 11,
+              "B": 24,
+              "M": 28,
+              "4s": 0,
+              "6s": 0,
+              "SR": 45.83
+            },
+            {
+              "No": 6,
+              "Batsman": "Karmvir MCC (RHB)",
+              "Status": "b Harshavardhan Reddy Bobba",
+              "R": 0,
+              "B": 1,
+              "M": 1,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 7,
+              "Batsman": "Evyan (c) (RHB)",
+              "Status": "not out",
+              "R": 18,
+              "B": 9,
+              "M": 13,
+              "4s": 0,
+              "6s": 1,
+              "SR": 200.00
+            },
+            {
+              "No": 8,
+              "Batsman": "Yash Trivedi (LHB)",
+              "Status": "run out Harshavardhan Reddy Bobba / Sudheer",
+              "R": 1,
+              "B": 1,
+              "M": 2,
+              "4s": 0,
+              "6s": 0,
+              "SR": 100.00
+            },
+            {
+              "No": 9,
+              "Batsman": "Shivam Patel (RHB)",
+              "Status": "not out",
+              "R": 0,
+              "B": 0,
+              "M": 1,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            }
+          ],
+          "extras": {
+            "total": 20,
+            "details": "wd 12, lb 6, nb 1, b 1"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Sudheer",
+              "O": 4,
+              "M": 0,
+              "R": 23,
+              "W": 2,
+              "Os": 12,
+              "4s": 0,
+              "6s": 1,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 5.75
+            },
+            {
+              "No": 2,
+              "Bowler": "Shiva Srikumar",
+              "O": 4,
+              "M": 0,
+              "R": 29,
+              "W": 1,
+              "Os": 11,
+              "4s": 3,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 7.25
+            },
+            {
+              "No": 3,
+              "Bowler": "Ram Malineni",
+              "O": 2,
+              "M": 0,
+              "R": 14,
+              "W": 0,
+              "Os": 5,
+              "4s": 2,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 7.00
+            },
+            {
+              "No": 4,
+              "Bowler": "DEEPAK CRIC CANADA",
+              "O": 4,
+              "M": 0,
+              "R": 27,
+              "W": 1,
+              "Os": 10,
+              "4s": 1,
+              "6s": 1,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 6.75
+            },
+            {
+              "No": 5,
+              "Bowler": "Mahesh Gogineni",
+              "O": 3,
+              "M": 0,
+              "R": 14,
+              "W": 0,
+              "Os": 7,
+              "4s": 0,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 4.67
+            },
+            {
+              "No": 6,
+              "Bowler": "Raghu",
+              "O": 2,
+              "M": 0,
+              "R": 17,
+              "W": 0,
+              "Os": 6,
+              "4s": 2,
+              "6s": 0,
+              "WD": 1,
+              "NB": 1,
+              "Eco": 8.50
+            },
+            {
+              "No": 7,
+              "Bowler": "Harshavardhan Reddy Bobba",
+              "O": 1,
+              "M": 0,
+              "R": 4,
+              "W": 2,
+              "Os": 2,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 4.00
+            }
+          ],
+          "to_bat": [
+            "Arvinth",
+            "Nikhil"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "23-1",
+              "player": "RANJOT SINGH",
+              "over": 2.3
+            },
+            {
+              "score": "27-2",
+              "player": "Harmeet Singh",
+              "over": 3.5
+            },
+            {
+              "score": "60-3",
+              "player": "Maulik Mehta",
+              "over": 9.4
+            },
+            {
+              "score": "106-4",
+              "player": "Prashant Mukherjee MCC",
+              "over": 16.4
+            },
+            {
+              "score": "106-5",
+              "player": "Karmvir MCC",
+              "over": 16.5
+            },
+            {
+              "score": "123-6",
+              "player": "Jobanpreet Josan",
+              "over": 19.1
+            },
+            {
+              "score": "125-7",
+              "player": "Yash Trivedi",
+              "over": 19.3
+            }
+          ]
+        },
+        {
+          "innings_number": 2,
+          "team": "Whonnock Warriors",
+          "captain": "Abhilash Reddy Gade",
+          "score": "137/4",
+          "overs": "17.0",
+          "batted": true,
+          "crr": "8.06",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Sharath Reddy Gade (wk) (RHB)",
+              "Status": "c Karmvir MCC b Shivam Patel",
+              "R": 22,
+              "B": 16,
+              "M": 23,
+              "4s": 4,
+              "6s": 0,
+              "SR": 137.50
+            },
+            {
+              "No": 2,
+              "Batsman": "Abhilash Reddy Gade (c) (RHB)",
+              "Status": "b Karmvir MCC",
+              "R": 6,
+              "B": 5,
+              "M": 8,
+              "4s": 1,
+              "6s": 0,
+              "SR": 120.00
+            },
+            {
+              "No": 3,
+              "Batsman": "Akshay Reddy Putta (RHB)",
+              "Status": "c Maulik Mehta b Shivam Patel",
+              "R": 11,
+              "B": 16,
+              "M": 22,
+              "4s": 1,
+              "6s": 0,
+              "SR": 68.75
+            },
+            {
+              "No": 4,
+              "Batsman": "Rahul (RHB)",
+              "Status": "not out",
+              "R": 27,
+              "B": 33,
+              "M": 41,
+              "4s": 3,
+              "6s": 0,
+              "SR": 81.82
+            },
+            {
+              "No": 5,
+              "Batsman": "Harshavardhan Reddy Bobba (RHB)",
+              "Status": "c Nikhil b Arvinth",
+              "R": 41,
+              "B": 25,
+              "M": 23,
+              "4s": 5,
+              "6s": 2,
+              "SR": 164.00
+            },
+            {
+              "No": 6,
+              "Batsman": "Mahesh Gogineni (RHB)",
+              "Status": "not out",
+              "R": 14,
+              "B": 9,
+              "M": 11,
+              "4s": 2,
+              "6s": 0,
+              "SR": 155.56
+            }
+          ],
+          "extras": {
+            "total": 16,
+            "details": "wd 12, nb 2, b 2"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Evyan (c)",
+              "O": 4,
+              "M": 0,
+              "R": 43,
+              "W": 0,
+              "Os": 8,
+              "4s": 6,
+              "6s": 0,
+              "WD": 3,
+              "NB": 2,
+              "Eco": 10.75
+            },
+            {
+              "No": 2,
+              "Bowler": "Karmvir MCC",
+              "O": 3,
+              "M": 0,
+              "R": 18,
+              "W": 1,
+              "Os": 11,
+              "4s": 3,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 6.00
+            },
+            {
+              "No": 3,
+              "Bowler": "Shivam Patel",
+              "O": 4,
+              "M": 0,
+              "R": 17,
+              "W": 2,
+              "Os": 13,
+              "4s": 2,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 4.25
+            },
+            {
+              "No": 4,
+              "Bowler": "Yash Trivedi",
+              "O": 2,
+              "M": 0,
+              "R": 17,
+              "W": 0,
+              "Os": 4,
+              "4s": 1,
+              "6s": 1,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 8.50
+            },
+            {
+              "No": 5,
+              "Bowler": "Arvinth",
+              "O": 2,
+              "M": 0,
+              "R": 19,
+              "W": 1,
+              "Os": 6,
+              "4s": 2,
+              "6s": 1,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 9.50
+            },
+            {
+              "No": 6,
+              "Bowler": "Nikhil",
+              "O": 1,
+              "M": 0,
+              "R": 13,
+              "W": 0,
+              "Os": 1,
+              "4s": 2,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 13.00
+            },
+            {
+              "No": 7,
+              "Bowler": "Jobanpreet Josan",
+              "O": 1,
+              "M": 0,
+              "R": 8,
+              "W": 0,
+              "Os": 3,
+              "4s": 1,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 8.00
+            }
+          ],
+          "to_bat": [
+            "Shiva Srikumar",
+            "Sudheer",
+            "Ram Malineni",
+            "Parth Patel",
+            "Raghu",
+            "Deepak Cric Canada"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "15-1",
+              "player": "Abhilash Reddy Gade",
+              "over": 1.5
+            },
+            {
+              "score": "39-2",
+              "player": "Sharath Reddy Gade",
+              "over": 5.0
+            },
+            {
+              "score": "44-3",
+              "player": "Akshay Reddy Putta",
+              "over": 6.2
+            },
+            {
+              "score": "105-4",
+              "player": "Harshavardhan Reddy Bobba",
+              "over": 13.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "MR150_Whonnock_Warriors_vs_Albion_Avengers_2024-07-21.pdf",
+      "match_details": {
+        "match_title": "Whonnock Warriors vs Albion Avengers",
+        "ground": "Selvey Park, Maple Ridge",
+        "date": "2024-07-21, 00:45 AM UTC",
+        "tournament": "MR150 CRICKET CHAMPIONSHIP - 2024 (League Matches)"
+      },
+      "match_result": {
+        "toss": "Whonnock Warriors opt to bat",
+        "innings1_score": "Whonnock Warriors 121/10 (19.1 Ov)",
+        "innings2_score": "Albion Avengers 122/1 (16.4 Ov)",
+        "result": "Albion Avengers won by 9 wickets"
+      },
+      "best_performances": {
+        "batsmen": [
+          {
+            "player_name": "Ketan Chawda",
+            "R": 46,
+            "B": 38,
+            "4s": 4,
+            "6s": 2,
+            "SR": 121.05
+          },
+          {
+            "player_name": "Srikanth Thota",
+            "R": 38,
+            "B": 35,
+            "4s": 3,
+            "6s": 0,
+            "SR": 108.57
+          },
+          {
+            "player_name": "Akshay Reddy Putta",
+            "R": 38,
+            "B": 38,
+            "4s": 4,
+            "6s": 0,
+            "SR": 100.00
+          }
+        ],
+        "bowlers": [
+          {
+            "player_name": "Vivek R",
+            "O": 4.0,
+            "M": 0,
+            "R": 18,
+            "W": 3,
+            "Eco": 4.50
+          },
+          {
+            "player_name": "Sampath Chowdary Nimmagadda",
+            "O": 4.0,
+            "M": 0,
+            "R": 27,
+            "W": 3,
+            "Eco": 6.75
+          },
+          {
+            "player_name": "Naveen Narpina",
+            "O": 4.0,
+            "M": 0,
+            "R": 24,
+            "W": 2,
+            "Eco": 6.00
+          }
+        ]
+      },
+      "match_officials": [
+        {
+          "No": 1,
+          "Name": "Abhilash",
+          "Role": "Scorer"
+        },
+        {
+          "No": 2,
+          "Name": "Sudheer",
+          "Role": "Scorer"
+        },
+        {
+          "No": 3,
+          "Name": "Abhilash Reddy Gade (Whonnock Warriors)",
+          "Role": "Captain"
+        },
+        {
+          "No": 4,
+          "Name": "Vivek R (Albion Avengers)",
+          "Role": "Captain"
+        }
+      ],
+      "innings": [
+        {
+          "innings_number": 1,
+          "team": "Whonnock Warriors",
+          "captain": "Abhilash Reddy Gade",
+          "score": "121/10",
+          "overs": "19.1",
+          "batted": true,
+          "crr": "6.31",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Sharath Reddy Gade (RHB)",
+              "Status": "c Sampath Chowdary Nimmagadda b Naveen Narpina",
+              "R": 30,
+              "B": 31,
+              "M": 44,
+              "4s": 4,
+              "6s": 0,
+              "SR": 96.77
+            },
+            {
+              "No": 2,
+              "Batsman": "Abhilash Reddy Gade (c) (RHB)",
+              "Status": "b Sampath Chowdary Nimmagadda",
+              "R": 19,
+              "B": 11,
+              "M": 20,
+              "4s": 3,
+              "6s": 0,
+              "SR": 172.73
+            },
+            {
+              "No": 3,
+              "Batsman": "Akshay Reddy Putta (RHB)",
+              "Status": "st †Ketan Chawda b Vivek R",
+              "R": 38,
+              "B": 38,
+              "M": 66,
+              "4s": 4,
+              "6s": 0,
+              "SR": 100.00
+            },
+            {
+              "No": 4,
+              "Batsman": "Rahul (RHB)",
+              "Status": "c Sandeep Nimmagadda b Winston Garnepudi",
+              "R": 1,
+              "B": 2,
+              "M": 4,
+              "4s": 0,
+              "6s": 0,
+              "SR": 50.00
+            },
+            {
+              "No": 5,
+              "Batsman": "Ritesh Shinde (wk) (RHB)",
+              "Status": "lbw b Naveen Narpina",
+              "R": 2,
+              "B": 6,
+              "M": 4,
+              "4s": 0,
+              "6s": 0,
+              "SR": 33.33
+            },
+            {
+              "No": 6,
+              "Batsman": "Mahesh Gogineni (RHB)",
+              "Status": "c Srikanth Thota b Sampath Chowdary Nimmagadda",
+              "R": 5,
+              "B": 8,
+              "M": 11,
+              "4s": 0,
+              "6s": 0,
+              "SR": 62.50
+            },
+            {
+              "No": 7,
+              "Batsman": "Ankit Khanna (RHB)",
+              "Status": "c&b Sampath Chowdary Nimmagadda",
+              "R": 4,
+              "B": 6,
+              "M": 9,
+              "4s": 0,
+              "6s": 0,
+              "SR": 66.67
+            },
+            {
+              "No": 8,
+              "Batsman": "Parth Patel (RHB)",
+              "Status": "lbw b Vivek R",
+              "R": 1,
+              "B": 2,
+              "M": 3,
+              "4s": 0,
+              "6s": 0,
+              "SR": 50.00
+            },
+            {
+              "No": 9,
+              "Batsman": "Dileep Reddy Vatti (RHB)",
+              "Status": "lbw b Vivek R",
+              "R": 0,
+              "B": 2,
+              "M": 1,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 10,
+              "Batsman": "Sudheer (RHB)",
+              "Status": "not out",
+              "R": 9,
+              "B": 8,
+              "M": 8,
+              "4s": 1,
+              "6s": 0,
+              "SR": 112.50
+            },
+            {
+              "No": 11,
+              "Batsman": "Ram Malineni (RHB)",
+              "Status": "run out Daqoo M / Sandeep Nimmagadda",
+              "R": 0,
+              "B": 1,
+              "M": 5,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            }
+          ],
+          "extras": {
+            "total": 12,
+            "details": "wd 10, lb 1, b 1"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Vivek R (c)",
+              "O": 4,
+              "M": 0,
+              "R": 18,
+              "W": 3,
+              "Os": 15,
+              "4s": 1,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 4.50
+            },
+            {
+              "No": 2,
+              "Bowler": "Sandeep Nimmagadda",
+              "O": 3.1,
+              "M": 0,
+              "R": 28,
+              "W": 0,
+              "Os": 9,
+              "4s": 5,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 8.84
+            },
+            {
+              "No": 3,
+              "Bowler": "Sampath Chowdary Nimmagadda",
+              "O": 4,
+              "M": 0,
+              "R": 27,
+              "W": 3,
+              "Os": 9,
+              "4s": 3,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 6.75
+            },
+            {
+              "No": 4,
+              "Bowler": "Naveen Narpina",
+              "O": 4,
+              "M": 0,
+              "R": 24,
+              "W": 2,
+              "Os": 8,
+              "4s": 1,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 6.00
+            },
+            {
+              "No": 5,
+              "Bowler": "Winston Garnepudi",
+              "O": 4,
+              "M": 0,
+              "R": 22,
+              "W": 1,
+              "Os": 13,
+              "4s": 2,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 5.50
+            }
+          ],
+          "to_bat": [
+            "Raghu"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "36-1",
+              "player": "Abhilash Reddy Gade",
+              "over": 4.2
+            },
+            {
+              "score": "69-2",
+              "player": "Sharath Reddy Gade",
+              "over": 9.3
+            },
+            {
+              "score": "72-3",
+              "player": "Rahul",
+              "over": 10.1
+            },
+            {
+              "score": "77-4",
+              "player": "Ritesh Shinde",
+              "over": 11.3
+            },
+            {
+              "score": "89-5",
+              "player": "Mahesh Gogineni",
+              "over": 14.2
+            },
+            {
+              "score": "103-6",
+              "player": "Ankit Khanna",
+              "over": 16.3
+            },
+            {
+              "score": "112-7",
+              "player": "Parth Patel",
+              "over": 17.1
+            },
+            {
+              "score": "112-8",
+              "player": "Dileep Reddy Vatti",
+              "over": 17.3
+            },
+            {
+              "score": "113-9",
+              "player": "Akshay Reddy Putta",
+              "over": 17.5
+            },
+            {
+              "score": "121-10",
+              "player": "Ram Malineni",
+              "over": 19.1
+            }
+          ]
+        },
+        {
+          "innings_number": 2,
+          "team": "Albion Avengers",
+          "captain": "Vivek R",
+          "score": "122/1",
+          "overs": "16.4",
+          "batted": true,
+          "crr": "7.32",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Srikanth Thota (RHB)",
+              "Status": "not out",
+              "R": 38,
+              "B": 35,
+              "M": 70,
+              "4s": 3,
+              "6s": 0,
+              "SR": 108.57
+            },
+            {
+              "No": 2,
+              "Batsman": "Daqoo M (wk) (RHB)",
+              "Status": "c †Ritesh Shinde b Mahesh Gogineni",
+              "R": 29,
+              "B": 28,
+              "M": 32,
+              "4s": 5,
+              "6s": 0,
+              "SR": 103.57
+            },
+            {
+              "No": 3,
+              "Batsman": "Ketan Chawda (wk) (RHB)",
+              "Status": "not out",
+              "R": 46,
+              "B": 38,
+              "M": 37,
+              "4s": 4,
+              "6s": 2,
+              "SR": 121.05
+            }
+          ],
+          "extras": {
+            "total": 9,
+            "details": "wd 3, b 5, nb 1"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Sudheer",
+              "O": 2.4,
+              "M": 0,
+              "R": 27,
+              "W": 0,
+              "Os": 5,
+              "4s": 4,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 10.12
+            },
+            {
+              "No": 2,
+              "Bowler": "Dileep Reddy Vatti",
+              "O": 1,
+              "M": 0,
+              "R": 7,
+              "W": 0,
+              "Os": 2,
+              "4s": 0,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 7.00
+            },
+            {
+              "No": 3,
+              "Bowler": "Ankit Khanna",
+              "O": 3,
+              "M": 0,
+              "R": 22,
+              "W": 0,
+              "Os": 9,
+              "4s": 2,
+              "6s": 1,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 7.33
+            },
+            {
+              "No": 4,
+              "Bowler": "Ram Malineni",
+              "O": 1,
+              "M": 0,
+              "R": 6,
+              "W": 0,
+              "Os": 3,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 6.00
+            },
+            {
+              "No": 5,
+              "Bowler": "Raghu",
+              "O": 3,
+              "M": 0,
+              "R": 10,
+              "W": 0,
+              "Os": 12,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 3.33
+            },
+            {
+              "No": 6,
+              "Bowler": "Mahesh Gogineni",
+              "O": 3,
+              "M": 0,
+              "R": 16,
+              "W": 1,
+              "Os": 7,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 5.33
+            },
+            {
+              "No": 7,
+              "Bowler": "Sharath Reddy Gade",
+              "O": 2,
+              "M": 0,
+              "R": 24,
+              "W": 0,
+              "Os": 4,
+              "4s": 3,
+              "6s": 1,
+              "WD": 0,
+              "NB": 1,
+              "Eco": 12.00
+            },
+            {
+              "No": 8,
+              "Bowler": "Abhilash Reddy Gade (c)",
+              "O": 1,
+              "M": 0,
+              "R": 5,
+              "W": 0,
+              "Os": 2,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 5.00
+            }
+          ],
+          "to_bat": [
+            "Sandeep Nimmagadda",
+            "Vivek R (c)",
+            "Krishna Ananthaneni",
+            "Winston Garnepudi",
+            "Kalyan Varma Alluri",
+            "Bhuvan",
+            "Naveen Narpina",
+            "Sampath Chowdary Nimmagadda",
+            "Teja"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "53-1",
+              "player": "Daqoo M",
+              "over": 7.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "cricheroes_Maple_Mavericks_vs_Whonnock_Warriors_2025-04-19.pdf",
+      "match_details": {
+        "match_title": "Maple Mavericks vs Whonnock Warriors",
+        "ground": "selvey park, Vancouver (British Columbia)",
+        "date": "2025-04-19, 21:09 PM UTC",
+        "tournament": "cricheroes"
+      },
+      "match_result": {
+        "toss": "Maple Mavericks opt to bat",
+        "innings1_score": "Maple Mavericks 102/10 (22.5 Ov)",
+        "innings2_score": "Whonnock Warriors 106/5 (19.5 Ov)",
+        "result": "Whonnock Warriors won by 5 wickets"
+      },
+      "best_performances": {
+        "batsmen": [
+          {
+            "player_name": "Dhruval Patel",
+            "R": 42,
+            "B": 43,
+            "4s": 1,
+            "6s": 2,
+            "SR": 97.67
+          },
+          {
+            "player_name": "Tilak",
+            "R": 27,
+            "B": 18,
+            "4s": 4,
+            "6s": 0,
+            "SR": 150.00
+          },
+          {
+            "player_name": "Sharath Reddy Gade",
+            "R": 23,
+            "B": 18,
+            "4s": 4,
+            "6s": 0,
+            "SR": 127.78
+          }
+        ],
+        "bowlers": [
+          {
+            "player_name": "Ram Malineni",
+            "O": 4.5,
+            "M": 1,
+            "R": 15,
+            "W": 4,
+            "Eco": 3.10
+          },
+          {
+            "player_name": "Sharath Reddy Gade",
+            "O": 2.0,
+            "M": 0,
+            "R": 5,
+            "W": 2,
+            "Eco": 2.50
+          },
+          {
+            "player_name": "Mayank Misra",
+            "O": 2.0,
+            "M": 0,
+            "R": 19,
+            "W": 2,
+            "Eco": 9.50
+          }
+        ]
+      },
+      "match_officials": [
+        {
+          "No": 1,
+          "Name": "Vamsi Reddy Nalla (Maple Mavericks)",
+          "Role": "Captain"
+        },
+        {
+          "No": 2,
+          "Name": "Mahesh Gogineni (Whonnock Warriors)",
+          "Role": "Captain"
+        }
+      ],
+      "innings": [
+        {
+          "innings_number": 1,
+          "team": "Maple Mavericks",
+          "captain": "Vamsi Reddy Nalla",
+          "score": "102/10",
+          "overs": "22.5",
+          "batted": true,
+          "crr": "4.47",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Shivam (wk) (LHB)",
+              "Status": "c Avinash Raju b Ram Malineni",
+              "R": 0,
+              "B": 3,
+              "M": 2,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 2,
+              "Batsman": "CHILI YALAMANCHILI (RHB)",
+              "Status": "c Avinash Raju b Raja Allam",
+              "R": 6,
+              "B": 18,
+              "M": 30,
+              "4s": 0,
+              "6s": 0,
+              "SR": 33.33
+            },
+            {
+              "No": 3,
+              "Batsman": "VAMSI REDDY NALLA (c) (RHB)",
+              "Status": "c †Maulik Mehta b Ram Malineni",
+              "R": 0,
+              "B": 7,
+              "M": 9,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 4,
+              "Batsman": "Dhruval Patel (LHB)",
+              "Status": "c Abhilash Reddy Gade b Sharath Reddy Gade",
+              "R": 42,
+              "B": 43,
+              "M": 58,
+              "4s": 1,
+              "6s": 2,
+              "SR": 97.67
+            },
+            {
+              "No": 5,
+              "Batsman": "Mayank Misra (LHB)",
+              "Status": "b Sharath Reddy Gade",
+              "R": 7,
+              "B": 20,
+              "M": 31,
+              "4s": 0,
+              "6s": 0,
+              "SR": 35.00
+            },
+            {
+              "No": 6,
+              "Batsman": "Sudhakar Botta (RHB)",
+              "Status": "b Deepak",
+              "R": 5,
+              "B": 14,
+              "M": 21,
+              "4s": 0,
+              "6s": 0,
+              "SR": 35.71
+            },
+            {
+              "No": 7,
+              "Batsman": "Tilak (LHB)",
+              "Status": "b Dileep Reddy",
+              "R": 27,
+              "B": 18,
+              "M": 17,
+              "4s": 4,
+              "6s": 0,
+              "SR": 150.00
+            },
+            {
+              "No": 8,
+              "Batsman": "Santhosh Kotagiri (RHB)",
+              "Status": "st †Maulik Mehta b Krishna Ananthaneni",
+              "R": 3,
+              "B": 6,
+              "M": 9,
+              "4s": 0,
+              "6s": 0,
+              "SR": 50.00
+            },
+            {
+              "No": 9,
+              "Batsman": "Surya Trendz (RHB)",
+              "Status": "b Ram Malineni",
+              "R": 1,
+              "B": 6,
+              "M": 9,
+              "4s": 0,
+              "6s": 0,
+              "SR": 16.67
+            },
+            {
+              "No": 10,
+              "Batsman": "Krishna Chaitanya(KC) (RHB)",
+              "Status": "not out",
+              "R": 0,
+              "B": 2,
+              "M": 7,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 11,
+              "Batsman": "Murali Narra (RHB)",
+              "Status": "c Krishna Ananthaneni b Ram Malineni",
+              "R": 0,
+              "B": 1,
+              "M": 1,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            }
+          ],
+          "extras": {
+            "total": 11,
+            "details": "wd 9, nb 1, b 1"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Ram Malineni",
+              "O": 4.5,
+              "M": 1,
+              "R": 15,
+              "W": 4,
+              "Os": 21,
+              "4s": 0,
+              "6s": 1,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 3.10
+            },
+            {
+              "No": 2,
+              "Bowler": "Deepak",
+              "O": 4,
+              "M": 0,
+              "R": 14,
+              "W": 1,
+              "Os": 15,
+              "4s": 0,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 3.50
+            },
+            {
+              "No": 3,
+              "Bowler": "Raja Allam",
+              "O": 2,
+              "M": 0,
+              "R": 9,
+              "W": 1,
+              "Os": 6,
+              "4s": 0,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 4.50
+            },
+            {
+              "No": 4,
+              "Bowler": "Avinash Raju",
+              "O": 2,
+              "M": 0,
+              "R": 17,
+              "W": 0,
+              "Os": 6,
+              "4s": 3,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 8.50
+            },
+            {
+              "No": 5,
+              "Bowler": "Dileep Reddy",
+              "O": 3,
+              "M": 0,
+              "R": 20,
+              "W": 1,
+              "Os": 7,
+              "4s": 1,
+              "6s": 1,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 6.67
+            },
+            {
+              "No": 6,
+              "Bowler": "Mahesh Gogineni (c)",
+              "O": 3,
+              "M": 0,
+              "R": 11,
+              "W": 0,
+              "Os": 10,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 3.67
+            },
+            {
+              "No": 7,
+              "Bowler": "Sharath Reddy Gade",
+              "O": 2,
+              "M": 0,
+              "R": 5,
+              "W": 2,
+              "Os": 8,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 2.50
+            },
+            {
+              "No": 8,
+              "Bowler": "Abhilash Reddy Gade",
+              "O": 1,
+              "M": 0,
+              "R": 3,
+              "W": 0,
+              "Os": 4,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 3.00
+            },
+            {
+              "No": 9,
+              "Bowler": "Krishna Ananthaneni",
+              "O": 1,
+              "M": 0,
+              "R": 7,
+              "W": 1,
+              "Os": 4,
+              "4s": 0,
+              "6s": 0,
+              "WD": 3,
+              "NB": 1,
+              "Eco": 7.00
+            }
+          ],
+          "to_bat": [
+            "Nageswara Kolla"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "0-1",
+              "player": "Shivam",
+              "over": 0.3
+            },
+            {
+              "score": "3-2",
+              "player": "VAMSI REDDY NALLA",
+              "over": 2.4
+            },
+            {
+              "score": "19-3",
+              "player": "CHILI YALAMANCHILI",
+              "over": 7.0
+            },
+            {
+              "score": "58-4",
+              "player": "Mayank Misra",
+              "over": 14.1
+            },
+            {
+              "score": "63-5",
+              "player": "Dhruval Patel",
+              "over": 16.3
+            },
+            {
+              "score": "86-6",
+              "player": "Sudhakar Botta",
+              "over": 19.5
+            },
+            {
+              "score": "94-7",
+              "player": "Tilak",
+              "over": 20.5
+            },
+            {
+              "score": "100-8",
+              "player": "Santhosh Kotagiri",
+              "over": 21.4
+            },
+            {
+              "score": "102-9",
+              "player": "Surya Trendz",
+              "over": 22.4
+            },
+            {
+              "score": "102-10",
+              "player": "Murali Narra",
+              "over": 22.5
+            }
+          ]
+        },
+        {
+          "innings_number": 2,
+          "team": "Whonnock Warriors",
+          "captain": "Mahesh Gogineni",
+          "score": "106/5",
+          "overs": "19.5",
+          "batted": true,
+          "crr": "5.34",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Sharath Reddy Gade (RHB)",
+              "Status": "b Mayank Misra",
+              "R": 23,
+              "B": 18,
+              "M": 32,
+              "4s": 4,
+              "6s": 0,
+              "SR": 127.78
+            },
+            {
+              "No": 2,
+              "Batsman": "Abhilash Reddy Gade (RHB)",
+              "Status": "lbw b Tilak",
+              "R": 20,
+              "B": 18,
+              "M": 37,
+              "4s": 1,
+              "6s": 1,
+              "SR": 111.11
+            },
+            {
+              "No": 3,
+              "Batsman": "Maulik Mehta (wk) (RHB)",
+              "Status": "lbw b Mayank Misra",
+              "R": 0,
+              "B": 1,
+              "M": 1,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 4,
+              "Batsman": "Avinash Raju (RHB)",
+              "Status": "c Tilak b Sudhakar Botta",
+              "R": 7,
+              "B": 19,
+              "M": 27,
+              "4s": 0,
+              "6s": 0,
+              "SR": 36.84
+            },
+            {
+              "No": 5,
+              "Batsman": "Mahesh Gogineni (c) (RHB)",
+              "Status": "c †Shivam b Krishna Chaitanya(KC)",
+              "R": 12,
+              "B": 10,
+              "M": 12,
+              "4s": 1,
+              "6s": 1,
+              "SR": 120.00
+            },
+            {
+              "No": 6,
+              "Batsman": "Krishna Ananthaneni (RHB)",
+              "Status": "not out",
+              "R": 18,
+              "B": 28,
+              "M": 41,
+              "4s": 2,
+              "6s": 0,
+              "SR": 64.29
+            },
+            {
+              "No": 7,
+              "Batsman": "Dileep Reddy (RHB)",
+              "Status": "not out",
+              "R": 9,
+              "B": 25,
+              "M": 30,
+              "4s": 1,
+              "6s": 0,
+              "SR": 36.00
+            }
+          ],
+          "extras": {
+            "total": 17,
+            "details": "wd 16, lb 1"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Krishna Chaitanya(KC)",
+              "O": 3,
+              "M": 0,
+              "R": 22,
+              "W": 1,
+              "Os": 11,
+              "4s": 0,
+              "6s": 1,
+              "WD": 9,
+              "NB": 0,
+              "Eco": 7.33
+            },
+            {
+              "No": 2,
+              "Bowler": "Tilak",
+              "O": 5,
+              "M": 1,
+              "R": 21,
+              "W": 1,
+              "Os": 20,
+              "4s": 3,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 4.20
+            },
+            {
+              "No": 3,
+              "Bowler": "VAMSI REDDY NALLA (c)",
+              "O": 2,
+              "M": 0,
+              "R": 17,
+              "W": 0,
+              "Os": 5,
+              "4s": 2,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 8.50
+            },
+            {
+              "No": 4,
+              "Bowler": "Mayank Misra",
+              "O": 2,
+              "M": 0,
+              "R": 19,
+              "W": 2,
+              "Os": 4,
+              "4s": 2,
+              "6s": 1,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 9.50
+            },
+            {
+              "No": 5,
+              "Bowler": "Surya Trendz",
+              "O": 2,
+              "M": 0,
+              "R": 11,
+              "W": 0,
+              "Os": 6,
+              "4s": 1,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 5.50
+            },
+            {
+              "No": 6,
+              "Bowler": "Sudhakar Botta",
+              "O": 2,
+              "M": 1,
+              "R": 5,
+              "W": 1,
+              "Os": 8,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 2.50
+            },
+            {
+              "No": 7,
+              "Bowler": "Santhosh Kotagiri",
+              "O": 1,
+              "M": 0,
+              "R": 4,
+              "W": 0,
+              "Os": 4,
+              "4s": 0,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 4.00
+            },
+            {
+              "No": 8,
+              "Bowler": "Shivam",
+              "O": 1.5,
+              "M": 1,
+              "R": 5,
+              "W": 0,
+              "Os": 9,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 2.73
+            },
+            {
+              "No": 9,
+              "Bowler": "Dhruval Patel",
+              "O": 1,
+              "M": 0,
+              "R": 1,
+              "W": 0,
+              "Os": 5,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 1.00
+            }
+          ],
+          "to_bat": [
+            "Deepak",
+            "Ram Malineni",
+            "Raghu",
+            "Raja Allam"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "50-1",
+              "player": "Sharath Reddy Gade",
+              "over": 5.5
+            },
+            {
+              "score": "50-2",
+              "player": "Maulik Mehta",
+              "over": 6.0
+            },
+            {
+              "score": "50-3",
+              "player": "Abhilash Reddy Gade",
+              "over": 6.1
+            },
+            {
+              "score": "68-4",
+              "player": "Mahesh Gogineni",
+              "over": 9.0
+            },
+            {
+              "score": "76-5",
+              "player": "Avinash Raju",
+              "over": 12.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "file_name": "MR150_Whonnock_Warriors_vs_Maple_Mavericks_Final_2024-08-31.pdf",
+      "match_details": {
+        "match_title": "Whonnock Warriors vs Maple Mavericks",
+        "ground": "Selvey Park, Maple Ridge",
+        "date": "2024-08-31, 22:45 PM UTC",
+        "tournament": "MR150 CRICKET CHAMPIONSHIP - 2024 (Final)"
+      },
+      "match_result": {
+        "toss": "Maple Mavericks opt to field",
+        "innings1_score": "Whonnock Warriors 95/9 (20.0 Ov)",
+        "innings2_score": "Maple Mavericks 99/5 (17.4 Ov)",
+        "result": "Maple Mavericks won by 5 wickets"
+      },
+      "best_performances": {
+        "batsmen": [
+          {
+            "player_name": "Bharath Reddy",
+            "R": 36,
+            "B": 31,
+            "4s": 5,
+            "6s": 0,
+            "SR": 116.13
+          },
+          {
+            "player_name": "Rahul",
+            "R": 29,
+            "B": 49,
+            "4s": 2,
+            "6s": 0,
+            "SR": 59.18
+          },
+          {
+            "player_name": "Dhruval Patel",
+            "R": 23,
+            "B": 27,
+            "4s": 1,
+            "6s": 1,
+            "SR": 85.19
+          }
+        ],
+        "bowlers": [
+          {
+            "player_name": "Sree K",
+            "O": 4.0,
+            "M": 0,
+            "R": 16,
+            "W": 2,
+            "Eco": 4.00
+          },
+          {
+            "player_name": "Dhruval Patel",
+            "O": 4.0,
+            "M": 0,
+            "R": 16,
+            "W": 2,
+            "Eco": 4.00
+          },
+          {
+            "player_name": "Kanishk",
+            "O": 4.0,
+            "M": 0,
+            "R": 15,
+            "W": 1,
+            "Eco": 3.75
+          }
+        ]
+      },
+      "match_officials": [
+        {
+          "No": 1,
+          "Name": "Abhilash Reddy Gade (Whonnock Warriors)",
+          "Role": "Captain"
+        },
+        {
+          "No": 2,
+          "Name": "Vamsi Reddy Nalla (Maple Mavericks)",
+          "Role": "Captain"
+        }
+      ],
+      "innings": [
+        {
+          "innings_number": 1,
+          "team": "Whonnock Warriors",
+          "captain": "Abhilash Reddy Gade",
+          "score": "95/9",
+          "overs": "20.0",
+          "batted": true,
+          "crr": "4.75",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Sharath Reddy Gade (RHB)",
+              "Status": "c VAMSI REDDY NALLA b Sree K",
+              "R": 10,
+              "B": 10,
+              "M": 13,
+              "4s": 0,
+              "6s": 1,
+              "SR": 100.00
+            },
+            {
+              "No": 2,
+              "Batsman": "Abhilash Reddy Gade (c) (RHB)",
+              "Status": "c Dhruval Patel b Sree K",
+              "R": 0,
+              "B": 1,
+              "M": 3,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 3,
+              "Batsman": "Ritesh Shinde (wk) (RHB)",
+              "Status": "c Shivam b Rakesh",
+              "R": 8,
+              "B": 8,
+              "M": 13,
+              "4s": 1,
+              "6s": 0,
+              "SR": 100.00
+            },
+            {
+              "No": 4,
+              "Batsman": "Akshay Reddy Putta (RHB)",
+              "Status": "run out Sree K",
+              "R": 0,
+              "B": 2,
+              "M": 8,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 5,
+              "Batsman": "Rahul (RHB)",
+              "Status": "run out Dhruval Patel / Rakesh",
+              "R": 29,
+              "B": 49,
+              "M": 84,
+              "4s": 2,
+              "6s": 0,
+              "SR": 59.18
+            },
+            {
+              "No": 6,
+              "Batsman": "Mahesh Gogineni (RHB)",
+              "Status": "run out Rakesh",
+              "R": 4,
+              "B": 6,
+              "M": 5,
+              "4s": 0,
+              "6s": 0,
+              "SR": 66.67
+            },
+            {
+              "No": 7,
+              "Batsman": "Raja Allam (RHB)",
+              "Status": "b Kanishk",
+              "R": 9,
+              "B": 18,
+              "M": 28,
+              "4s": 0,
+              "6s": 0,
+              "SR": 50.00
+            },
+            {
+              "No": 8,
+              "Batsman": "Harshavardhan Reddy Bobba (RHB)",
+              "Status": "c Krishith b Dhruval Patel",
+              "R": 2,
+              "B": 7,
+              "M": 8,
+              "4s": 0,
+              "6s": 0,
+              "SR": 28.57
+            },
+            {
+              "No": 9,
+              "Batsman": "DEEPAK CRIC CANADA (RHB)",
+              "Status": "lbw b Dhruval Patel",
+              "R": 0,
+              "B": 1,
+              "M": 1,
+              "4s": 0,
+              "6s": 0,
+              "SR": 0.00
+            },
+            {
+              "No": 10,
+              "Batsman": "Ankit Khanna (RHB)",
+              "Status": "not out",
+              "R": 13,
+              "B": 16,
+              "M": 38,
+              "4s": 0,
+              "6s": 0,
+              "SR": 81.25
+            },
+            {
+              "No": 11,
+              "Batsman": "Sudheer (RHB)",
+              "Status": "not out",
+              "R": 5,
+              "B": 3,
+              "M": 19,
+              "4s": 1,
+              "6s": 0,
+              "SR": 166.67
+            }
+          ],
+          "extras": {
+            "total": 15,
+            "details": "nb 1, wd 11, lb 1, b 2"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Sree K",
+              "O": 4,
+              "M": 0,
+              "R": 16,
+              "W": 2,
+              "Os": 13,
+              "4s": 0,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 4.00
+            },
+            {
+              "No": 2,
+              "Bowler": "Krishna Chaitanya(KC)",
+              "O": 1,
+              "M": 0,
+              "R": 13,
+              "W": 0,
+              "Os": 2,
+              "4s": 0,
+              "6s": 1,
+              "WD": 2,
+              "NB": 1,
+              "Eco": 13.00
+            },
+            {
+              "No": 3,
+              "Bowler": "Rakesh",
+              "O": 4,
+              "M": 0,
+              "R": 19,
+              "W": 1,
+              "Os": 12,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 4.75
+            },
+            {
+              "No": 4,
+              "Bowler": "Kanishk",
+              "O": 4,
+              "M": 0,
+              "R": 15,
+              "W": 1,
+              "Os": 14,
+              "4s": 1,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 3.75
+            },
+            {
+              "No": 5,
+              "Bowler": "Krishith",
+              "O": 3,
+              "M": 0,
+              "R": 13,
+              "W": 0,
+              "Os": 9,
+              "4s": 1,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 4.33
+            },
+            {
+              "No": 6,
+              "Bowler": "Dhruval Patel",
+              "O": 4,
+              "M": 0,
+              "R": 16,
+              "W": 2,
+              "Os": 16,
+              "4s": 1,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 4.00
+            }
+          ],
+          "to_bat": [
+            "Shiva Srikumar"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "1-1",
+              "player": "Abhilash Reddy Gade",
+              "over": 0.3
+            },
+            {
+              "score": "19-2",
+              "player": "Sharath Reddy Gade",
+              "over": 2.4
+            },
+            {
+              "score": "23-3",
+              "player": "Ritesh Shinde",
+              "over": 3.2
+            },
+            {
+              "score": "23-4",
+              "player": "Akshay Reddy Putta",
+              "over": 4.0
+            },
+            {
+              "score": "30-5",
+              "player": "Mahesh Gogineni",
+              "over": 5.3
+            },
+            {
+              "score": "53-6",
+              "player": "Raja Allam",
+              "over": 11.1
+            },
+            {
+              "score": "58-7",
+              "player": "Harshavardhan Reddy Bobba",
+              "over": 13.3
+            },
+            {
+              "score": "58-8",
+              "player": "DEEPAK CRIC CANADA",
+              "over": 13.5
+            },
+            {
+              "score": "82-9",
+              "player": "Rahul",
+              "over": 18.5
+            }
+          ]
+        },
+        {
+          "innings_number": 2,
+          "team": "Maple Mavericks",
+          "captain": "Vamsi Reddy Nalla",
+          "score": "99/5",
+          "overs": "17.4",
+          "batted": true,
+          "crr": "5.60",
+          "batting_card": [
+            {
+              "No": 1,
+              "Batsman": "Bharath Vintha (RHB)",
+              "Status": "lbw b Raja Allam",
+              "R": 36,
+              "B": 31,
+              "M": 39,
+              "4s": 5,
+              "6s": 0,
+              "SR": 116.13
+            },
+            {
+              "No": 2,
+              "Batsman": "Shivam (LHB)",
+              "Status": "lbw b Shiva Srikumar",
+              "R": 5,
+              "B": 16,
+              "M": 24,
+              "4s": 0,
+              "6s": 0,
+              "SR": 31.25
+            },
+            {
+              "No": 3,
+              "Batsman": "Kanishk (RHB)",
+              "Status": "run out Abhilash Reddy Gade / Raja Allam",
+              "R": 1,
+              "B": 1,
+              "M": 4,
+              "4s": 0,
+              "6s": 0,
+              "SR": 100.00
+            },
+            {
+              "No": 4,
+              "Batsman": "Dhruval Patel (LHB)",
+              "Status": "c Harshavardhan Reddy Bobba b Sudheer",
+              "R": 23,
+              "B": 27,
+              "M": 41,
+              "4s": 1,
+              "6s": 1,
+              "SR": 85.19
+            },
+            {
+              "No": 5,
+              "Batsman": "Rakesh (RHB)",
+              "Status": "c Ritesh Shinde b Harshavardhan Reddy Bobba",
+              "R": 18,
+              "B": 22,
+              "M": 27,
+              "4s": 0,
+              "6s": 0,
+              "SR": 81.82
+            },
+            {
+              "No": 6,
+              "Batsman": "Krishith (RHB)",
+              "Status": "not out",
+              "R": 3,
+              "B": 3,
+              "M": 8,
+              "4s": 0,
+              "6s": 0,
+              "SR": 100.00
+            },
+            {
+              "No": 7,
+              "Batsman": "VAMSI REDDY NALLA (c) (RHB)",
+              "Status": "not out",
+              "R": 5,
+              "B": 6,
+              "M": 4,
+              "4s": 1,
+              "6s": 0,
+              "SR": 83.33
+            }
+          ],
+          "extras": {
+            "total": 8,
+            "details": "wd 6, lb 2"
+          },
+          "bowling_card": [
+            {
+              "No": 1,
+              "Bowler": "Sudheer",
+              "O": 4,
+              "M": 0,
+              "R": 24,
+              "W": 1,
+              "Os": 10,
+              "4s": 2,
+              "6s": 0,
+              "WD": 3,
+              "NB": 0,
+              "Eco": 6.00
+            },
+            {
+              "No": 2,
+              "Bowler": "Shiva Srikumar",
+              "O": 4,
+              "M": 0,
+              "R": 16,
+              "W": 1,
+              "Os": 14,
+              "4s": 1,
+              "6s": 0,
+              "WD": 2,
+              "NB": 0,
+              "Eco": 4.00
+            },
+            {
+              "No": 3,
+              "Bowler": "Raja Allam",
+              "O": 3,
+              "M": 0,
+              "R": 24,
+              "W": 1,
+              "Os": 6,
+              "4s": 3,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 8.00
+            },
+            {
+              "No": 4,
+              "Bowler": "Ankit Khanna",
+              "O": 2,
+              "M": 0,
+              "R": 8,
+              "W": 0,
+              "Os": 4,
+              "4s": 0,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 4.00
+            },
+            {
+              "No": 5,
+              "Bowler": "DEEPAK CRIC CANADA",
+              "O": 2,
+              "M": 0,
+              "R": 8,
+              "W": 0,
+              "Os": 5,
+              "4s": 0,
+              "6s": 0,
+              "WD": 1,
+              "NB": 0,
+              "Eco": 4.00
+            },
+            {
+              "No": 6,
+              "Bowler": "Mahesh Gogineni",
+              "O": 1,
+              "M": 0,
+              "R": 9,
+              "W": 0,
+              "Os": 3,
+              "4s": 0,
+              "6s": 1,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 9.00
+            },
+            {
+              "No": 7,
+              "Bowler": "Harshavardhan Reddy Bobba",
+              "O": 1.4,
+              "M": 0,
+              "R": 8,
+              "W": 1,
+              "Os": 5,
+              "4s": 1,
+              "6s": 0,
+              "WD": 0,
+              "NB": 0,
+              "Eco": 4.80
+            }
+          ],
+          "to_bat": [
+            "Jay",
+            "Sree K",
+            "Krishna Chaitanya(kc)",
+            "Arvinth",
+            "Jaynish Patel"
+          ],
+          "fall_of_wickets": [
+            {
+              "score": "31-1",
+              "player": "Shivam",
+              "over": 6.0
+            },
+            {
+              "score": "38-2",
+              "player": "Kanishk",
+              "over": 6.4
+            },
+            {
+              "score": "38-3",
+              "player": "Bharath Vintha",
+              "over": 8.4
+            },
+            {
+              "score": "74-4",
+              "player": "Rakesh",
+              "over": 15.4
+            },
+            {
+              "score": "80-5",
+              "player": "Dhruval Patel",
+              "over": 16.2
+            }
+          ]
+        }
+      ]
+    }
+  ]
