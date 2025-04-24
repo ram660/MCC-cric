@@ -5,11 +5,11 @@ import os
 from dotenv import load_dotenv
 
 # --- Configuration ---
-DATA_DIR = ".\data"  # Updated to directory
+DATA_DIR = os.path.join(os.path.dirname(__file__), "data") # Updated to directory
 MODEL_NAME = "gemini-2.0-flash" # Or "gemini-1.0-pro", "gemini-1.5-pro-latest" etc.
 
 # --- Helper Functions ---
-
+## test-test
 def load_data(directory):
     """Loads and combines cricket data from all JSON files in the given directory."""
     all_data = []
