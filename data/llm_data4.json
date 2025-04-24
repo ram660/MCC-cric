@@ -1,0 +1,404 @@
+[
+    {
+      "data_type": "league_schedule",
+      "description": "Complete cricket league match schedule for all teams including Whonnock Warriors for the 2025 season",
+      "DATE": "April 25",
+      "(Fri) 5:15 PM - 8:30 PM": "Mavericks vs Warriors",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Mavericks",
+      "Ground Tear off": "Warriors",
+      "Umpiring & Scoring": "Kings",
+      "Teams": "Albion Avengers (AA)"
+    },
+    {
+      "DATE": "April 26",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "Kings vs Avengers",
+      "(Sat) 4:45 PM - 8:15 PM": "RESERVE",
+      "Ground Set up": "Kings",
+      "Ground Tear off": "Avengers",
+      "Umpiring & Scoring": "Mavericks",
+      "Teams": "Kanaka Kings (KK)"
+    },
+    {
+      "DATE": "May 02",
+      "(Fri) 5:15 PM - 8:30 PM": "Vikings vs Kings",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Vikings",
+      "Ground Tear off": "Kings",
+      "Umpiring & Scoring": "Mavericks",
+      "Teams": "Maple Mavericks (MM)"
+    },
+    {
+      "DATE": "May 3",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "Kings vs Warriors",
+      "(Sat) 4:45 PM - 8:15 PM": "RESERVE",
+      "Ground Set up": "Kings",
+      "Ground Tear off": "Warriors",
+      "Umpiring & Scoring": "Avengers",
+      "Teams": "Valley Vikings (VV)"
+    },
+    {
+      "DATE": "May 9",
+      "(Fri) 5:15 PM - 8:30 PM": "Vikings vs Mavericks",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Vikings",
+      "Ground Tear off": "Mavericks",
+      "Umpiring & Scoring": "Kings",
+      "Teams": "Whonnock Warriors (WW)"
+    },
+    {
+      "DATE": "May 10",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "Kings vs Avengers",
+      "(Sat) 4:45 PM - 8:15 PM": "Mavericks vs Warriors",
+      "Ground Set up": "Kings",
+      "Ground Tear off": "Warriors",
+      "Umpiring & Scoring": "Mavericks / Kings",
+      "Teams": null
+    },
+    {
+      "DATE": "May 16",
+      "(Fri) 5:15 PM - 8:30 PM": "Vikings vs warriors",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Warriors",
+      "Ground Tear off": "Vikings",
+      "Umpiring & Scoring": "Mavericks",
+      "Teams": "Victoria Day Long Weekend"
+    },
+    {
+      "DATE": "May 17",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "Mavericks vs Avengers",
+      "(Sat) 4:45 PM - 8:15 PM": "RESERVE",
+      "Ground Set up": "Mavericks",
+      "Ground Tear off": "Avengers",
+      "Umpiring & Scoring": "Kings",
+      "Teams": "Victoria Day Long Weekend"
+    },
+    {
+      "DATE": "May 23",
+      "(Fri) 5:15 PM - 8:30 PM": "Kings vs Mavericks",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Kings",
+      "Ground Tear off": "Mavericks",
+      "Umpiring & Scoring": "Vikings",
+      "Teams": null
+    },
+    {
+      "DATE": "May 24",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "N/A",
+      "(Sat) 4:45 PM - 8:15 PM": "Warriors vs Avengers",
+      "Ground Set up": "Warriors",
+      "Ground Tear off": "Avengers",
+      "Umpiring & Scoring": "Kings",
+      "Teams": null
+    },
+    {
+      "DATE": "May 30",
+      "(Fri) 5:15 PM - 8:30 PM": "Vikings vs Avengers",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Vikings",
+      "Ground Tear off": "Avengers",
+      "Umpiring & Scoring": "Warriors",
+      "Teams": null
+    },
+    {
+      "DATE": "May 31",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "Kings vs Warriors",
+      "(Sat) 4:45 PM - 8:15 PM": "Mavericks vs Avengers",
+      "Ground Set up": "Warriors",
+      "Ground Tear off": "Mavericks",
+      "Umpiring & Scoring": "Avengers / Warriors",
+      "Teams": null
+    },
+    {
+      "DATE": "June 6",
+      "(Fri) 5:15 PM - 8:30 PM": "Vikings vs Warriors",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Vikings",
+      "Ground Tear off": "Warriors",
+      "Umpiring & Scoring": "Mavericks",
+      "Teams": null
+    },
+    {
+      "DATE": "June 7",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "Kings vs Mavericks",
+      "(Sat) 4:45 PM - 8:15 PM": "Vikings vs Avengers",
+      "Ground Set up": "Mavericks",
+      "Ground Tear off": "Avengers",
+      "Umpiring & Scoring": "Vikings / Kings",
+      "Teams": null
+    },
+    {
+      "DATE": "June 13",
+      "(Fri) 5:15 PM - 8:30 PM": "Vikings vs Kings",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Vikings",
+      "Ground Tear off": "Kings",
+      "Umpiring & Scoring": "Warriors",
+      "Teams": null
+    },
+    {
+      "DATE": "June 14",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "Warriors vs Avengers",
+      "(Sat) 4:45 PM - 8:15 PM": "Vikings vs Mavericks",
+      "Ground Set up": "Avengers",
+      "Ground Tear off": "Vikings",
+      "Umpiring & Scoring": "Vikings / Avengers",
+      "Teams": null
+    },
+    {
+      "DATE": "June 20",
+      "(Fri) 5:15 PM - 8:30 PM": "Mavericks vs Warriors",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Mavericks",
+      "Ground Tear off": "Warriors",
+      "Umpiring & Scoring": "Vikings",
+      "Teams": null
+    },
+    {
+      "DATE": "June 21",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "N/A",
+      "(Sat) 4:45 PM - 8:15 PM": "Vikings vs Avengers",
+      "Ground Set up": "Avengers",
+      "Ground Tear off": "Vikings",
+      "Umpiring & Scoring": "Mavericks",
+      "Teams": null
+    },
+    {
+      "DATE": "June 27",
+      "(Fri) 5:15 PM - 8:30 PM": "RESERVE",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": null,
+      "Ground Tear off": null,
+      "Umpiring & Scoring": null,
+      "Teams": "Canada Day Long Weekend"
+    },
+    {
+      "DATE": "June 28",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "RESERVE",
+      "(Sat) 4:45 PM - 8:15 PM": "RESERVE",
+      "Ground Set up": null,
+      "Ground Tear off": null,
+      "Umpiring & Scoring": null,
+      "Teams": "Canada Day Long Weekend"
+    },
+    {
+      "DATE": "July 04",
+      "(Fri) 5:15 PM - 8:30 PM": "Vikings vs Kings",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Vikings",
+      "Ground Tear off": "Kings",
+      "Umpiring & Scoring": "Mavericks",
+      "Teams": null
+    },
+    {
+      "DATE": "July 05",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "Kings vs Avengers",
+      "(Sat) 4:45 PM - 8:15 PM": "Vikings vs Mavericks",
+      "Ground Set up": "Avengers",
+      "Ground Tear off": "Mavericks",
+      "Umpiring & Scoring": "Vikings / Avengers",
+      "Teams": null
+    },
+    {
+      "DATE": "July 11",
+      "(Fri) 5:15 PM - 8:30 PM": "Mavericks vs Avengers",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Mavericks",
+      "Ground Tear off": "Avengers",
+      "Umpiring & Scoring": "Warriors",
+      "Teams": null
+    },
+    {
+      "DATE": "July 12",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "Warriors vs Avengers",
+      "(Sat) 4:45 PM - 8:15 PM": "Vikings vs Kings",
+      "Ground Set up": "Avengers",
+      "Ground Tear off": "Kings",
+      "Umpiring & Scoring": "Vikings / Warriors",
+      "Teams": null
+    },
+    {
+      "DATE": "July 18",
+      "(Fri) 5:15 PM - 8:30 PM": "Vikings vs Avengers",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Avengers",
+      "Ground Tear off": "Vikings",
+      "Umpiring & Scoring": "Kings",
+      "Teams": null
+    },
+    {
+      "DATE": "July 19",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "N/A",
+      "(Sat) 4:45 PM - 8:15 PM": "Kings vs Warriors",
+      "Ground Set up": "Warriors",
+      "Ground Tear off": "Kings",
+      "Umpiring & Scoring": "Vikings",
+      "Teams": null
+    },
+    {
+      "DATE": "July 25",
+      "(Fri) 5:15 PM - 8:30 PM": "Vikings vs Mavericks",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Mavericks",
+      "Ground Tear off": "Vikings",
+      "Umpiring & Scoring": "Warriors",
+      "Teams": null
+    },
+    {
+      "DATE": "July 26",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "Mavericks vs Warriors",
+      "(Sat) 4:45 PM - 8:15 PM": "Kings vs Avengers",
+      "Ground Set up": "Warriors",
+      "Ground Tear off": "Kings",
+      "Umpiring & Scoring": "Avengers / Warriors",
+      "Teams": null
+    },
+    {
+      "DATE": "August 1",
+      "(Fri) 5:15 PM - 8:30 PM": "RESERVE",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": null,
+      "Ground Tear off": null,
+      "Umpiring & Scoring": null,
+      "Teams": "BC Day Long Weekend"
+    },
+    {
+      "DATE": "August 2",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "RESERVE",
+      "(Sat) 4:45 PM - 8:15 PM": "RESERVE",
+      "Ground Set up": null,
+      "Ground Tear off": null,
+      "Umpiring & Scoring": null,
+      "Teams": "BC Day Long Weekend"
+    },
+    {
+      "DATE": "August 08",
+      "(Fri) 5:15 PM - 8:30 PM": "Vikings vs Warriors",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Vikings",
+      "Ground Tear off": "Warriors",
+      "Umpiring & Scoring": "Mavericks",
+      "Teams": null
+    },
+    {
+      "DATE": "August 9",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "Kings vs Mavericks",
+      "(Sat) 4:45 PM - 8:15 PM": "Warriors vs Avengers",
+      "Ground Set up": "Mavericks",
+      "Ground Tear off": "Avengers",
+      "Umpiring & Scoring": "Warriors / Kings",
+      "Teams": null
+    },
+    {
+      "DATE": "August 15",
+      "(Fri) 5:15 PM - 8:30 PM": "Mavericks vs Avengers",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Avengers",
+      "Ground Tear off": "Mavericks",
+      "Umpiring & Scoring": "Vikings",
+      "Teams": null
+    },
+    {
+      "DATE": "August 16",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "N/A",
+      "(Sat) 4:45 PM - 8:15 PM": "Kings vs Warriors",
+      "Ground Set up": "Kings",
+      "Ground Tear off": "Warriors",
+      "Umpiring & Scoring": "Avengers",
+      "Teams": null
+    },
+    {
+      "DATE": "August 22",
+      "(Fri) 5:15 PM - 8:30 PM": "Vikings vs Warriors",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": "Warriors",
+      "Ground Tear off": "Vikings",
+      "Umpiring & Scoring": "Avengers",
+      "Teams": null
+    },
+    {
+      "DATE": "August 23",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "Kings vs Mavericks",
+      "(Sat) 4:45 PM - 8:15 PM": "RESERVE",
+      "Ground Set up": "Kings",
+      "Ground Tear off": "Mavericks",
+      "Umpiring & Scoring": "Warriors",
+      "Teams": null
+    },
+    {
+      "DATE": "August 29",
+      "(Fri) 5:15 PM - 8:30 PM": "QUALIFIER - 1 (1 vs 2)",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": null,
+      "Ground Tear off": null,
+      "Umpiring & Scoring": null,
+      "Teams": "Labour Day Long Weekend"
+    },
+    {
+      "DATE": "August 30",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "ELIMINATOR - E (3 vs 4)",
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": null,
+      "Ground Tear off": null,
+      "Umpiring & Scoring": null,
+      "Teams": "Labour Day Long Weekend"
+    },
+    {
+      "DATE": "Septemebr 05",
+      "(Fri) 5:15 PM - 8:30 PM": "QUALIFIER - 2 (QL1 vs E)",
+      "(Sat) 1:00 PM - 4:30 PM": null,
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": null,
+      "Ground Tear off": null,
+      "Umpiring & Scoring": null,
+      "Teams": null
+    },
+    {
+      "DATE": "September 6",
+      "(Fri) 5:15 PM - 8:30 PM": null,
+      "(Sat) 1:00 PM - 4:30 PM": "FINALS (Q1 vs Q2)",
+      "(Sat) 4:45 PM - 8:15 PM": null,
+      "Ground Set up": null,
+      "Ground Tear off": null,
+      "Umpiring & Scoring": null,
+      "Teams": null
+    }
+  ]

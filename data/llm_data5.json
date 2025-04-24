@@ -1,0 +1,230 @@
+[
+    {
+      "data_type": "league_assignments",
+      "description": "Complete league assignments and game statistics for all teams including Whonnock Warriors for the 2025 season",
+      "Table Title": "Ground Se-up & Tear-off Assignment",
+      "Data": [
+        {
+          "Assignment Type": "Ground Set up Assignments",
+          "Albion Avengers": 6,
+          "Kanaka Kings": 6,
+          "Maple Mavericks": 7,
+          "Valley Vikings": 7,
+          "Whonnock Warriors": 6
+        },
+        {
+          "Assignment Type": "Ground Tear off Assignments",
+          "Albion Avengers": 7,
+          "Kanaka Kings": 6,
+          "Maple Mavericks": 6,
+          "Valley Vikings": 6,
+          "Whonnock Warriors": 7
+        },
+        {
+          "Assignment Type": "Total Assignments",
+          "Albion Avengers": 13,
+          "Kanaka Kings": 12,
+          "Maple Mavericks": 13,
+          "Valley Vikings": 13,
+          "Whonnock Warriors": 13
+        }
+      ]
+    },
+    {
+      "Table Title": "Umpiring/Scoring Assignment",
+      "Data": [
+        {
+          "Assignment Type": "Umpiring / Scoring Assignments",
+          "Albion Avengers": 8,
+          "Kanaka Kings": 8,
+          "Maple Mavericks": 8,
+          "Valley Vikings": 8,
+          "Whonnock Warriors": 8
+        },
+        {
+          "Assignment Type": "Total",
+          "Albion Avengers": 8,
+          "Kanaka Kings": 8,
+          "Maple Mavericks": 8,
+          "Valley Vikings": 8,
+          "Whonnock Warriors": 8
+        }
+      ]
+    },
+    {
+      "Table Title": "Games per week",
+      "Data": [
+        {
+          "Week Number": 1,
+          "Dates": "April 25 - 26",
+          "Albion Avengers": 1,
+          "Kanaka Kings": 1,
+          "Maple Mavericks": 1,
+          "Valley Vikings": 0,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 2,
+          "Dates": "May 2 - 3",
+          "Albion Avengers": 1,
+          "Kanaka Kings": 2,
+          "Maple Mavericks": 0,
+          "Valley Vikings": 2,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 3,
+          "Dates": "May 9 - 10",
+          "Albion Avengers": 1,
+          "Kanaka Kings": 1,
+          "Maple Mavericks": 2,
+          "Valley Vikings": 1,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 4,
+          "Dates": "May 16 - 17",
+          "Albion Avengers": 1,
+          "Kanaka Kings": 0,
+          "Maple Mavericks": 1,
+          "Valley Vikings": 1,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 5,
+          "Dates": "May 23 - 24",
+          "Albion Avengers": 1,
+          "Kanaka Kings": 1,
+          "Maple Mavericks": 1,
+          "Valley Vikings": 0,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 6,
+          "Dates": "May 30 - 31",
+          "Albion Avengers": 2,
+          "Kanaka Kings": 1,
+          "Maple Mavericks": 1,
+          "Valley Vikings": 1,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 7,
+          "Dates": "June 6 - 7",
+          "Albion Avengers": 0,
+          "Kanaka Kings": 1,
+          "Maple Mavericks": 1,
+          "Valley Vikings": 1,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 8,
+          "Dates": "June 13 - 14",
+          "Albion Avengers": 1,
+          "Kanaka Kings": 1,
+          "Maple Mavericks": 1,
+          "Valley Vikings": 2,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 9,
+          "Dates": "June 20 - 21",
+          "Albion Avengers": 1,
+          "Kanaka Kings": 0,
+          "Maple Mavericks": 1,
+          "Valley Vikings": 1,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 10,
+          "Dates": "June 27 - 28",
+          "Albion Avengers": 0,
+          "Kanaka Kings": 0,
+          "Maple Mavericks": 0,
+          "Valley Vikings": 0,
+          "Whonnock Warriors": 0
+        },
+        {
+          "Week Number": 11,
+          "Dates": "July 4 - 5",
+          "Albion Avengers": 1,
+          "Kanaka Kings": 2,
+          "Maple Mavericks": 1,
+          "Valley Vikings": 2,
+          "Whonnock Warriors": 0
+        },
+        {
+          "Week Number": 12,
+          "Dates": "July 11 - 12",
+          "Albion Avengers": 2,
+          "Kanaka Kings": 1,
+          "Maple Mavericks": 1,
+          "Valley Vikings": 1,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 13,
+          "Dates": "July 18 - 19",
+          "Albion Avengers": 1,
+          "Kanaka Kings": 1,
+          "Maple Mavericks": 0,
+          "Valley Vikings": 1,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 14,
+          "Dates": "July 25 - 26",
+          "Albion Avengers": 1,
+          "Kanaka Kings": 1,
+          "Maple Mavericks": 2,
+          "Valley Vikings": 1,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 15,
+          "Dates": "August 1 - 2",
+          "Albion Avengers": 0,
+          "Kanaka Kings": 0,
+          "Maple Mavericks": 0,
+          "Valley Vikings": 0,
+          "Whonnock Warriors": 0
+        },
+        {
+          "Week Number": 16,
+          "Dates": "August 8 - 9",
+          "Albion Avengers": 1,
+          "Kanaka Kings": 1,
+          "Maple Mavericks": 1,
+          "Valley Vikings": 1,
+          "Whonnock Warriors": 2
+        },
+        {
+          "Week Number": 17,
+          "Dates": "August 15 - 16",
+          "Albion Avengers": 1,
+          "Kanaka Kings": 1,
+          "Maple Mavericks": 1,
+          "Valley Vikings": 0,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": 18,
+          "Dates": "August 22 - 23",
+          "Albion Avengers": 0,
+          "Kanaka Kings": 1,
+          "Maple Mavericks": 1,
+          "Valley Vikings": 1,
+          "Whonnock Warriors": 1
+        },
+        {
+          "Week Number": "Total Games",
+          "Dates": null,
+          "Albion Avengers": 16,
+          "Kanaka Kings": 16,
+          "Maple Mavericks": 16,
+          "Valley Vikings": 16,
+          "Whonnock Warriors": 16
+        }
+      ]
+    }
+  ]
