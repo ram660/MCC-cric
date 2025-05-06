@@ -1,0 +1,436 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Maple Mavericks",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Maple Mavericks",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-05-27, 00:27 AM UTC",
+    "result": "Maple Mavericks won by 38 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "169/7",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Taimoor T ariq",
+          "status": "c Sanket b Ankit Khanna",
+          "runs": 17,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 89.47
+        },
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c Unique Bhateja b Ankit Khanna",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Vivek K",
+          "status": "c Sudhakar Botta b Ankit Khanna",
+          "runs": 13,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 162.5
+        },
+        {
+          "name": "Evyan",
+          "status": "c Akash Madaan b Sudhakar Botta",
+          "runs": 60,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 4,
+          "strike_rate": 166.67
+        },
+        {
+          "name": "Akshay Ravi",
+          "status": "b Ashish Rana",
+          "runs": 10,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 47.62
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c Ankit Khanna b Sudhakar Botta",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "RANJOT SINGH",
+          "status": "c Siddharth Khanna b Ashish Rana",
+          "runs": 4,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Kanishk",
+          "status": "not out",
+          "runs": 44,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 4,
+          "strike_rate": 275.0
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "not out",
+          "runs": 5,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hardip Singh Chandail",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 8.25
+        },
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.75
+        },
+        {
+          "name": "Ankit Khanna",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 3,
+          "economy": 3.25
+        },
+        {
+          "name": "Siddharth Khanna",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 15.0
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 7.5
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 18.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 24,
+          "wicket": 1,
+          "player": "Sharath Reddy Gade",
+          "overs": "4.2"
+        },
+        {
+          "score": 25,
+          "wicket": 2,
+          "player": "T aimoor T ariq",
+          "overs": "5"
+        },
+        {
+          "score": 41,
+          "wicket": 3,
+          "player": "V ivek K",
+          "overs": "6.3"
+        },
+        {
+          "score": 95,
+          "wicket": 4,
+          "player": "Akshay Ravi",
+          "overs": "13.5"
+        },
+        {
+          "score": 96,
+          "wicket": 5,
+          "player": "Abhilash Reddy Gade",
+          "overs": "14.1"
+        },
+        {
+          "score": 110,
+          "wicket": 6,
+          "player": "RANJOT SINGH",
+          "overs": "15.5"
+        },
+        {
+          "score": 146,
+          "wicket": 7,
+          "player": "Evyan",
+          "overs": "18.1"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "131/7",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Unique Bhateja",
+          "status": "c Evyan b Akshay Ravi",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Siddharth Khanna",
+          "status": "c VAMSI REDDY NALLA b Kanishk",
+          "runs": 14,
+          "balls": 32,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 43.75
+        },
+        {
+          "name": "Vicky",
+          "status": "c Evyan b V AMSI REDDY NALLA",
+          "runs": 9,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 56.25
+        },
+        {
+          "name": "Hardip Singh Chandail",
+          "status": "c Vivek K b Srikanth Thota",
+          "runs": 20,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 142.86
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "c Abhilash Reddy Gade b V AMSI REDDY NALLA",
+          "runs": 26,
+          "balls": 20,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 130.0
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "b Evyan",
+          "runs": 11,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.62
+        },
+        {
+          "name": "Ankit Khanna",
+          "status": "not out",
+          "runs": 15,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 107.14
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "b Kanishk",
+          "runs": 12,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 109.09
+        },
+        {
+          "name": "Akash Madaan",
+          "status": "not out",
+          "runs": 3,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 300.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Akshay Ravi",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.5
+        },
+        {
+          "name": "Murali Narra",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "name": "Kanishk",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 7.0
+        },
+        {
+          "name": "Srikanth Thota",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 8.33
+        },
+        {
+          "name": "Evyan",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 5.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 1,
+          "wicket": 1,
+          "player": "Unique Bhateja",
+          "overs": "0.1"
+        },
+        {
+          "score": 23,
+          "wicket": 2,
+          "player": "V icky",
+          "overs": "5.5"
+        },
+        {
+          "score": 51,
+          "wicket": 3,
+          "player": "Siddharth Khanna",
+          "overs": "10"
+        },
+        {
+          "score": 54,
+          "wicket": 4,
+          "player": "Hardip Singh Chandail",
+          "overs": "10.2"
+        },
+        {
+          "score": 75,
+          "wicket": 5,
+          "player": "Maharshi Pandya",
+          "overs": "13.4"
+        },
+        {
+          "score": 108,
+          "wicket": 6,
+          "player": "Ashish Rana",
+          "overs": "17.2"
+        },
+        {
+          "score": 128,
+          "wicket": 7,
+          "player": "Sudhakar Botta",
+          "overs": "19.3"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Jayan Jayabal",
+        "runs": 60,
+        "balls": 36,
+        "fours": 4,
+        "sixes": 4,
+        "strike_rate": 166.67
+      },
+      {
+        "name": "Kanishk",
+        "runs": 44,
+        "balls": 16,
+        "fours": 2,
+        "sixes": 4,
+        "strike_rate": 275.0
+      },
+      {
+        "name": "Ashish Rana",
+        "runs": 26,
+        "balls": 20,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 130.0
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Ankit Khanna",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 13,
+        "wickets": 3,
+        "economy": 3.25
+      },
+      {
+        "name": "Vamsi Reddy Nalla",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 2,
+        "economy": 5.5
+      },
+      {
+        "name": "Sudhakar Botta",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 2,
+        "economy": 6.75
+      }
+    ]
+  },
+  "match_summary": "The Maple Mavericks defeated the Kanaka Kings by 38 runs at Selvey Park, Maple Ridge on 2023-05-27. The Maple Mavericks, after winning the toss and electing to bat, posted a total of 169/7.  Evyan scored 60 runs and Kanishk added 44 runs to lead the Mavericks' batting effort.  The Kanaka Kings responded with 131/7. Ashish Rana top-scored for the Kings with 26 runs.\n\nAnkit Khanna was the pick of the bowlers for the Kanaka Kings with 3 wickets for 13 runs. For the Maple Mavericks, VAMSI REDDY NALLA and Kanishk each took 2 wickets, while Sudhakar Botta also grabbed 2 wickets."
+}

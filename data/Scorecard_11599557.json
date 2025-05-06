@@ -1,0 +1,427 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Kanaka Kings",
+      "team2": "Cottonwood Challengers"
+    },
+    "toss": {
+      "winner": "Kanaka Kings",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-08-10",
+    "result": "Cottonwood Challengers won by 7 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "113/10",
+      "overs": 19.5,
+      "batting": [
+        {
+          "name": "Siddharth Khanna",
+          "status": "c Maulik Mehta b Hardip MCC",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Durai",
+          "status": "c&b Evyan",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "lbw b Hardip MCC",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Naveen Battula",
+          "status": "b Hardip MCC",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "c Yash T rivedi b Shivam Patel",
+          "runs": 25,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 119.05
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "c Prashant Mukherjee MCC b Karmvir MCC",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "status": "c Evyan b Karmvir MCC",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 10.0
+        },
+        {
+          "name": "Michael",
+          "status": "b Prashant Mukherjee MCC",
+          "runs": 30,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Jk Ram",
+          "status": "not out",
+          "runs": 13,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 59.09
+        },
+        {
+          "name": "Srinivas Manne",
+          "status": "b Karmvir MCC",
+          "runs": 14,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 155.56
+        },
+        {
+          "name": "Ram Malineni",
+          "status": "run out Y ash T rivedi",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Evyan",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "name": "Hardip MCC",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 3,
+          "economy": 5.67
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 3.5,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 3,
+          "economy": 5.22
+        },
+        {
+          "name": "Yash T rivedi",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        },
+        {
+          "name": "Nikhil",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "name": "Shivam Patel",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "name": "Prashant Mukherjee MCC",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 9.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 6,
+          "wicket": 1,
+          "player": "Siddharth Khanna",
+          "overs": "1.2 ov"
+        },
+        {
+          "score": 6,
+          "wicket": 2,
+          "player": "Maharshi Pandya",
+          "overs": "1.4 ov"
+        },
+        {
+          "score": 8,
+          "wicket": 3,
+          "player": "Durai",
+          "overs": "2.1 ov"
+        },
+        {
+          "score": 14,
+          "wicket": 4,
+          "player": "Naveen Battula",
+          "overs": "3.4 ov"
+        },
+        {
+          "score": 21,
+          "wicket": 5,
+          "player": "Sudhakar Botta",
+          "overs": "4.3 ov"
+        },
+        {
+          "score": 27,
+          "wicket": 6,
+          "player": "Naga Bhaskar Sharma Mukka",
+          "overs": "6.3 ov"
+        },
+        {
+          "score": 63,
+          "wicket": 7,
+          "player": "Ashish Rana",
+          "overs": "12.2 ov"
+        },
+        {
+          "score": 82,
+          "wicket": 8,
+          "player": "Michael",
+          "overs": "15.2 ov"
+        },
+        {
+          "score": 101,
+          "wicket": 9,
+          "player": "Srinivas Manne",
+          "overs": "18 ov"
+        },
+        {
+          "score": 113,
+          "wicket": 10,
+          "player": "Ram Malineni",
+          "overs": "19.5 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "114/3",
+      "overs": 14.1,
+      "batting": [
+        {
+          "name": "RANJOT SINGH",
+          "status": "c Maharshi Pandya b Ashish Rana",
+          "runs": 54,
+          "balls": 42,
+          "fours": 6,
+          "sixes": 2,
+          "strike_rate": 128.57
+        },
+        {
+          "name": "Harmeet Singh",
+          "status": "c Michael b Jk Ram",
+          "runs": 27,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 135.0
+        },
+        {
+          "name": "Maulik Mehta",
+          "status": "c Michael b Jk Ram",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Mandip T rehan",
+          "status": "not out",
+          "runs": 23,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 121.05
+        },
+        {
+          "name": "Prashant Mukherjee MCC",
+          "status": "not out",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 3.1,
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 9.79
+        },
+        {
+          "name": "Srinivas Manne",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 9.33
+        },
+        {
+          "name": "Naveen Battula",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "name": "Jk Ram",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 7.67
+        },
+        {
+          "name": "Ram Malineni",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "name": "Durai",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 1,
+          "maidens": 1,
+          "runs": 0,
+          "wickets": 1,
+          "economy": 0.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 68,
+          "wicket": 1,
+          "player": "Harmeet Singh",
+          "overs": "8.1 ov"
+        },
+        {
+          "score": 68,
+          "wicket": 2,
+          "player": "Maulik Mehta",
+          "overs": "8.2 ov"
+        },
+        {
+          "score": 110,
+          "wicket": 3,
+          "player": "RANJOT SINGH",
+          "overs": "13.2 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Ranjot Singh",
+        "runs": 54,
+        "balls": 42,
+        "fours": 6,
+        "sixes": 2,
+        "strike_rate": 128.57
+      },
+      {
+        "name": "Michael",
+        "runs": 30,
+        "balls": 30,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 100.0
+      },
+      {
+        "name": "Harmeet Singh",
+        "runs": 27,
+        "balls": 20,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 135.0
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Karmvir Mcc",
+        "overs": 3.5,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 3,
+        "economy": 5.22
+      },
+      {
+        "name": "Hardip Mcc",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 3,
+        "economy": 5.67
+      },
+      {
+        "name": "Jk Ram",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 23,
+        "wickets": 2,
+        "economy": 7.67
+      }
+    ]
+  }
+}

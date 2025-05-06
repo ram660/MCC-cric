@@ -1,0 +1,405 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Kanaka Kings",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-07-06",
+    "result": "Kanaka Kings won by 5 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "132/7",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Srikanth Thota",
+          "status": "run out Jk Ram / † Maharshi Pandya",
+          "runs": 7,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 38.89
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "c Maharshi Pandya b Srinivas Manne",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "Bhuvan",
+          "status": "c Sudhakar Botta b Srinivas Manne",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Nishu",
+          "status": "run out Michael / Siddharth Khanna",
+          "runs": 13,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 56.52
+        },
+        {
+          "name": "Vivek R",
+          "status": "c Siddharth Khanna b Naveen Battula",
+          "runs": 10,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 90.91
+        },
+        {
+          "name": "Daqoo M",
+          "status": "b Naveen Battula",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Teja",
+          "status": "b Naveen Battula",
+          "runs": 51,
+          "balls": 30,
+          "fours": 7,
+          "sixes": 0,
+          "strike_rate": 170.0
+        },
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "not out",
+          "runs": 27,
+          "balls": 23,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 117.39
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "not out",
+          "runs": 10,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 6.25
+        },
+        {
+          "name": "Srinivas Manne",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "name": "Naveen Battula",
+          "overs": 4.0,
+          "maidens": 1,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 3.75
+        },
+        {
+          "name": "Jk Ram",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        },
+        {
+          "name": "Siddharth Khanna",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 11.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 9,
+          "wicket": 1,
+          "player": "Winston Garnepudi",
+          "overs": "1.1"
+        },
+        {
+          "score": 9,
+          "wicket": 2,
+          "player": "Bhuvan",
+          "overs": "1.2"
+        },
+        {
+          "score": 24,
+          "wicket": 3,
+          "player": "Srikanth Thota",
+          "overs": "6.1"
+        },
+        {
+          "score": 39,
+          "wicket": 4,
+          "player": "V ivek R",
+          "overs": "9.1"
+        },
+        {
+          "score": 39,
+          "wicket": 5,
+          "player": "Daqoo M",
+          "overs": "9.5"
+        },
+        {
+          "score": 42,
+          "wicket": 6,
+          "player": "Nishu",
+          "overs": "10.3"
+        },
+        {
+          "score": 115,
+          "wicket": 7,
+          "player": "Teja",
+          "overs": "18.4"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "133/5",
+      "overs": 19.1,
+      "batting": [
+        {
+          "name": "Naveen Battula",
+          "status": "c&b Nishu",
+          "runs": 52,
+          "balls": 54,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 96.3
+        },
+        {
+          "name": "Siddharth Khanna",
+          "status": "b Winston Garnepudi",
+          "runs": 38,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 152.0
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "c Sampath Chowdary Nimmagadda b Naveen Narpina",
+          "runs": 23,
+          "balls": 50,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "not out",
+          "runs": 33,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 122.22
+        },
+        {
+          "name": "Michael",
+          "status": "c Winston Garnepudi b Nishu",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "c Sandeep Nimmagadda b Nishu",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "status": "not out",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vivek R",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 7.25
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "name": "Nishu",
+          "overs": 2.1,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 3,
+          "economy": 8.31
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 66,
+          "wicket": 1,
+          "player": "Siddharth Khanna",
+          "overs": "8.2"
+        },
+        {
+          "score": 71,
+          "wicket": 2,
+          "player": "Maharshi Pandya",
+          "overs": "9.3"
+        },
+        {
+          "score": 122,
+          "wicket": 3,
+          "player": "Naveen Battula",
+          "overs": "17.2"
+        },
+        {
+          "score": 126,
+          "wicket": 4,
+          "player": "Michael",
+          "overs": "17.5"
+        },
+        {
+          "score": 126,
+          "wicket": 5,
+          "player": "Sudhakar Botta",
+          "overs": "18"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Naveen Battula",
+        "runs": 52,
+        "balls": 54,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 96.3
+      },
+      {
+        "name": "Teja",
+        "runs": 51,
+        "balls": 30,
+        "fours": 7,
+        "sixes": 0,
+        "strike_rate": 170.0
+      },
+      {
+        "name": "Siddharth Khanna",
+        "runs": 38,
+        "balls": 25,
+        "fours": 3,
+        "sixes": 2,
+        "strike_rate": 152.0
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Naveen Battula",
+        "overs": 4.0,
+        "maidens": 1,
+        "runs": 15,
+        "wickets": 3,
+        "economy": 3.75
+      },
+      {
+        "name": "Gunish",
+        "overs": 2.1,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 3,
+        "economy": 8.31
+      },
+      {
+        "name": "Srinivas Manne",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 23,
+        "wickets": 2,
+        "economy": 5.75
+      }
+    ]
+  }
+}

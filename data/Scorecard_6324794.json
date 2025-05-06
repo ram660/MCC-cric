@@ -1,0 +1,458 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Maple Mavericks",
+      "team2": "Valley Vikings"
+    },
+    "toss": {
+      "winner": "Valley Vikings",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-07-29",
+    "result": "Valley Vikings won by 4 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "126/9",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Shivam",
+          "status": "lbw b Harshith Reddy",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67
+        },
+        {
+          "name": "Srikanth Thota",
+          "status": "b Rajeev",
+          "runs": 21,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 77.78
+        },
+        {
+          "name": "Akshay Ravi",
+          "status": "run out Rajeev",
+          "runs": 20,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 105.26
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c Vinil Dontha b Ganesh Pachava",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "RANJOT SINGH",
+          "status": "b Ganesh Pachava",
+          "runs": 12,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 85.71
+        },
+        {
+          "name": "Kanishk",
+          "status": "c Lalith b V inil Dontha",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5
+        },
+        {
+          "name": "Evyan",
+          "status": "c Pavan Pothamsetty b Krishna",
+          "runs": 14,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 127.27
+        },
+        {
+          "name": "Vivek K",
+          "status": "run out Ganesh Pachava / Harsha",
+          "runs": 15,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 187.5
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "lbw b Ganesh Pachava",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "not out",
+          "runs": 11,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 137.5
+        },
+        {
+          "name": "Rajiv Perumalsamy",
+          "status": "not out",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rakesh",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 5.33
+        },
+        {
+          "name": "Harshith Reddy",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "name": "Rajeev",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 4.33
+        },
+        {
+          "name": "Lalith",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "name": "Ganesh Pachava",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 3.75
+        },
+        {
+          "name": "Vinil Dontha",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 10.0
+        },
+        {
+          "name": "Krishna",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 1,
+          "wickets": 1,
+          "economy": 1.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 6,
+          "wicket": 1,
+          "player": "Shivam",
+          "overs": "1.5"
+        },
+        {
+          "score": 51,
+          "wicket": 2,
+          "player": "Srikanth Thota",
+          "overs": "8.2"
+        },
+        {
+          "score": 58,
+          "wicket": 3,
+          "player": "Akshay Ravi",
+          "overs": "9.5"
+        },
+        {
+          "score": 67,
+          "wicket": 4,
+          "player": "Abhilash Reddy Gade",
+          "overs": "11.3"
+        },
+        {
+          "score": 79,
+          "wicket": 5,
+          "player": "RANJOT SINGH",
+          "overs": "14"
+        },
+        {
+          "score": 81,
+          "wicket": 6,
+          "player": "Kanishk",
+          "overs": "14.3"
+        },
+        {
+          "score": 111,
+          "wicket": 7,
+          "player": "V ivek K",
+          "overs": "17.2"
+        },
+        {
+          "score": 111,
+          "wicket": 8,
+          "player": "V AMSI REDDY NALLA",
+          "overs": "17.3"
+        },
+        {
+          "score": 113,
+          "wicket": 9,
+          "player": "Evyan",
+          "overs": "18.2"
+        }
+      ]
+    },
+    {
+      "batting_team": "Valley Vikings",
+      "total_score": "127/6",
+      "overs": 17.3,
+      "batting": [
+        {
+          "name": "Ankur W alia",
+          "status": "c Evyan b V AMSI REDDY NALLA",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Krishna",
+          "status": "c Evyan b Akshay Ravi",
+          "runs": 15,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 115.38
+        },
+        {
+          "name": "Rajeev",
+          "status": "lbw b V AMSI REDDY NALLA",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Harshith Reddy",
+          "status": "c Akshay Ravi b RANJOT SINGH",
+          "runs": 25,
+          "balls": 26,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 96.15
+        },
+        {
+          "name": "Pavan Pothamsetty",
+          "status": "c Sudhakar Botta b V AMSI REDDY NALLA",
+          "runs": 26,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 104.0
+        },
+        {
+          "name": "Daqoo M",
+          "status": "b VAMSI REDDY NALLA",
+          "runs": 41,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 124.24
+        },
+        {
+          "name": "Rakesh",
+          "status": "not out",
+          "runs": 6,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 150.0
+        },
+        {
+          "name": "Lalith",
+          "status": "not out",
+          "runs": 2,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 3.3,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 4,
+          "economy": 5.71
+        },
+        {
+          "name": "Akshay Ravi",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 4.67
+        },
+        {
+          "name": "Evyan",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "name": "Rajiv Perumalsamy",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "RANJOT SINGH",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "name": "Vivek K",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 0,
+          "wicket": 1,
+          "player": "Ankur W alia",
+          "overs": "0.1"
+        },
+        {
+          "score": 0,
+          "wicket": 2,
+          "player": "Rajeev ",
+          "overs": "0.2"
+        },
+        {
+          "score": 35,
+          "wicket": 3,
+          "player": "Krishna",
+          "overs": "5.4"
+        },
+        {
+          "score": 44,
+          "wicket": 4,
+          "player": "Harshith Reddy ",
+          "overs": "7.4"
+        },
+        {
+          "score": 113,
+          "wicket": 5,
+          "player": "Daqoo M",
+          "overs": "15.5"
+        },
+        {
+          "score": 122,
+          "wicket": 6,
+          "player": "Pavan Pothamsetty ",
+          "overs": "17.1"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Daqoo M",
+        "runs": 41,
+        "balls": 33,
+        "fours": 3,
+        "sixes": 2,
+        "strike_rate": 124.24
+      },
+      {
+        "name": "Pavan Kumar",
+        "runs": 26,
+        "balls": 25,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 104.0
+      },
+      {
+        "name": "Harshith Reddy",
+        "runs": 25,
+        "balls": 26,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 96.15
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Vamsi Reddy Nalla",
+        "overs": 3.3,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 4,
+        "economy": 5.71
+      },
+      {
+        "name": "Ganesh Pachava",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 3,
+        "economy": 3.75
+      },
+      {
+        "name": "Krishna",
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 1,
+        "wickets": 1,
+        "economy": 1.0
+      }
+    ]
+  }
+}

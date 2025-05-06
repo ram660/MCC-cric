@@ -1,0 +1,375 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Kanaka Kings",
+      "team2": "Cottonwood Challengers"
+    },
+    "toss": {
+      "winner": "Cottonwood Challengers",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-05-04",
+    "result": "Cottonwood Challengers won by 9 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "116/9",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Sudheer Niddani",
+          "status": "b Evyan",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Siddharth Khanna",
+          "status": "c Hardip MCC b Shivam Patel",
+          "runs": 7,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 53.85
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "c Prashant Mukherjee MCC b Karmvir MCC",
+          "runs": 29,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 138.1
+        },
+        {
+          "name": "Nikhil MCC",
+          "status": "lbw b Karmvir MCC",
+          "runs": 4,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "c Unique Bhateja b Shivam Patel",
+          "runs": 7,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.67
+        },
+        {
+          "name": "Bharath P",
+          "status": "c †Maulik Mehta b Karmvir MCC",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "not out",
+          "runs": 34,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 161.9
+        },
+        {
+          "name": "Jk Ram",
+          "status": "c †Maulik Mehta b Karmvir MCC",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Naveen Battula",
+          "status": "c RANJOT SINGH b Prashant Mukherjee MCC",
+          "runs": 2,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22
+        },
+        {
+          "name": "Shreyash Patel",
+          "status": "c Unique Bhateja b Y ash T rivedi",
+          "runs": 8,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 72.73
+        },
+        {
+          "name": "Shikhar Nautiyal",
+          "status": "not out",
+          "runs": 9,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 81.82
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Evyan",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 6.67
+        },
+        {
+          "name": "Hardip MCC",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "name": "Shivam Patel",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 4,
+          "economy": 2.5
+        },
+        {
+          "name": "Yash T rivedi",
+          "overs": 4,
+          "maidens": 1,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "name": "Prashant Mukherjee MCC",
+          "overs": 2,
+          "maidens": 1,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 1,
+          "wicket": 1,
+          "player": "Sudheer Niddani",
+          "overs": "0.3"
+        },
+        {
+          "score": 36,
+          "wicket": 2,
+          "player": "Siddharth Khanna",
+          "overs": "4.4"
+        },
+        {
+          "score": 48,
+          "wicket": 3,
+          "player": "Maharshi Pandya",
+          "overs": "7.2"
+        },
+        {
+          "score": 53,
+          "wicket": 4,
+          "player": "Nikhil MCC",
+          "overs": "9.4"
+        },
+        {
+          "score": 59,
+          "wicket": 5,
+          "player": "Sudhakar Botta",
+          "overs": "11"
+        },
+        {
+          "score": 59,
+          "wicket": 6,
+          "player": "Bharath P",
+          "overs": "11.1"
+        },
+        {
+          "score": 59,
+          "wicket": 7,
+          "player": "Jk Ram",
+          "overs": "11.2"
+        },
+        {
+          "score": 61,
+          "wicket": 8,
+          "player": "Naveen Battula",
+          "overs": "13.3"
+        },
+        {
+          "score": 79,
+          "wicket": 9,
+          "player": "Shreyash Patel",
+          "overs": "16.2"
+        }
+      ]
+    },
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "117/1",
+      "overs": 16.2,
+      "batting": [
+        {
+          "name": "RANJOT SINGH",
+          "status": "not out",
+          "runs": 64,
+          "balls": 56,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 114.29
+        },
+        {
+          "name": "Unique Bhateja",
+          "status": "c †Maharshi Pandya b Jk Ram",
+          "runs": 9,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Maulik Mehta",
+          "status": "not out",
+          "runs": 39,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 114.71
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "name": "Naveen Battula",
+          "overs": 3.2,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 4.8
+        },
+        {
+          "name": "Shreyash Patel",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 8.67
+        },
+        {
+          "name": "Jk Ram",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Siddharth Khanna",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 28,
+          "wicket": 1,
+          "player": "Unique Bhateja",
+          "overs": "5.1"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Ranjot Singh",
+        "runs": 64,
+        "balls": 56,
+        "fours": 8,
+        "sixes": 0,
+        "strike_rate": 114.29
+      },
+      {
+        "name": "Maulik Mehta",
+        "runs": 39,
+        "balls": 34,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 114.71
+      },
+      {
+        "name": "Ashish Rana",
+        "runs": 34,
+        "balls": 21,
+        "fours": 2,
+        "sixes": 3,
+        "strike_rate": 161.9
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Karmvir Mcc",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 10,
+        "wickets": 4,
+        "economy": 2.5
+      },
+      {
+        "name": "Shivam Patel",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 2,
+        "economy": 5.0
+      },
+      {
+        "name": "Prashant Mukherjee Mcc",
+        "overs": 2.0,
+        "maidens": 1,
+        "runs": 11,
+        "wickets": 1,
+        "economy": 5.5
+      }
+    ]
+  }
+}

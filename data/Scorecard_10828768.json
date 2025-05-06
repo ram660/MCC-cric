@@ -1,0 +1,413 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Cottonwood Challengers",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Cottonwood Challengers",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-04-20",
+    "result": "Kanaka Kings won by 3 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "129/5",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Taimoor T ariq",
+          "status": "c Shikhar Nautiyal b Ashish Rana",
+          "runs": 24,
+          "balls": 34,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 70.59
+        },
+        {
+          "name": "Unique Bhateja",
+          "status": "c MANGAL SINDHAR b Sudhakar Botta",
+          "runs": 7,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 140.0
+        },
+        {
+          "name": "Gurinder Randhawa",
+          "status": "b Sudhakar Botta",
+          "runs": 6,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Evyan",
+          "status": "c †Maharshi Pandya b Sudheer Niddani",
+          "runs": 15,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 78.95
+        },
+        {
+          "name": "Prateek Bansal MCC",
+          "status": "not out",
+          "runs": 21,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Hardip MCC",
+          "status": "lbw b Ashish Rana",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0
+        },
+        {
+          "name": "Maulik Mehta",
+          "status": "not out",
+          "runs": 39,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 144.44
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shikhar Mcc",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Naveen Battula",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 4.33
+        },
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "name": "Shikhar Nautiyal",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        },
+        {
+          "name": "Janakiram Pulipati",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 6.33
+        },
+        {
+          "name": "Sudheer Niddani",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 7.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 15,
+          "wicket": 1,
+          "player": "Unique Bhateja",
+          "overs": "2.4"
+        },
+        {
+          "score": 25,
+          "wicket": 2,
+          "player": "Gurinder Randhawa",
+          "overs": "4.5"
+        },
+        {
+          "score": 55,
+          "wicket": 3,
+          "player": "T aimoor T ariq",
+          "overs": "10.3"
+        },
+        {
+          "score": 62,
+          "wicket": 4,
+          "player": "Evyan",
+          "overs": "11.4"
+        },
+        {
+          "score": 66,
+          "wicket": 5,
+          "player": "Hardip MCC",
+          "overs": "12.3"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "130/7",
+      "overs": 17.5,
+      "batting": [
+        {
+          "name": "Sudheer Niddani",
+          "status": "lbw b Karmvir MCC",
+          "runs": 7,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.84
+        },
+        {
+          "name": "Siddharth Khanna",
+          "status": "c Hardip MCC b Unique Bhateja",
+          "runs": 40,
+          "balls": 36,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 111.11
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "lbw b Unique Bhateja",
+          "runs": 17,
+          "balls": 13,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 130.77
+        },
+        {
+          "name": "MANGAL SINDHAR",
+          "status": "c Maulik Mehta b Unique Bhateja",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Nikhil MCC",
+          "status": "st †Maulik Mehta b Unique Bhateja",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0
+        },
+        {
+          "name": "Bharath P",
+          "status": "run out Prashant Mukherjee MCC",
+          "runs": 8,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "lbw b Unique Bhateja",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Naveen Battula",
+          "status": "not out",
+          "runs": 18,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 138.46
+        },
+        {
+          "name": "Janakiram Pulipati",
+          "status": "not out",
+          "runs": 7,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 116.67
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hardip MCC",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "name": "Evyan",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 8.33
+        },
+        {
+          "name": "Yash T rivedi",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 5.75
+        },
+        {
+          "name": "Unique Bhateja",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 5,
+          "economy": 4.25
+        },
+        {
+          "name": "Prashant Mukherjee MCC",
+          "overs": 1.5,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 12.55
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 54,
+          "wicket": 1,
+          "player": "Sudheer Niddani",
+          "overs": "6.3"
+        },
+        {
+          "score": 78,
+          "wicket": 2,
+          "player": "Maharshi Pandya",
+          "overs": "9"
+        },
+        {
+          "score": 88,
+          "wicket": 3,
+          "player": "MANGAL SINDHAR",
+          "overs": "12.4"
+        },
+        {
+          "score": 90,
+          "wicket": 4,
+          "player": "Siddharth Khanna",
+          "overs": "13"
+        },
+        {
+          "score": 100,
+          "wicket": 5,
+          "player": "Nikhil MCC",
+          "overs": "14.1"
+        },
+        {
+          "score": 100,
+          "wicket": 6,
+          "player": "Ashish Rana",
+          "overs": "14.2"
+        },
+        {
+          "score": 113,
+          "wicket": 7,
+          "player": "Bharath P ",
+          "overs": "15.5"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Siddharth Khanna",
+        "runs": 40,
+        "balls": 36,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 111.11
+      },
+      {
+        "name": "Maulik Mehta",
+        "runs": 39,
+        "balls": 27,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 144.44
+      },
+      {
+        "name": "Taimoor T ariq",
+        "runs": 24,
+        "balls": 34,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 70.59
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Unique Bhateja",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 5,
+        "economy": 4.25
+      },
+      {
+        "name": "Sudhakar Botta",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 2,
+        "economy": 6.0
+      },
+      {
+        "name": "Ashish Rana",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 2,
+        "economy": 6.33
+      }
+    ]
+  }
+}

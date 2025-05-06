@@ -1,0 +1,398 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Cottonwood Challengers"
+    },
+    "toss": {
+      "winner": "Albion Avengers",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-06-15",
+    "result": "Cottonwood Challengers won by 6 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "128/7",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Srikanth Thota",
+          "status": "b Akshay Ravi",
+          "runs": 43,
+          "balls": 48,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 89.58
+        },
+        {
+          "name": "Daqoo M",
+          "status": "b Sudhakar Botta",
+          "runs": 5,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Bhuvan",
+          "status": "b Sudhakar Botta",
+          "runs": 29,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.22
+        },
+        {
+          "name": "Jaggu",
+          "status": "c †Prateek Bansal MCC b Sudhakar Botta",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Sunilkumar Prajapati",
+          "status": "b Karmvir MCC",
+          "runs": 23,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 104.55
+        },
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "run out Naga Bhaskar Sharma Mukka / Prateek Bansal MCC",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "not out",
+          "runs": 30,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 136.36
+        },
+        {
+          "name": "Vivek R",
+          "status": "c Evyan b Akshay Ravi",
+          "runs": 1,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "status": "not out",
+          "runs": 6,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 150.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Akshay Ravi",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 3.75
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 34,
+          "wickets": 1,
+          "economy": 8.5
+        },
+        {
+          "name": "Yash T rivedi",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Rohin Kapur",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 8,
+          "wicket": 1,
+          "player": "Daqoo M",
+          "overs": "2 ov"
+        },
+        {
+          "score": 12,
+          "wicket": 2,
+          "player": "Bhuvan",
+          "overs": "3.5 ov"
+        },
+        {
+          "score": 18,
+          "wicket": 3,
+          "player": "Jaggu",
+          "overs": "5.2 ov"
+        },
+        {
+          "score": 59,
+          "wicket": 4,
+          "player": "Sunilkumar Prajapati",
+          "overs": "10.5 ov"
+        },
+        {
+          "score": 64,
+          "wicket": 5,
+          "player": "Krishna Ananthaneni",
+          "overs": "11.5 ov"
+        },
+        {
+          "score": 113,
+          "wicket": 6,
+          "player": "Srikanth Thota",
+          "overs": "18.3 ov"
+        },
+        {
+          "score": 116,
+          "wicket": 7,
+          "player": "V ivek R",
+          "overs": "19 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "129/4",
+      "overs": 11.2,
+      "batting": [
+        {
+          "name": "RANJOT SINGH",
+          "status": "b Teja",
+          "runs": 22,
+          "balls": 16,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 137.5
+        },
+        {
+          "name": "Rohin Kapur",
+          "status": "st †Daqoo M b V ivek R",
+          "runs": 89,
+          "balls": 34,
+          "fours": 5,
+          "sixes": 9,
+          "strike_rate": 261.76
+        },
+        {
+          "name": "Unique Bhateja",
+          "status": "not out",
+          "runs": 12,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 75.0
+        },
+        {
+          "name": "Evyan",
+          "status": "c Teja b V ivek R",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Akshay Ravi",
+          "status": "lbw b V ivek R",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Prateek Bansal MCC",
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vivek R",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 3,
+          "economy": 7.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 8.67
+        },
+        {
+          "name": "Sunilkumar Prajapati",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 22.0
+        },
+        {
+          "name": "Teja",
+          "overs": 1.2,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 11.25
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 24.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 17.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 56,
+          "wicket": 1,
+          "player": "RANJOT SINGH",
+          "overs": "4.5 ov"
+        },
+        {
+          "score": 122,
+          "wicket": 2,
+          "player": "Rohin Kapur",
+          "overs": "10.2 ov"
+        },
+        {
+          "score": 122,
+          "wicket": 3,
+          "player": "Evyan",
+          "overs": "10.4 ov"
+        },
+        {
+          "score": 123,
+          "wicket": 4,
+          "player": "Akshay Ravi",
+          "overs": "11 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Rohin Kapur",
+        "runs": 89,
+        "balls": 34,
+        "fours": 5,
+        "sixes": 9,
+        "strike_rate": 261.76
+      },
+      {
+        "name": "Srikanth Thota",
+        "runs": 43,
+        "balls": 48,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 89.58
+      },
+      {
+        "name": "Winston Garnepudi",
+        "runs": 30,
+        "balls": 22,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 136.36
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Sudhakar Botta",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 3,
+        "economy": 3.75
+      },
+      {
+        "name": "Vivek R",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 3,
+        "economy": 7.0
+      },
+      {
+        "name": "Akshay Ravi",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 2,
+        "economy": 4.0
+      }
+    ]
+  }
+}

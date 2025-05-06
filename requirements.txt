@@ -10,3 +10,15 @@ python-dotenv
 pypdf
 google-cloud-aiplatform>=1.38
 google-generativeai>=0.3.0
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+requests-html
+pyppeteer
+playwright
+sentence-transformers>=2.2.2
+torch
+transformers
+langchain-huggingface
+numpy

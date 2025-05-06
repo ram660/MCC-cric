@@ -1,0 +1,430 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Warrengers",
+      "team2": "Mavengers"
+    },
+    "toss": {
+      "winner": "Warrengers",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-04-20",
+    "result": "Mavengers won by 8 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Warrengers",
+      "total_score": "142/7",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Ankit Khanna MCC",
+          "status": "c&b CricHeroes deleted user",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c&b Kanishk",
+          "runs": 11,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 61.11
+        },
+        {
+          "name": "Ritesh Shinde",
+          "status": "b Krishna",
+          "runs": 9,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0
+        },
+        {
+          "name": "Anvith MCC",
+          "status": "c Sudhakar Botta b Shivam",
+          "runs": 15,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 107.14
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "c Krishna b Shivam",
+          "runs": 25,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 208.33
+        },
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "retired hurt",
+          "runs": 38,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 131.03
+        },
+        {
+          "name": "Parth Patel",
+          "status": "run out Naveen Narpina / † Ketan Chawda",
+          "runs": 18,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 112.5
+        },
+        {
+          "name": "Srinivas",
+          "status": "c Ketan Chawda b Krishna Chaitanya(KC)",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Srikanth Thota",
+          "status": "not out",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Sudheer",
+          "status": "not out",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        }
+      ],
+      "bowling": [
+        {
+          "name": "CricHeroes deleted user",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 4.67
+        },
+        {
+          "name": "Kanishk (c)",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "name": "Krishna",
+          "overs": 2.0,
+          "maidens": 1,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "name": "Arvinth",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 17.0
+        },
+        {
+          "name": "Shivam",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 2,
+          "economy": 3.5
+        },
+        {
+          "name": "Sudhakar Botta",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "name": "Vivek R",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 1,
+          "wicket": 1,
+          "player": "Ankit Khanna MCC",
+          "overs": "0.3"
+        },
+        {
+          "score": 22,
+          "wicket": 2,
+          "player": "Ritesh Shinde",
+          "overs": "5.4"
+        },
+        {
+          "score": 24,
+          "wicket": 3,
+          "player": "Abhilash Reddy Gade",
+          "overs": "6.3"
+        },
+        {
+          "score": 61,
+          "wicket": 4,
+          "player": "Winston Garnepudi",
+          "overs": "9.2"
+        },
+        {
+          "score": 73,
+          "wicket": 5,
+          "player": "Anvith MCC",
+          "overs": "11.4"
+        },
+        {
+          "score": 112,
+          "wicket": 6,
+          "player": "Parth Patel",
+          "overs": "16"
+        },
+        {
+          "score": 128,
+          "wicket": 7,
+          "player": "Srinivas",
+          "overs": "17.4"
+        },
+        {
+          "score": 137,
+          "wicket": 7,
+          "player": "Krishna Ananthaneni",
+          "overs": "19"
+        }
+      ]
+    },
+    {
+      "batting_team": "Mavengers",
+      "total_score": "111/4",
+      "overs": 13.0,
+      "batting": [
+        {
+          "name": "Shivam",
+          "status": "b Sudheer",
+          "runs": 11,
+          "balls": 8,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 137.5
+        },
+        {
+          "name": "Krishna",
+          "status": "c Sudheer b Sandeep Nimmagadda",
+          "runs": 19,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 190.0
+        },
+        {
+          "name": "Ketan Chawda",
+          "status": "not out",
+          "runs": 36,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 124.14
+        },
+        {
+          "name": "Santhosh Kotagiri",
+          "status": "st †Ritesh Shinde b Ankit Khanna MCC",
+          "runs": 23,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 121.05
+        },
+        {
+          "name": "Kanishk",
+          "status": "run out † Ritesh Shinde / Ankit Khanna MCC",
+          "runs": 12,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 171.43
+        },
+        {
+          "name": "Abdul Cricket",
+          "status": "not out",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 9.5
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 8.5
+        },
+        {
+          "name": "Rahul",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 12.5
+        },
+        {
+          "name": "Ritesh Shinde",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "name": "Ankit Khanna MCC",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 4.5
+        },
+        {
+          "name": "Ram Malineni",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 10.5
+        },
+        {
+          "name": "Srinivas",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 30,
+          "wicket": 1,
+          "player": "Shivam",
+          "overs": "2.5"
+        },
+        {
+          "score": 30,
+          "wicket": 2,
+          "player": "Krishna",
+          "overs": "3.1"
+        },
+        {
+          "score": 72,
+          "wicket": 3,
+          "player": "Santhosh Kotagiri",
+          "overs": "8.5"
+        },
+        {
+          "score": 88,
+          "wicket": 4,
+          "player": "Kanishk",
+          "overs": "10.1"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Krishna Ananthaneni",
+        "runs": 38,
+        "balls": 29,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 131.03
+      },
+      {
+        "name": "Ketan Chawda",
+        "runs": 36,
+        "balls": 29,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 124.14
+      },
+      {
+        "name": "Winston Garnepudi",
+        "runs": 25,
+        "balls": 12,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 208.33
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Shivam",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 7,
+        "wickets": 2,
+        "economy": 3.5
+      },
+      {
+        "name": "Ankit Khanna Mcc",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 9,
+        "wickets": 1,
+        "economy": 4.5
+      },
+      {
+        "name": "Krishna Chaitanya Chitta",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 1,
+        "economy": 4.67
+      }
+    ]
+  },
+  "match_summary": "The Mavengers defeated the Warrengers by 8 wickets at Selvey Park, Maple Ridge on 2024-04-20. The Warrengers, after winning the toss and electing to bat, scored 142/7 in their 20 overs. In response, the Mavengers reached 111/4 in 13 overs to win the match.\n\nKrishna Ananthaneni (38 runs) and Winston Garnepudi (25 runs) were the top scorers for the Warrengers, while Ketan Chawda contributed 36 runs for the Mavengers. Shivam was the pick of the bowlers with 2 wickets for 7 runs, while Ankit Khanna MCC took 1 wicket for 9 runs."
+}

@@ -1,0 +1,466 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Maple Mavericks",
+      "team2": "Valley Vikings"
+    },
+    "toss": {
+      "winner": "Valley Vikings",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-07-08",
+    "result": "Maple Mavericks won by 2 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "148/7",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Srikanth Thota",
+          "status": "b Sree K",
+          "runs": 9,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.82
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c Sree K b Ganesh Pachava",
+          "runs": 13,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 86.67
+        },
+        {
+          "name": "Sundar Thangavelu",
+          "status": "b Sree K",
+          "runs": 13,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 130.0
+        },
+        {
+          "name": "Shivam",
+          "status": "b Lalith",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67
+        },
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c Pavan Pothamsetty b Lalith",
+          "runs": 7,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67
+        },
+        {
+          "name": "RANJOT SINGH",
+          "status": "c Sree K b Lalith",
+          "runs": 43,
+          "balls": 26,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 165.38
+        },
+        {
+          "name": "Vivek K",
+          "status": "b Krishna",
+          "runs": 9,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 47.37
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "not out",
+          "runs": 19,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 111.76
+        },
+        {
+          "name": "Kanishk",
+          "status": "not out",
+          "runs": 23,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 209.09
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sree K",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "name": "Rakesh",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 46,
+          "wickets": 0,
+          "economy": 11.5
+        },
+        {
+          "name": "Lalith",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 3,
+          "economy": 7.0
+        },
+        {
+          "name": "Ganesh Pachava",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "name": "Pavan Pothamsetty",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "name": "Vinil Dontha",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Krishna",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 5.67
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 19,
+          "wicket": 1,
+          "player": "Srikanth Thota",
+          "overs": "2.3"
+        },
+        {
+          "score": 33,
+          "wicket": 2,
+          "player": "Sundar Thangavelu",
+          "overs": "4.3"
+        },
+        {
+          "score": 36,
+          "wicket": 3,
+          "player": "Shivam",
+          "overs": "5.4"
+        },
+        {
+          "score": 47,
+          "wicket": 4,
+          "player": "Sharath Reddy Gade",
+          "overs": "7.5"
+        },
+        {
+          "score": 52,
+          "wicket": 5,
+          "player": "Abhilash Reddy Gade",
+          "overs": "8.1"
+        },
+        {
+          "score": 89,
+          "wicket": 6,
+          "player": "Vivek K",
+          "overs": "14.1"
+        },
+        {
+          "score": 114,
+          "wicket": 7,
+          "player": "RANJOT SINGH",
+          "overs": "17.2"
+        }
+      ]
+    },
+    {
+      "batting_team": "Valley Vikings",
+      "total_score": "146/9",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Harsha",
+          "status": "b RANJOT SINGH",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0
+        },
+        {
+          "name": "Krishna",
+          "status": "st †Sharath Reddy Gade b Sundar Thangavelu",
+          "runs": 28,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 112.0
+        },
+        {
+          "name": "Rajeev",
+          "status": "c Shivam b Sundar Thangavelu",
+          "runs": 11,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.62
+        },
+        {
+          "name": "Pavan Pothamsetty",
+          "status": "c Abhilash Reddy Gade b Sundar Thangavelu",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0
+        },
+        {
+          "name": "Harshith Reddy",
+          "status": "run out Shivam / † Sharath Reddy Gade",
+          "runs": 23,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 127.78
+        },
+        {
+          "name": "Rakesh",
+          "status": "b VAMSI REDDY NALLA",
+          "runs": 27,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 112.5
+        },
+        {
+          "name": "Ganesh Pachava",
+          "status": "c Sundar Thangavelu b Evyan",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Lalith",
+          "status": "run out Kanishk / † Sharath Reddy Gade",
+          "runs": 5,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Vinil Dontha",
+          "status": "b RANJOT SINGH",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Sree K",
+          "status": "not out",
+          "runs": 14,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 140.0
+        },
+        {
+          "name": "Nimma",
+          "status": "not out",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Evyan",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "name": "RANJOT SINGH",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 2,
+          "economy": 8.25
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "name": "Sundar Thangavelu",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 3,
+          "economy": 6.5
+        },
+        {
+          "name": "Vivek K",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 12,
+          "wicket": 1,
+          "player": "Harsha",
+          "overs": "1.1"
+        },
+        {
+          "score": 47,
+          "wicket": 2,
+          "player": "Rajeev",
+          "overs": "6.2"
+        },
+        {
+          "score": 54,
+          "wicket": 3,
+          "player": "Pavan Pothamsetty",
+          "overs": "8.2"
+        },
+        {
+          "score": 55,
+          "wicket": 4,
+          "player": "Krishna",
+          "overs": "8.4"
+        },
+        {
+          "score": 108,
+          "wicket": 5,
+          "player": "Harshith Reddy",
+          "overs": "14.3"
+        },
+        {
+          "score": 114,
+          "wicket": 6,
+          "player": "Rakesh",
+          "overs": "15.3"
+        },
+        {
+          "score": 120,
+          "wicket": 7,
+          "player": "Ganesh Pachava",
+          "overs": "16.3"
+        },
+        {
+          "score": 123,
+          "wicket": 8,
+          "player": "Vinil Dontha",
+          "overs": "17.2"
+        },
+        {
+          "score": 127,
+          "wicket": 9,
+          "player": "Lalith",
+          "overs": "18.1"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Ranjot Singh",
+        "runs": 43,
+        "balls": 26,
+        "fours": 4,
+        "sixes": 2,
+        "strike_rate": 165.38
+      },
+      {
+        "name": "Krishna",
+        "runs": 28,
+        "balls": 25,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 112.0
+      },
+      {
+        "name": "Rakesh",
+        "runs": 27,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 112.5
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Sundar Thangavelu",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 3,
+        "economy": 6.5
+      },
+      {
+        "name": "Lalith",
+        "runs": 21,
+        "overs": 3.0,
+        "maidens": 0,
+        "wickets": 3,
+        "economy": 7.0
+      },
+      {
+        "name": "Sree K",
+        "runs": 23,
+        "overs": 4.0,
+        "maidens": 0,
+        "wickets": 2,
+        "economy": 5.75
+      }
+    ]
+  },
+  "match_summary": "The Maple Mavericks narrowly defeated the Valley Vikings by 2 runs on 2023-07-08 at Selvey Park, Maple Ridge. The Valley Vikings won the toss and chose to field, limiting the Maple Mavericks to 148/7 in their 20 overs. The Valley Vikings, in response, scored 146/9.\n\nFor the Maple Mavericks, RANJOT SINGH top-scored with 43 runs, followed by Kanishk with 23 runs. Lalith and Sundar Thangavelu were the pick of the bowlers, both taking 3 wickets. For the Valley Vikings, Krishna scored 28 runs and Rakesh scored 27 runs."
+}

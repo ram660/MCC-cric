@@ -1,0 +1,346 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Kanaka Kings",
+      "team2": "Whonnock WARRIORS"
+    },
+    "toss": {
+      "winner": "Kanaka Kings",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-06-16",
+    "result": "Whonnock WARRIORS won by 6 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "109/4",
+      "overs": 16.0,
+      "batting": [
+        {
+          "name": "Siddharth Khanna",
+          "status": "run out † Sharath Reddy Gade",
+          "runs": 20,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Naveen Battula",
+          "status": "b Mahesh Gogineni",
+          "runs": 29,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.83
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "not out",
+          "runs": 26,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 123.81
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "b Mahesh Gogineni",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Sanket",
+          "status": "run out † Sharath Reddy Gade",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86
+        },
+        {
+          "name": "Arjun Bhatia",
+          "status": "not out",
+          "runs": 20,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 111.11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        },
+        {
+          "name": "Harshavardhan Reddy Bobba",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "name": "DEEP AK CRIC CANADA",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        },
+        {
+          "name": "Raja Allam",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 59,
+          "wicket": 1,
+          "player": "Siddharth Khanna",
+          "overs": "7.5"
+        },
+        {
+          "score": 61,
+          "wicket": 2,
+          "player": "Naveen Battula",
+          "overs": "8.2"
+        },
+        {
+          "score": 61,
+          "wicket": 3,
+          "player": "Ashish Rana",
+          "overs": "8.4"
+        },
+        {
+          "score": 68,
+          "wicket": 4,
+          "player": "Sanket",
+          "overs": "10.4"
+        }
+      ]
+    },
+    {
+      "batting_team": "Whonnock WARRIORS",
+      "total_score": "110/4",
+      "overs": 14.1,
+      "batting": [
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "lbw b Siddharth Khanna",
+          "runs": 15,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 115.38
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "b Sudhakar Botta",
+          "runs": 7,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c †Maharshi Pandya b Siddharth Khanna",
+          "runs": 36,
+          "balls": 23,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 156.52
+        },
+        {
+          "name": "Harshavardhan Reddy Bobba",
+          "status": "not out",
+          "runs": 25,
+          "balls": 18,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 138.89
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "c&b Sudhakar Botta",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14
+        },
+        {
+          "name": "Raja Allam",
+          "status": "not out",
+          "runs": 13,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 86.67
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.75
+        },
+        {
+          "name": "Naveen Battula",
+          "overs": 2.1,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 8.31
+        },
+        {
+          "name": "Jk Ram",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "name": "Siddharth Khanna",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 17,
+          "wicket": 1,
+          "player": "Akshay Reddy Putta",
+          "overs": "2.2"
+        },
+        {
+          "score": 65,
+          "wicket": 2,
+          "player": "Sharath Reddy Gade",
+          "overs": "7.2"
+        },
+        {
+          "score": 66,
+          "wicket": 3,
+          "player": "Abhilash Reddy Gade",
+          "overs": "7.5"
+        },
+        {
+          "score": 75,
+          "wicket": 4,
+          "player": "Mahesh Gogineni",
+          "overs": "9.3"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Abhilash Reddy Gade",
+        "runs": 36,
+        "balls": 23,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 156.52
+      },
+      {
+        "name": "Naveen Battula",
+        "runs": 29,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 120.83
+      },
+      {
+        "name": "Maharshi Pandya",
+        "runs": 26,
+        "balls": 21,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 123.81
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Mahesh Gogineni",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 2,
+        "economy": 4.0
+      },
+      {
+        "name": "Siddharth Khanna",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 2,
+        "economy": 6.0
+      },
+      {
+        "name": "Sudhakar Botta",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 2,
+        "economy": 7.75
+      }
+    ]
+  },
+  "match_summary": "The Whonnock Warriors defeated the Kanaka Kings by 6 wickets at Selvey Park, Maple Ridge on 2024-06-16. The Kanaka Kings, after winning the toss and electing to bat, scored 109/4 in their 16 overs. Naveen Battula (29 runs), Maharshi Pandya (26 runs), and Siddharth Khanna (20 runs) were the top scorers for the Kanaka Kings. Mahesh Gogineni was the pick of the bowlers for the Whonnock Warriors, taking 2 wickets for 12 runs.\n\nThe Whonnock Warriors chased down the target, finishing at 110/4 in 14.1 overs. Abhilash Reddy Gade led the chase with 36 runs, followed by Harshavardhan Reddy Bobba with 25 runs. Siddharth Khanna and Sudhakar Botta each took 2 wickets for the Kanaka Kings."
+}

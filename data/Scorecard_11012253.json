@@ -1,0 +1,403 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Cottonwood Challengers"
+    },
+    "toss": {
+      "winner": "Albion Avengers",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-05-05",
+    "result": "Albion Avengers won by 1 run"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "116/6",
+      "overs": 15.0,
+      "batting": [
+        {
+          "name": "Srikanth Thota",
+          "status": "c Hardip MCC b Y ash T rivedi",
+          "runs": 34,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 117.24
+        },
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "lbw b Karmvir MCC",
+          "runs": 4,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.77
+        },
+        {
+          "name": "Vivek R",
+          "status": "c Hardip MCC b Shivam Patel",
+          "runs": 10,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 125.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "run out Sunith Raju",
+          "runs": 42,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 3,
+          "strike_rate": 144.83
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "c Hardip MCC b Unique Bhateja",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "status": "st †Maulik Mehta b Karmvir MCC",
+          "runs": 6,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0
+        },
+        {
+          "name": "Srinivas",
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Abdul Rab Mohammed",
+          "status": "not out",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hardip MCC",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 5.67
+        },
+        {
+          "name": "Shivam Patel",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "name": "Yash T rivedi",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 10.0
+        },
+        {
+          "name": "Sunith Raju",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "name": "Unique Bhateja",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 17,
+          "wicket": 1,
+          "player": "Krishna Ananthaneni",
+          "overs": "3.4 ov"
+        },
+        {
+          "score": 40,
+          "wicket": 2,
+          "player": "V ivek R",
+          "overs": "6.4 ov"
+        },
+        {
+          "score": 79,
+          "wicket": 3,
+          "player": "Srikanth Thota",
+          "overs": "11.2 ov"
+        },
+        {
+          "score": 88,
+          "wicket": 4,
+          "player": "Sandeep Nimmagadda",
+          "overs": "12.1 ov"
+        },
+        {
+          "score": 111,
+          "wicket": 5,
+          "player": "Sampath Chowdary\nNimmagadda",
+          "overs": "14.2 ov"
+        },
+        {
+          "score": 113,
+          "wicket": 6,
+          "player": "Winston Garnepudi",
+          "overs": "14.4 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "115/7",
+      "overs": 15.0,
+      "batting": [
+        {
+          "name": "Unique Bhateja",
+          "status": "b Sandeep Nimmagadda",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Maulik Mehta",
+          "status": "c DSP b V ivek R",
+          "runs": 41,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 136.67
+        },
+        {
+          "name": "Prateek Bansal MCC",
+          "status": "b Sandeep Nimmagadda",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Sunith Raju",
+          "status": "c Krishna Ananthaneni b Sampath Chowdary Nimmagadda",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Shubh Sandhu",
+          "status": "run out Sampath Chowdary Nimmagadda / Winston Garnepudi",
+          "runs": 20,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 117.65
+        },
+        {
+          "name": "Hardip MCC",
+          "status": "run out Kalyan V arma Alluri / † V ivek R",
+          "runs": 3,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 129.17
+        },
+        {
+          "name": "Shivam Patel",
+          "status": "lbw b V ivek R",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5
+        },
+        {
+          "name": "Gurinder Randhawa",
+          "status": "not out",
+          "runs": 14,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 6.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 8.67
+        },
+        {
+          "name": "Srinivas (c)",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 42,
+          "wickets": 0,
+          "economy": 14.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Vivek R",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 2,
+          "economy": 2.67
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 0,
+          "wicket": 1,
+          "player": "Unique Bhateja",
+          "overs": "0.2 ov"
+        },
+        {
+          "score": 2,
+          "wicket": 2,
+          "player": "Prateek Bansal MCC",
+          "overs": "0.4 ov"
+        },
+        {
+          "score": 7,
+          "wicket": 3,
+          "player": "Sunith Raju",
+          "overs": "1.5 ov"
+        },
+        {
+          "score": 73,
+          "wicket": 4,
+          "player": "Maulik Mehta",
+          "overs": "9 ov"
+        },
+        {
+          "score": 77,
+          "wicket": 5,
+          "player": "Shubh Sandhu",
+          "overs": "9.3 ov"
+        },
+        {
+          "score": 91,
+          "wicket": 6,
+          "player": "Shivam\nPatel",
+          "overs": "12.3 ov"
+        },
+        {
+          "score": 115,
+          "wicket": 7,
+          "player": "Hardip MCC",
+          "overs": "15 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Winston Garnepudi",
+        "runs": 42,
+        "balls": 29,
+        "fours": 1,
+        "sixes": 3,
+        "strike_rate": 144.83
+      },
+      {
+        "name": "Maulik Mehta",
+        "runs": 41,
+        "balls": 30,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 136.67
+      },
+      {
+        "name": "Srikanth Thota",
+        "runs": 34,
+        "balls": 29,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 117.24
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Vivek R",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 8,
+        "wickets": 2,
+        "economy": 2.67
+      },
+      {
+        "name": "Karmvir Mcc",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 2,
+        "economy": 5.67
+      },
+      {
+        "name": "Sandeep Nimmagadda",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 2,
+        "economy": 6.0
+      }
+    ]
+  }
+}

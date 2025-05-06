@@ -1,0 +1,508 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "MCC FIGHTERS",
+      "team2": "MCC SPARTANS"
+    },
+    "toss": {
+      "winner": "MCC SPARTANS",
+      "decision": "opt to field"
+    },
+    "venue": "brown park, Langley",
+    "date": "2024-08-25",
+    "result": "MCC FIGHTERS won by 44 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "MCC FIGHTERS",
+      "total_score": "120/10",
+      "overs": 17.2,
+      "batting": [
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "run out Ram Malineni / † Sharath Reddy Gade",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Vivek K",
+          "status": "c Sharath Reddy Gade b Abhilash Reddy Gade",
+          "runs": 36,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 150.0
+        },
+        {
+          "name": "Ritesh Shinde",
+          "status": "b Raja Allam",
+          "runs": 28,
+          "balls": 29,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 96.55
+        },
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "b Ram Malineni",
+          "runs": 9,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "b Abhilash Reddy Gade",
+          "runs": 13,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 108.33
+        },
+        {
+          "name": "Kalyan V arma Alluri",
+          "status": "run out Rahul / † Sharath Reddy Gade",
+          "runs": 4,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "Sudheer",
+          "status": "lbw b Arvinth",
+          "runs": 4,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "Srikanth Reddy",
+          "status": "b Arvinth",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Raghu",
+          "status": "c Winston Garnepudi b Raja Allam",
+          "runs": 5,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "status": "run out Ram Malineni / † Sharath Reddy Gade",
+          "runs": 13,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 130.0
+        },
+        {
+          "name": "Naveen Narpina",
+          "status": "not out",
+          "runs": 0,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 6.75
+        },
+        {
+          "name": "Dileep Reddy V atti",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 20.0
+        },
+        {
+          "name": "Ram Malineni",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 4.25
+        },
+        {
+          "name": "Raja Allam",
+          "overs": 3.2,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 4.8
+        },
+        {
+          "name": "Arvinth",
+          "overs": 3.0,
+          "maidens": 1,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 5.67
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 11.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 0,
+          "wicket": 1,
+          "player": "Akshay Reddy Putta",
+          "overs": "0.3"
+        },
+        {
+          "score": 53,
+          "wicket": 2,
+          "player": "Ritesh Shinde",
+          "overs": "7.2"
+        },
+        {
+          "score": 85,
+          "wicket": 3,
+          "player": "V ivek K",
+          "overs": "10"
+        },
+        {
+          "score": 91,
+          "wicket": 4,
+          "player": "Krishna Ananthaneni",
+          "overs": "11.2"
+        },
+        {
+          "score": 104,
+          "wicket": 5,
+          "player": "Mahesh Gogineni",
+          "overs": "13.2"
+        },
+        {
+          "score": 105,
+          "wicket": 6,
+          "player": "Sudheer ",
+          "overs": "14.1"
+        },
+        {
+          "score": 105,
+          "wicket": 7,
+          "player": "Srikanth Reddy ",
+          "overs": "14.4"
+        },
+        {
+          "score": 105,
+          "wicket": 8,
+          "player": "Kalyan V arma Alluri",
+          "overs": "14.5"
+        },
+        {
+          "score": 120,
+          "wicket": 9,
+          "player": "Raghu",
+          "overs": "17.1"
+        },
+        {
+          "score": 120,
+          "wicket": 10,
+          "player": "Sampath Chowdary Nimmagadda",
+          "overs": "17.2"
+        }
+      ]
+    },
+    {
+      "batting_team": "MCC SPARTANS",
+      "total_score": "76/10",
+      "overs": 17.0,
+      "batting": [
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c Akshay Reddy Putta b Sampath Chowdary Nimmagadda",
+          "runs": 6,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86
+        },
+        {
+          "name": "Dileep Reddy V atti",
+          "status": "lbw b Sudheer",
+          "runs": 9,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.82
+        },
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c Mahesh Gogineni b Sampath Chowdary Nimmagadda",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "c Srikanth Reddy b Raghu",
+          "runs": 8,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 57.14
+        },
+        {
+          "name": "Rahul",
+          "status": "c Vivek K b Raghu",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86
+        },
+        {
+          "name": "Jaynish Patel",
+          "status": "st †Ritesh Shinde b Naveen Narpina",
+          "runs": 20,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Raja Allam",
+          "status": "b Naveen Narpina",
+          "runs": 11,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 64.71
+        },
+        {
+          "name": "Parth Patel",
+          "status": "c Raghu b Akshay Reddy Putta",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Arvinth",
+          "status": "run out V ivek K / † Ritesh Shinde",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27
+        },
+        {
+          "name": "Ram Malineni",
+          "status": "run out Sudheer",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Anil MCC",
+          "status": "not out",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 2.67
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 6.67
+        },
+        {
+          "name": "Raghu",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 2,
+          "economy": 3.67
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 3.67
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 2,
+          "economy": 3.67
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 17,
+          "wicket": 1,
+          "player": "Abhilash Reddy Gade",
+          "overs": "3.3"
+        },
+        {
+          "score": 17,
+          "wicket": 2,
+          "player": "Sharath Reddy Gade",
+          "overs": "3.4"
+        },
+        {
+          "score": 19,
+          "wicket": 3,
+          "player": "Dileep Reddy V atti",
+          "overs": "4.4"
+        },
+        {
+          "score": 30,
+          "wicket": 4,
+          "player": "Rahul",
+          "overs": "6.2"
+        },
+        {
+          "score": 38,
+          "wicket": 5,
+          "player": "Winston Garnepudi",
+          "overs": "8.4"
+        },
+        {
+          "score": 68,
+          "wicket": 6,
+          "player": "Jaynish Patel",
+          "overs": "13.4"
+        },
+        {
+          "score": 70,
+          "wicket": 7,
+          "player": "Parth Patel",
+          "overs": "14.4"
+        },
+        {
+          "score": 74,
+          "wicket": 8,
+          "player": "Raja Allam",
+          "overs": "16"
+        },
+        {
+          "score": 75,
+          "wicket": 9,
+          "player": "Ram Malineni",
+          "overs": "16.2"
+        },
+        {
+          "score": 76,
+          "wicket": 10,
+          "player": "Arvinth",
+          "overs": "17"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Vivek K",
+        "runs": 36,
+        "balls": 24,
+        "fours": 2,
+        "sixes": 3,
+        "strike_rate": 150.0
+      },
+      {
+        "name": "Ritesh Shinde",
+        "runs": 28,
+        "balls": 29,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 96.55
+      },
+      {
+        "name": "Jaynish Patel",
+        "runs": 20,
+        "balls": 24,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 83.33
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Raghu",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 2,
+        "economy": 3.67
+      },
+      {
+        "name": "Naveen Narpina",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 2,
+        "economy": 3.67
+      },
+      {
+        "name": "Raja Allam",
+        "overs": 3.2,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 2,
+        "economy": 4.8
+      }
+    ]
+  },
+  "match_summary": "MCC FIGHTERS won against MCC SPARTANS by 44 runs at brown park, Langley on 2024-08-25. MCC SPARTANS won the toss and opted to field. MCC FIGHTERS scored 120/10 in 17.2 overs, while MCC SPARTANS were bowled out for 76/10 in 17 overs.\n\nThe top batting performances for MCC FIGHTERS were Vivek K (36 runs) and Ritesh Shinde (28 runs). For MCC SPARTANS, Jaynish Patel scored 20 runs. The leading bowlers were Raghu and Naveen Narpina, both taking 2 wickets for 11 runs. Raja Allam also took 2 wickets for 16 runs."
+}

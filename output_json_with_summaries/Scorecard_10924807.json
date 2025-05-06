@@ -1,0 +1,83 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Albion Avengers",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-04-27",
+    "result": "Abandoned (Rain out)"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "0/0",
+      "overs": 0.0,
+      "batting": [
+        {
+          "name": "Ketan Chawda",
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shikhar Nautiyal",
+          "overs": 0,
+          "maidens": 0,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ],
+      "fall_of_wickets": []
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "0/0",
+      "overs": 0.0,
+      "batting": [],
+      "bowling": [],
+      "fall_of_wickets": []
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Ketan Chawda",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0.0
+      },
+      {
+        "name": "Krishna Ananthaneni",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0.0
+      }
+    ],
+    "bowling": []
+  },
+  "match_summary": "The match between Albion Avengers and Kanaka Kings at Selvey Park, Maple Ridge on 2024-04-27 was abandoned due to rain. Albion Avengers won the toss and chose to bat first, scoring 0/0 in 0 overs. Ketan Chawda and Krishna Ananthaneni were the not out batsmen with 0 runs each. Shikhar Nautiyal bowled 0 overs conceding 0 runs without taking any wickets. Kanaka Kings did not bat."
+}

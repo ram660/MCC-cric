@@ -1,0 +1,479 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Maple Mavericks"
+    },
+    "toss": {
+      "winner": "Maple Mavericks",
+      "decision": "opt to field"
+    },
+    "venue": "brown park, Langley",
+    "date": "2024-07-28",
+    "result": "Albion Avengers won by 1 run"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "119/9",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Srikanth Thota",
+          "status": "c †Shivam b Bhaskar Sharma MCC",
+          "runs": 36,
+          "balls": 43,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.72
+        },
+        {
+          "name": "Daqoo M",
+          "status": "lbw b Sree K",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Ketan Chawda",
+          "status": "c †Shivam b Sree K",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57
+        },
+        {
+          "name": "Nishu",
+          "status": "b Bharath V intha",
+          "runs": 18,
+          "balls": 22,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 81.82
+        },
+        {
+          "name": "Vivek R",
+          "status": "c VAMSI REDDY NALLA b Krishna",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Bhuvan",
+          "status": "c Bhaskar Sharma MCC b Rakesh",
+          "runs": 17,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 121.43
+        },
+        {
+          "name": "Teja",
+          "status": "c VAMSI REDDY NALLA b rakesh kumar",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "c †Shivam b Rakesh",
+          "runs": 18,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 163.64
+        },
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "not out",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "status": "run out † Shivam",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sree K",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 2,
+          "economy": 2.25
+        },
+        {
+          "name": "Rakesh",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 2,
+          "economy": 9.0
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 5.67
+        },
+        {
+          "name": "Arvinth",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "name": "Krishna",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 6.67
+        },
+        {
+          "name": "Bharath V intha",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "name": "Bhaskar Sharma MCC",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "name": "rakesh kumar",
+          "overs": 2.0,
+          "maidens": 1,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 4.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 11,
+          "wicket": 1,
+          "player": "Daqoo M",
+          "overs": "2.2 ov"
+        },
+        {
+          "score": 28,
+          "wicket": 2,
+          "player": "Ketan Chawda",
+          "overs": "5 ov"
+        },
+        {
+          "score": 60,
+          "wicket": 3,
+          "player": "Nishu",
+          "overs": "11.1 ov"
+        },
+        {
+          "score": 64,
+          "wicket": 4,
+          "player": "V ivek R",
+          "overs": "12.2 ov"
+        },
+        {
+          "score": 77,
+          "wicket": 5,
+          "player": "Srikanth Thota",
+          "overs": "14.4 ov"
+        },
+        {
+          "score": 88,
+          "wicket": 6,
+          "player": "T eja",
+          "overs": "16.3 ov"
+        },
+        {
+          "score": 96,
+          "wicket": 7,
+          "player": "Bhuvan",
+          "overs": "17.4 ov"
+        },
+        {
+          "score": 119,
+          "wicket": 8,
+          "player": "Sandeep Nimmagadda",
+          "overs": "19.5 ov"
+        },
+        {
+          "score": 119,
+          "wicket": 9,
+          "player": "Sampath Chowdary Nimmagadda",
+          "overs": "20 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "118/8",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Bharath V intha",
+          "status": "c Bhuvan b V ivek R",
+          "runs": 18,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 94.74
+        },
+        {
+          "name": "Shivam",
+          "status": "c †Ketan Chawda b Naveen Narpina",
+          "runs": 41,
+          "balls": 41,
+          "fours": 1,
+          "sixes": 4,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Krishna",
+          "status": "b Nishu",
+          "runs": 14,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Rakesh",
+          "status": "b Nishu",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "c Ketan Chawda b V ivek R",
+          "runs": 17,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 154.55
+        },
+        {
+          "name": "Sree K",
+          "status": "c Bhuvan b T eja",
+          "runs": 12,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 70.59
+        },
+        {
+          "name": "rakesh kumar",
+          "status": "not out",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Bhaskar Sharma MCC",
+          "status": "c Srikanth Thota b T eja",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Arvinth",
+          "status": "run out Bhuvan",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        },
+        {
+          "name": "Teja",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 5.25
+        },
+        {
+          "name": "Vivek R",
+          "overs": 4.0,
+          "maidens": 1,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "name": "Nishu",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 6.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 36,
+          "wicket": 1,
+          "player": "Bharath V intha",
+          "overs": "5 ov"
+        },
+        {
+          "score": 74,
+          "wicket": 2,
+          "player": "Krishna",
+          "overs": "12.3 ov"
+        },
+        {
+          "score": 84,
+          "wicket": 3,
+          "player": "Shivam",
+          "overs": "13.4 ov"
+        },
+        {
+          "score": 86,
+          "wicket": 4,
+          "player": "Rakesh",
+          "overs": "14.2 ov"
+        },
+        {
+          "score": 111,
+          "wicket": 5,
+          "player": "V AMSI REDDY NALLA",
+          "overs": "17.3 ov"
+        },
+        {
+          "score": 118,
+          "wicket": 6,
+          "player": "Sree K",
+          "overs": "19.3 ov"
+        },
+        {
+          "score": 118,
+          "wicket": 7,
+          "player": "Bhaskar Sharma MCC",
+          "overs": "19.5 ov"
+        },
+        {
+          "score": 118,
+          "wicket": 8,
+          "player": "Arvinth",
+          "overs": "20 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Shivam",
+        "runs": 41,
+        "balls": 41,
+        "fours": 1,
+        "sixes": 4,
+        "strike_rate": 100.0
+      },
+      {
+        "name": "Srikanth Thota",
+        "runs": 36,
+        "balls": 43,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 83.72
+      },
+      {
+        "name": "Sandeep Nimmagadda",
+        "runs": 18,
+        "balls": 11,
+        "fours": 0,
+        "sixes": 2,
+        "strike_rate": 163.64
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Sree K",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 9,
+        "wickets": 2,
+        "economy": 2.25
+      },
+      {
+        "name": "Vivek R",
+        "overs": 4.0,
+        "maidens": 1,
+        "runs": 16,
+        "wickets": 2,
+        "economy": 4.0
+      },
+      {
+        "name": "Teja",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 2,
+        "economy": 5.25
+      }
+    ]
+  },
+  "match_summary": "Albion Avengers narrowly defeated Maple Mavericks by 1 run in a match held at brown park, Langley on 2024-07-28. Albion Avengers batted first, scoring 119/9 in their 20 overs, while Maple Mavericks responded with 118/8.\n\nSrikanth Thota top-scored for Albion Avengers with 36 runs, followed by Sandeep Nimmagadda with 18. For Maple Mavericks, Shivam scored 41. Sree K and Vivek R were the standout bowlers, each taking 2 wickets. Teja also took 2 wickets."
+}

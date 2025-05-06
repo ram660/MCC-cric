@@ -1,0 +1,396 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "MCC TITANS",
+      "team2": "MCC FIGHTERS"
+    },
+    "toss": {
+      "winner": "MCC TITANS",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-06-22",
+    "result": "MCC FIGHTERS won by 8 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "MCC TITANS",
+      "total_score": "44/10",
+      "overs": 11.4,
+      "batting": [
+        {
+          "name": "MANGAL SINDHAR",
+          "status": "c †Ritesh Shinde b Raghu",
+          "runs": 11,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 64.71
+        },
+        {
+          "name": "Shubh Sandhu",
+          "status": "c Teja b Sudheer",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0
+        },
+        {
+          "name": "Mandip T rehan",
+          "status": "b Teja",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5
+        },
+        {
+          "name": "Aaryan",
+          "status": "b Raghu",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67
+        },
+        {
+          "name": "Dinesh Samudrala",
+          "status": "b Sampath Chowdary Nimmagadda",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "status": "b Sampath Chowdary Nimmagadda",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Bharath P",
+          "status": "run out Sudheer",
+          "runs": 6,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Guru Boya",
+          "status": "b Akshay Reddy Putta",
+          "runs": 5,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Shreyash Patel",
+          "status": "b Naveen Narpina",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Anil MCC",
+          "status": "b Akshay Reddy Putta",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "status": "not out",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "name": "Teja",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 1,
+          "economy": 2.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 2,
+          "economy": 2.0
+        },
+        {
+          "name": "Raghu",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 2,
+          "economy": 7.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 1,
+          "maidens": 1,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 2,
+          "wickets": 1,
+          "economy": 2.0
+        },
+        {
+          "name": "Santhosh Kotagiri",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "overs": 0.4,
+          "maidens": 0,
+          "runs": 1,
+          "wickets": 2,
+          "economy": 1.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 6,
+          "wicket": 1,
+          "player": "Shubh Sandhu",
+          "overs": "1"
+        },
+        {
+          "score": 16,
+          "wicket": 2,
+          "player": "Mandip T rehan",
+          "overs": "3.4"
+        },
+        {
+          "score": 20,
+          "wicket": 3,
+          "player": "Aaryan",
+          "overs": "5.2"
+        },
+        {
+          "score": 25,
+          "wicket": 4,
+          "player": "Dinesh Samudrala",
+          "overs": "6.4"
+        },
+        {
+          "score": 25,
+          "wicket": 5,
+          "player": "Naga Bhaskar Sharma Mukka",
+          "overs": "6.5"
+        },
+        {
+          "score": 25,
+          "wicket": 6,
+          "player": "MANGAL SINDHAR",
+          "overs": "7.1"
+        },
+        {
+          "score": 37,
+          "wicket": 7,
+          "player": "Bharath P",
+          "overs": "9.4"
+        },
+        {
+          "score": 37,
+          "wicket": 8,
+          "player": "Shreyash Patel",
+          "overs": "9.5"
+        },
+        {
+          "score": 43,
+          "wicket": 9,
+          "player": "Anil MCC",
+          "overs": "11.1"
+        },
+        {
+          "score": 44,
+          "wicket": 10,
+          "player": "Guru Boya",
+          "overs": "11.4"
+        }
+      ]
+    },
+    {
+      "batting_team": "MCC FIGHTERS",
+      "total_score": "45/2",
+      "overs": 7.1,
+      "batting": [
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "c †Bharath P b Krishna Chaitanya(KC)",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44
+        },
+        {
+          "name": "Santhosh Kotagiri",
+          "status": "c Krishna Chaitanya(KC) b Shreyash Patel",
+          "runs": 13,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 76.47
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "status": "not out",
+          "runs": 13,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.25
+        },
+        {
+          "name": "Raghu",
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 3.33
+        },
+        {
+          "name": "Shreyash Patel",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 7.67
+        },
+        {
+          "name": "Guru Boya",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "name": "Bharath P",
+          "overs": 0.1,
+          "maidens": 0,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 13,
+          "wicket": 1,
+          "player": "Akshay Reddy Putta",
+          "overs": "2.5"
+        },
+        {
+          "score": 37,
+          "wicket": 2,
+          "player": "Santhosh Kotagiri",
+          "overs": "6.3"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Sampath Chowdary Nimmagadda",
+        "runs": 13,
+        "balls": 16,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 81.25
+      },
+      {
+        "name": "Santhosh Kotagiri",
+        "runs": 13,
+        "balls": 17,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 76.47
+      },
+      {
+        "name": "Mangal Sindhar",
+        "runs": 11,
+        "balls": 17,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 64.71
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Akshay Reddy Putta",
+        "overs": 0.4,
+        "maidens": 0,
+        "runs": 1,
+        "wickets": 2,
+        "economy": 1.5
+      },
+      {
+        "name": "Sampath Chowdary Nimmagadda",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 4,
+        "wickets": 2,
+        "economy": 2.0
+      },
+      {
+        "name": "Raghu",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 2,
+        "economy": 7.0
+      }
+    ]
+  }
+}

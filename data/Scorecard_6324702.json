@@ -1,0 +1,375 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Kanaka Kings",
+      "team2": "Maple Mavericks"
+    },
+    "toss": {
+      "winner": "Kanaka Kings",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-06-17",
+    "result": "Maple Mavericks won by 5 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "110/5",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Unique Bhateja",
+          "status": "c Sharath Reddy Gade b Rajiv Perumalsamy",
+          "runs": 9,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Maulik Mehta",
+          "status": "c VAMSI REDDY NALLA b Rajiv Perumalsamy",
+          "runs": 27,
+          "balls": 39,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 69.23
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "c Evyan b Rajiv Perumalsamy",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44
+        },
+        {
+          "name": "Abhishek Naik",
+          "status": "run out V AMSI REDDY NALLA / † T aimoor T ariq",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86
+        },
+        {
+          "name": "Ankit Khanna",
+          "status": "not out",
+          "runs": 16,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 69.57
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "c †Taimoor T ariq b RANJOT SINGH",
+          "runs": 20,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 90.91
+        },
+        {
+          "name": "Siddharth Khanna",
+          "status": "not out",
+          "runs": 9,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 225.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.25
+        },
+        {
+          "name": "RANJOT SINGH",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.75
+        },
+        {
+          "name": "Evyan",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "name": "Kanishk",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "name": "Rajiv Perumalsamy",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 3,
+          "economy": 2.75
+        },
+        {
+          "name": "Sharath Reddy Gade",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 35,
+          "wicket": 1,
+          "player": "Unique Bhateja",
+          "overs": "7.3 ov"
+        },
+        {
+          "score": 47,
+          "wicket": 2,
+          "player": "Ashish Rana",
+          "overs": "9.5 ov"
+        },
+        {
+          "score": 59,
+          "wicket": 3,
+          "player": "Maulik Mehta",
+          "overs": "11.3 ov"
+        },
+        {
+          "score": 61,
+          "wicket": 4,
+          "player": "Abhishek Naik",
+          "overs": "12.2 ov"
+        },
+        {
+          "score": 101,
+          "wicket": 5,
+          "player": "Sudhakar Botta",
+          "overs": "19.2 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "114/5",
+      "overs": 16.0,
+      "batting": [
+        {
+          "name": "Taimoor T ariq",
+          "status": "c Ankit Khanna b Ashish Rana",
+          "runs": 52,
+          "balls": 31,
+          "fours": 3,
+          "sixes": 4,
+          "strike_rate": 167.74
+        },
+        {
+          "name": "Srikanth Thota",
+          "status": "run out Ankit Khanna / † Maulik Mehta",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "b Unique Bhateja",
+          "runs": 23,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 104.55
+        },
+        {
+          "name": "Evyan",
+          "status": "lbw b Unique Bhateja",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "not out",
+          "runs": 19,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.37
+        },
+        {
+          "name": "Kanishk",
+          "status": "c Sudhakar Botta b Ashish Rana",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0
+        },
+        {
+          "name": "RANJOT SINGH",
+          "status": "not out",
+          "runs": 13,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 118.18
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Adarsh Singh",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "name": "Sudhakar Botta",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 9.33
+        },
+        {
+          "name": "Ankit Khanna",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 7.33
+        },
+        {
+          "name": "Unique Bhateja",
+          "overs": 4,
+          "maidens": 1,
+          "runs": 15,
+          "wickets": 2,
+          "economy": 3.75
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 2,
+          "economy": 5.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 0,
+          "wicket": 1,
+          "player": "Srikanth Thota",
+          "overs": "0.1 ov"
+        },
+        {
+          "score": 45,
+          "wicket": 2,
+          "player": "Abhilash Reddy Gade",
+          "overs": "6.1 ov"
+        },
+        {
+          "score": 47,
+          "wicket": 3,
+          "player": "Evyan",
+          "overs": "6.5 ov"
+        },
+        {
+          "score": 91,
+          "wicket": 4,
+          "player": "T aimoor T ariq",
+          "overs": "12.3 ov"
+        },
+        {
+          "score": 95,
+          "wicket": 5,
+          "player": "Kanishk",
+          "overs": "12.5 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Taimoor T ariq",
+        "runs": 52,
+        "balls": 31,
+        "fours": 3,
+        "sixes": 4,
+        "strike_rate": 167.74
+      },
+      {
+        "name": "Maulik Mehta",
+        "runs": 27,
+        "balls": 39,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 69.23
+      },
+      {
+        "name": "Abhilash Reddy Gade",
+        "runs": 23,
+        "balls": 22,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 104.55
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Rajiv Perumalsamy",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 3,
+        "economy": 2.75
+      },
+      {
+        "name": "Unique Bhateja",
+        "overs": 4.0,
+        "maidens": 1,
+        "runs": 15,
+        "wickets": 2,
+        "economy": 3.75
+      },
+      {
+        "name": "Ashish Rana",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 2,
+        "economy": 5.5
+      }
+    ]
+  }
+}

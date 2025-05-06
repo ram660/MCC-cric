@@ -1,0 +1,429 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Valley Vikings",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Valley Vikings",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-07-23",
+    "result": "Valley Vikings won by 39 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Valley Vikings",
+      "total_score": "192/5",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Harshith Reddy",
+          "status": "b Siddharth Khanna",
+          "runs": 31,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 129.17
+        },
+        {
+          "name": "Krishna",
+          "status": "c Unique Bhateja b Ashish Rana",
+          "runs": 63,
+          "balls": 46,
+          "fours": 8,
+          "sixes": 0,
+          "strike_rate": 136.96
+        },
+        {
+          "name": "Rajeev",
+          "status": "lbw b Siddharth Khanna",
+          "runs": 10,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 125.0
+        },
+        {
+          "name": "Pavan Pothamsetty",
+          "status": "st †Maharshi Pandya b Ashish Rana",
+          "runs": 30,
+          "balls": 22,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 136.36
+        },
+        {
+          "name": "Ganesh Pachava",
+          "status": "c Raj b Ashish Rana",
+          "runs": 39,
+          "balls": 19,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 205.26
+        },
+        {
+          "name": "SaiTeja",
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Lalith",
+          "status": "not out",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hardip Singh Chandail",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "name": "Sudhakar Botta",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 0,
+          "economy": 13.67
+        },
+        {
+          "name": "Ankit Khanna",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 33,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "name": "Vamsi Krishna Gadiraju",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 7.25
+        },
+        {
+          "name": "Siddharth Khanna",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 9.0
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 3,
+          "economy": 7.75
+        },
+        {
+          "name": "Unique Bhateja",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 85,
+          "wicket": 1,
+          "player": "Harshith Reddy",
+          "overs": "8.5"
+        },
+        {
+          "score": 101,
+          "wicket": 2,
+          "player": "Rajeev",
+          "overs": "10.5"
+        },
+        {
+          "score": 127,
+          "wicket": 3,
+          "player": "Krishna",
+          "overs": "14.2"
+        },
+        {
+          "score": 187,
+          "wicket": 4,
+          "player": "Ganesh Pachava",
+          "overs": "19.2"
+        },
+        {
+          "score": 192,
+          "wicket": 5,
+          "player": "Pavan Pothamsetty",
+          "overs": "19.5"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "153/7",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Unique Bhateja",
+          "status": "c Bhuvan b Krishna",
+          "runs": 52,
+          "balls": 40,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 130.0
+        },
+        {
+          "name": "Zuber Admed",
+          "status": "c Nimma b Winston Garnepudi",
+          "runs": 20,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "c Pavan Pothamsetty b Winston Garnepudi",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "lbw b Pavan Pothamsetty",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "c Harsha b Krishna",
+          "runs": 18,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 200.0
+        },
+        {
+          "name": "Hardip Singh Chandail",
+          "status": "c Rajeev b Krishna",
+          "runs": 18,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 120.0
+        },
+        {
+          "name": "Siddharth Khanna",
+          "status": "c Bhuvan b Ganesh Pachava",
+          "runs": 4,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Ankit Khanna",
+          "status": "not out",
+          "runs": 25,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 138.89
+        },
+        {
+          "name": "Akash Madaan",
+          "status": "not out",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Lalith",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "name": "Harshith Reddy",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "name": "Rajeev",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "name": "Bhuvan",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 2,
+          "economy": 7.0
+        },
+        {
+          "name": "Pavan Pothamsetty",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 11.0
+        },
+        {
+          "name": "Krishna",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 3,
+          "economy": 7.0
+        },
+        {
+          "name": "Ganesh Pachava",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 7.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 55,
+          "wicket": 1,
+          "player": "Zuber Admed",
+          "overs": "8.2"
+        },
+        {
+          "score": 71,
+          "wicket": 2,
+          "player": "Maharshi Pandya",
+          "overs": "10.1"
+        },
+        {
+          "score": 81,
+          "wicket": 3,
+          "player": "Ashish Rana",
+          "overs": "11.1"
+        },
+        {
+          "score": 95,
+          "wicket": 4,
+          "player": "Unique Bhateja",
+          "overs": "12.5"
+        },
+        {
+          "score": 115,
+          "wicket": 5,
+          "player": "Sudhakar Botta",
+          "overs": "14.2"
+        },
+        {
+          "score": 121,
+          "wicket": 6,
+          "player": "Siddharth Khanna",
+          "overs": "15.2"
+        },
+        {
+          "score": 138,
+          "wicket": 7,
+          "player": "Hardip Singh Chandail",
+          "overs": "18.3"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Krishna",
+        "runs": 63,
+        "balls": 46,
+        "fours": 8,
+        "sixes": 0,
+        "strike_rate": 136.96
+      },
+      {
+        "name": "Unique Bhateja",
+        "runs": 52,
+        "balls": 40,
+        "fours": 4,
+        "sixes": 2,
+        "strike_rate": 130.0
+      },
+      {
+        "name": "Ganesh Pachava",
+        "runs": 39,
+        "balls": 19,
+        "fours": 3,
+        "sixes": 3,
+        "strike_rate": 205.26
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Krishna",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 28,
+        "wickets": 3,
+        "economy": 7.0
+      },
+      {
+        "name": "Ashish Rana",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 3,
+        "economy": 7.75
+      },
+      {
+        "name": "Winston Garnepudi",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 2,
+        "economy": 7.0
+      }
+    ]
+  }
+}

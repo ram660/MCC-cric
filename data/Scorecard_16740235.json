@@ -1,0 +1,479 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Kanaka Kings",
+      "team2": "Albion Avengers"
+    },
+    "toss": {
+      "winner": "Albion Avengers",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2025-04-26",
+    "result": "Albion Avengers won by 3 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "115/10",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Hardip MCC",
+          "status": "c Srinivas b T eja",
+          "runs": 9,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Naveen Battula",
+          "status": "run out Krishna Ananthaneni / † Daqoo M",
+          "runs": 17,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Arjun Bhatia",
+          "status": "c Vamsidhar Reddy b V ivek R",
+          "runs": 18,
+          "balls": 15,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 120.0
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "c Teja b V ivek R",
+          "runs": 6,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 85.71
+        },
+        {
+          "name": "Michael",
+          "status": "lbw b V ivek R",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "c Vivek R b Naveen Narpina",
+          "runs": 32,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 168.42
+        },
+        {
+          "name": "Jk Ram",
+          "status": "c Vamsidhar Reddy b Naveen Narpina",
+          "runs": 10,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "status": "c Vamsidhar Reddy b Srinivas",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Siddharth Khanna",
+          "status": "not out",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Bharath P",
+          "status": "c Dileep V atti ?? b Naveen Narpina",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Karmvir MCC",
+          "status": "run out Krishna Ananthaneni / † Daqoo M",
+          "runs": 4,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 200.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Teja",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 5.33
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "name": "Vivek R",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 3,
+          "economy": 4.25
+        },
+        {
+          "name": "Srinivas",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 3,
+          "economy": 4.0
+        },
+        {
+          "name": "DSP",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "name": "Dileep V atti ??",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 21,
+          "wicket": 1,
+          "player": "Hardip MCC",
+          "overs": "4.5"
+        },
+        {
+          "score": 48,
+          "wicket": 2,
+          "player": "Naveen Battula",
+          "overs": "7.4"
+        },
+        {
+          "score": 51,
+          "wicket": 3,
+          "player": "Arjun Bhatia",
+          "overs": "8.5"
+        },
+        {
+          "score": 58,
+          "wicket": 4,
+          "player": "Ashish Rana",
+          "overs": "10.3"
+        },
+        {
+          "score": 59,
+          "wicket": 5,
+          "player": "Michael",
+          "overs": "10.5"
+        },
+        {
+          "score": 101,
+          "wicket": 6,
+          "player": "Sudhakar Botta",
+          "overs": "17.3"
+        },
+        {
+          "score": 110,
+          "wicket": 7,
+          "player": "Naga Bhaskar Sharma Mukka",
+          "overs": "18.5"
+        },
+        {
+          "score": 110,
+          "wicket": 8,
+          "player": "Jk Ram",
+          "overs": "19.1"
+        },
+        {
+          "score": 110,
+          "wicket": 9,
+          "player": "Bharath P",
+          "overs": "19.3"
+        },
+        {
+          "score": 115,
+          "wicket": 10,
+          "player": "Karmvir MCC",
+          "overs": "20"
+        }
+      ]
+    },
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "116/7",
+      "overs": 19.0,
+      "batting": [
+        {
+          "name": "Vamsidhar Reddy",
+          "status": "c Naveen Battula b Jalil",
+          "runs": 14,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 82.35
+        },
+        {
+          "name": "Daqoo M",
+          "status": "c Karmvir MCC b Sudhakar Botta",
+          "runs": 9,
+          "balls": 6,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 150.0
+        },
+        {
+          "name": "Umang Desai",
+          "status": "c Siddharth Khanna b Sudhakar Botta",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Srikanth Thota",
+          "status": "not out",
+          "runs": 38,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 95.0
+        },
+        {
+          "name": "Vivek R",
+          "status": "c Jk Ram b Ashish Rana",
+          "runs": 9,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 56.25
+        },
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "lbw b Ashish Rana",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Teja",
+          "status": "b Ashish Rana",
+          "runs": 27,
+          "balls": 25,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 108.0
+        },
+        {
+          "name": "Srinivas",
+          "status": "c Jalil b Ashish Rana",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "not out",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hardip MCC",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "name": "Jalil",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.25
+        },
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 7.5
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 5.67
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.67
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 4,
+          "economy": 5.25
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 20,
+          "wicket": 1,
+          "player": "Daqoo M",
+          "overs": "2.3"
+        },
+        {
+          "score": 20,
+          "wicket": 2,
+          "player": "Umang Desai",
+          "overs": "2.5"
+        },
+        {
+          "score": 28,
+          "wicket": 3,
+          "player": "V amsidhar Reddy",
+          "overs": "5.1"
+        },
+        {
+          "score": 53,
+          "wicket": 4,
+          "player": "V ivek R",
+          "overs": "10.4"
+        },
+        {
+          "score": 53,
+          "wicket": 5,
+          "player": "Krishna Ananthaneni",
+          "overs": "10.5"
+        },
+        {
+          "score": 107,
+          "wicket": 6,
+          "player": "T eja",
+          "overs": "16.5"
+        },
+        {
+          "score": 115,
+          "wicket": 7,
+          "player": "Srinivas",
+          "overs": "18.3"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Srikanth Thota",
+        "runs": 38,
+        "balls": 40,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 95.0
+      },
+      {
+        "name": "Sudhakar Botta",
+        "runs": 32,
+        "balls": 19,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 168.42
+      },
+      {
+        "name": "Teja",
+        "runs": 27,
+        "balls": 25,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 108.0
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Ashish Rana",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 4,
+        "economy": 5.25
+      },
+      {
+        "name": "Naveen Narpina",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 3,
+        "economy": 4.0
+      },
+      {
+        "name": "Vivek R",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 3,
+        "economy": 4.25
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Cottonwood Challengers",
+      "team2": "Whonnock Warriors"
+    },
+    "toss": {
+      "winner": "Whonnock Warriors",
+      "decision": "field"
+    },
+    "venue": "Minoru, Richmond (British Columbia)",
+    "date": "2024-08-16",
+    "result": "Whonnock Warriors won by 6 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "135/7",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "RANJOT SINGH",
+          "status": "c Harshavardhan Reddy Bobba b Sudheer",
+          "runs": 9,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 81.82
+        },
+        {
+          "name": "Harmeet Singh",
+          "status": "c Parth Patel b Shiva Srikumar",
+          "runs": 13,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 144.44
+        },
+        {
+          "name": "Maulik Mehta",
+          "status": "c †Sharath Reddy Gade b DEEP AK CRIC CANADA",
+          "runs": 15,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0
+        },
+        {
+          "name": "Jobanpreet Josan",
+          "status": "b Sudheer",
+          "runs": 48,
+          "balls": 46,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 104.35
+        },
+        {
+          "name": "Prashant Mukherjee MCC",
+          "status": "c&b Harshavardhan Reddy Bobba",
+          "runs": 11,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.83
+        },
+        {
+          "name": "Karmvir MCC",
+          "status": "b Harshavardhan Reddy Bobba",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Evyan",
+          "status": "not out",
+          "runs": 18,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 200.0
+        },
+        {
+          "name": "Yash T rivedi",
+          "status": "run out Harshavardhan Reddy Bobba / Sudheer",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Shivam Patel",
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "name": "Shiva Srikumar",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 1,
+          "economy": 7.25
+        },
+        {
+          "name": "Ram Malineni",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "DEEP AK CRIC CANADA",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 4.67
+        },
+        {
+          "name": "Raghu",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "name": "Harshavardhan Reddy Bobba",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 2,
+          "economy": 4.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 23,
+          "wicket": 1,
+          "player": "RANJOT SINGH",
+          "overs": "2.3 ov"
+        },
+        {
+          "score": 27,
+          "wicket": 2,
+          "player": "Harmeet Singh",
+          "overs": "3.5 ov"
+        },
+        {
+          "score": 60,
+          "wicket": 3,
+          "player": "Maulik Mehta",
+          "overs": "9.4 ov"
+        },
+        {
+          "score": 106,
+          "wicket": 4,
+          "player": "Prashant Mukherjee MCC",
+          "overs": "16.4 ov"
+        },
+        {
+          "score": 106,
+          "wicket": 5,
+          "player": "Karmvir MCC",
+          "overs": "16.5 ov"
+        },
+        {
+          "score": 123,
+          "wicket": 6,
+          "player": "Jobanpreet Josan",
+          "overs": "19.1 ov"
+        },
+        {
+          "score": 125,
+          "wicket": 7,
+          "player": "Yash T rivedi",
+          "overs": "19.3 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Whonnock Warriors",
+      "total_score": "137/4",
+      "overs": 17.0,
+      "batting": [
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c Karmvir MCC b Shivam Patel",
+          "runs": 22,
+          "balls": 16,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 137.5
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "b Karmvir MCC",
+          "runs": 6,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 120.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "c Maulik Mehta b Shivam Patel",
+          "runs": 11,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 68.75
+        },
+        {
+          "name": "Rahul",
+          "status": "not out",
+          "runs": 27,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 81.82
+        },
+        {
+          "name": "Harshavardhan Reddy Bobba",
+          "status": "c Nikhil b Arvinth",
+          "runs": 41,
+          "balls": 25,
+          "fours": 5,
+          "sixes": 2,
+          "strike_rate": 164.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "not out",
+          "runs": 14,
+          "balls": 9,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 155.56
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Evyan",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 0,
+          "economy": 10.75
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "name": "Shivam Patel",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 4.25
+        },
+        {
+          "name": "Yash T rivedi",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "name": "Arvinth",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 9.5
+        },
+        {
+          "name": "Nikhil",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 13.0
+        },
+        {
+          "name": "Jobanpreet Josan",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 15,
+          "wicket": 1,
+          "player": "Abhilash Reddy Gade",
+          "overs": "1.5 ov"
+        },
+        {
+          "score": 39,
+          "wicket": 2,
+          "player": "Sharath Reddy Gade",
+          "overs": "5 ov"
+        },
+        {
+          "score": 44,
+          "wicket": 3,
+          "player": "Akshay Reddy Putta",
+          "overs": "6.2 ov"
+        },
+        {
+          "score": 105,
+          "wicket": 4,
+          "player": "Harshavardhan Reddy Bobba",
+          "overs": "13.5 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Jobanpreet Josan",
+        "runs": 48,
+        "balls": 46,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 104.35
+      },
+      {
+        "name": "Harshavardhan Reddy Bobba",
+        "runs": 41,
+        "balls": 25,
+        "fours": 5,
+        "sixes": 2,
+        "strike_rate": 164.0
+      },
+      {
+        "name": "Rahul",
+        "runs": 27,
+        "balls": 33,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 81.82
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Harshavardhan Reddy Bobba",
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 4,
+        "wickets": 2,
+        "economy": 4.0
+      },
+      {
+        "name": "Shivam Patel",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 2,
+        "economy": 4.25
+      },
+      {
+        "name": "Sudheer",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 23,
+        "wickets": 2,
+        "economy": 5.75
+      }
+    ]
+  }
+}

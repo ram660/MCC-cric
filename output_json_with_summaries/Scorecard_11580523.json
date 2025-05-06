@@ -1,0 +1,511 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Maple Mavericks"
+    },
+    "toss": {
+      "winner": "Maple Mavericks",
+      "decision": "opt to field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-06-08",
+    "result": "Albion Avengers won by 7 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "141/10",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Srikanth Thota",
+          "status": "b Rounak Sardesai",
+          "runs": 18,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 64.29
+        },
+        {
+          "name": "Daqoo M",
+          "status": "b Sree K",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Bhuvan",
+          "status": "st †Bomma MCC b Krishna",
+          "runs": 35,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 106.06
+        },
+        {
+          "name": "Nishu",
+          "status": "c †Bomma MCC b Krishna Chaitanya(KC)",
+          "runs": 6,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86
+        },
+        {
+          "name": "Vivek R",
+          "status": "b Arvinth",
+          "runs": 7,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 116.67
+        },
+        {
+          "name": "Ketan Chawda",
+          "status": "c †Bomma MCC b Krishna Chaitanya(KC)",
+          "runs": 11,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 122.22
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "c Sree K b Krishna",
+          "runs": 9,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 112.5
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "b Sree K",
+          "runs": 7,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Srinivas",
+          "status": "run out V AMSI REDDY NALLA",
+          "runs": 13,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 162.5
+        },
+        {
+          "name": "Jaggu",
+          "status": "run out Arvinth",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Teja",
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sree K",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.5
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Kanishk",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "name": "Rakesh",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 15.0
+        },
+        {
+          "name": "Rounak Sardesai",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 5.67
+        },
+        {
+          "name": "Krishna",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 2,
+          "economy": 7.25
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 6.67
+        },
+        {
+          "name": "Arvinth",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 16,
+          "wicket": 1,
+          "player": "Daqoo M",
+          "overs": "2.3 ov"
+        },
+        {
+          "score": 65,
+          "wicket": 2,
+          "player": "Srikanth Thota",
+          "overs": "9.3 ov"
+        },
+        {
+          "score": 87,
+          "wicket": 3,
+          "player": "Bhuvan",
+          "overs": "13 ov"
+        },
+        {
+          "score": 87,
+          "wicket": 4,
+          "player": "Nishu",
+          "overs": "13.2 ov"
+        },
+        {
+          "score": 107,
+          "wicket": 5,
+          "player": "Ketan Chawda",
+          "overs": "15.4 ov"
+        },
+        {
+          "score": 109,
+          "wicket": 6,
+          "player": "V ivek R",
+          "overs": "16.1 ov"
+        },
+        {
+          "score": 121,
+          "wicket": 7,
+          "player": "Winston Garnepudi",
+          "overs": "17.4 ov"
+        },
+        {
+          "score": 138,
+          "wicket": 8,
+          "player": "Sandeep Nimmagadda",
+          "overs": "19.4 ov"
+        },
+        {
+          "score": 138,
+          "wicket": 9,
+          "player": "Srinivas",
+          "overs": "19.5 ov"
+        },
+        {
+          "score": 141,
+          "wicket": 10,
+          "player": "Jaggu",
+          "overs": "20 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "134/8",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Rounak Sardesai",
+          "status": "c Daqoo M b Naveen Narpina",
+          "runs": 37,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 154.17
+        },
+        {
+          "name": "Krishna",
+          "status": "st †Ketan Chawda b V ivek R",
+          "runs": 11,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Shivam",
+          "status": "c Teja b Sandeep Nimmagadda",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Kanishk",
+          "status": "c Srinivas b V ivek R",
+          "runs": 17,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 141.67
+        },
+        {
+          "name": "Bomma MCC",
+          "status": "c Sandeep Nimmagadda b Winston Garnepudi",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36
+        },
+        {
+          "name": "Rakesh",
+          "status": "c Daqoo M b Winston Garnepudi",
+          "runs": 33,
+          "balls": 28,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 117.86
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "c Vivek R b Naveen Narpina",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67
+        },
+        {
+          "name": "Sree K",
+          "status": "c Nishu b Winston Garnepudi",
+          "runs": 16,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Santhosh Kotagiri",
+          "status": "not out",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "status": "not out",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "name": "Teja",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 11.5
+        },
+        {
+          "name": "Vivek R",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "name": "Nishu",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 3,
+          "economy": 6.5
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "name": "Srinivas",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.67
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 21,
+          "wicket": 1,
+          "player": "Krishna",
+          "overs": "2.4 ov"
+        },
+        {
+          "score": 24,
+          "wicket": 2,
+          "player": "Shivam",
+          "overs": "3.5 ov"
+        },
+        {
+          "score": 43,
+          "wicket": 3,
+          "player": "Kanishk",
+          "overs": "6.1 ov"
+        },
+        {
+          "score": 64,
+          "wicket": 4,
+          "player": "Bomma MCC",
+          "overs": "9.4 ov"
+        },
+        {
+          "score": 77,
+          "wicket": 5,
+          "player": "Rounak Sardesai",
+          "overs": "11 ov"
+        },
+        {
+          "score": 79,
+          "wicket": 6,
+          "player": "V AMSI REDDY NALLA",
+          "overs": "12.1 ov"
+        },
+        {
+          "score": 117,
+          "wicket": 7,
+          "player": "Sree K",
+          "overs": "17.3 ov"
+        },
+        {
+          "score": 131,
+          "wicket": 8,
+          "player": "Rakesh",
+          "overs": "19.3 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Rounak Sardesai",
+        "runs": 37,
+        "balls": 24,
+        "fours": 2,
+        "sixes": 2,
+        "strike_rate": 154.17
+      },
+      {
+        "name": "Bhuvan",
+        "runs": 35,
+        "balls": 33,
+        "fours": 3,
+        "sixes": 2,
+        "strike_rate": 106.06
+      },
+      {
+        "name": "Rakesh",
+        "runs": 33,
+        "balls": 28,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 117.86
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Winston Garnepudi",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 3,
+        "economy": 6.5
+      },
+      {
+        "name": "Vivek R",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 2,
+        "economy": 5.0
+      },
+      {
+        "name": "Sree K",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 2,
+        "economy": 5.5
+      }
+    ]
+  },
+  "match_summary": "Albion Avengers won against Maple Mavericks by 7 runs at Selvey Park, Maple Ridge on 2024-06-08. Albion Avengers batted first, scoring 141/10 in their 20 overs. Maple Mavericks, after winning the toss and electing to field, responded with 134/8.\n\nThe top batting performances included Rounak Sardesai (37 runs) for Maple Mavericks and Bhuvan (35 runs) for Albion Avengers. Winston Garnepudi was the pick of the bowlers with 3 wickets, while Vivek R and Sree K took 2 wickets each."
+}

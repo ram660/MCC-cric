@@ -1,0 +1,398 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "MCC TITANS",
+      "team2": "MCC SPARTANS"
+    },
+    "toss": {
+      "winner": "MCC TITANS",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-07-06",
+    "result": "MCC SPARTANS won by 6 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "MCC TITANS",
+      "total_score": "80/5",
+      "overs": 15.0,
+      "batting": [
+        {
+          "name": "Nikhil MCC",
+          "status": "lbw b Sampath Chowdary Nimmagadda",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57
+        },
+        {
+          "name": "Sudheer Niddani",
+          "status": "run out Krishna Chaitanya(KC) / † Ritesh Shinde",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Bharath P",
+          "status": "b Ram Malineni",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "status": "retired hurt",
+          "runs": 24,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 77.42
+        },
+        {
+          "name": "Aaryan",
+          "status": "retired hurt",
+          "runs": 10,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56
+        },
+        {
+          "name": "MANGAL SINDHAR",
+          "status": "not out",
+          "runs": 13,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "c Abhilash Reddy Gade b Krishna Chaitanya(KC)",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "c Ritesh Shinde b Abhilash Reddy Gade",
+          "runs": 5,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Sudheer",
+          "status": "not out",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 3.67
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "name": "Dileep Reddy V atti",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "name": "Ram Malineni",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "name": "Raja Allam",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "name": "Arvinth",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 4,
+          "wicket": 1,
+          "player": "Nikhil MCC",
+          "overs": "1.3"
+        },
+        {
+          "score": 6,
+          "wicket": 2,
+          "player": "Sudheer Niddani",
+          "overs": "2.1"
+        },
+        {
+          "score": 10,
+          "wicket": 3,
+          "player": "Bharath P",
+          "overs": "3.3"
+        },
+        {
+          "score": 52,
+          "wicket": 3,
+          "player": "Aaryan",
+          "overs": "10"
+        },
+        {
+          "score": 59,
+          "wicket": 3,
+          "player": "Naga Bhaskar Sharma Mukka",
+          "overs": "11"
+        },
+        {
+          "score": 59,
+          "wicket": 4,
+          "player": "V AMSI\nREDDY NALLA",
+          "overs": "11.2"
+        },
+        {
+          "score": 66,
+          "wicket": 5,
+          "player": "Sudhakar Botta",
+          "overs": "12.3"
+        }
+      ]
+    },
+    {
+      "batting_team": "MCC SPARTANS",
+      "total_score": "81/4",
+      "overs": 11.4,
+      "batting": [
+        {
+          "name": "Dileep Reddy V atti",
+          "status": "lbw b V AMSI REDDY NALLA",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "Ram Malineni",
+          "status": "c Sudheer b Maulin T ried",
+          "runs": 13,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Rahul",
+          "status": "not out",
+          "runs": 36,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 128.57
+        },
+        {
+          "name": "Arvinth",
+          "status": "c Naga Bhaskar Sharma Mukka b Sudheer",
+          "runs": 6,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Ritesh Shinde",
+          "status": "b Naga Bhaskar Sharma Mukka",
+          "runs": 9,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Raja Allam",
+          "status": "not out",
+          "runs": 7,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "name": "Maulin T ried",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 10.0
+        },
+        {
+          "name": "Sudheer",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 5.33
+        },
+        {
+          "name": "Sudhakar Botta",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 9.33
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "overs": 1.4,
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 5.4
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 16,
+          "wicket": 1,
+          "player": "Dileep Reddy V atti",
+          "overs": "2.2"
+        },
+        {
+          "score": 27,
+          "wicket": 2,
+          "player": "Ram Malineni",
+          "overs": "4"
+        },
+        {
+          "score": 49,
+          "wicket": 3,
+          "player": "Arvinth",
+          "overs": "6.5"
+        },
+        {
+          "score": 69,
+          "wicket": 4,
+          "player": "Ritesh Shinde",
+          "overs": "9.2"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Rahul",
+        "runs": 36,
+        "balls": 28,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 128.57
+      },
+      {
+        "name": "Naga Bhaskar Sharma Mukka",
+        "runs": 24,
+        "balls": 31,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 77.42
+      },
+      {
+        "name": "Ram Malineni",
+        "runs": 13,
+        "balls": 13,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 100.0
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Abhilash Reddy Gade",
+        "overs": 1.0,
+        "maidens": 0,
+        "runs": 3,
+        "wickets": 1,
+        "economy": 3.0
+      },
+      {
+        "name": "Vamsi Reddy Nalla",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 7,
+        "wickets": 1,
+        "economy": 3.5
+      },
+      {
+        "name": "Ram Malineni",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 7,
+        "wickets": 1,
+        "economy": 3.5
+      }
+    ]
+  }
+}

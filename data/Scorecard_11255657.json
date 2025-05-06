@@ -1,0 +1,364 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Cottonwood Challengers",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Cottonwood Challengers",
+      "decision": "bat"
+    },
+    "venue": "brown park,\nLangley",
+    "date": "2024-05-19, 15:42 PM UTC",
+    "result": "Kanaka Kings won by 9 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "114/10",
+      "overs": 17.4,
+      "batting": [
+        {
+          "name": "Taimoor T ariq",
+          "status": "b Sudhakar Botta",
+          "runs": 7,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.84
+        },
+        {
+          "name": "Unique Bhateja",
+          "status": "b Sudhakar Botta",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78
+        },
+        {
+          "name": "Akshay Ravi",
+          "status": "c Shreyash Patel b Sudhakar Botta",
+          "runs": 51,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 4,
+          "strike_rate": 154.55
+        },
+        {
+          "name": "Shubh Sandhu",
+          "status": "c Maharshi Pandya b Shreyash Patel",
+          "runs": 6,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Gurinder Randhawa",
+          "status": "b Jk Ram",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Prateek Bansal MCC",
+          "status": "b Jk Ram",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Hardip MCC",
+          "status": "st †Maharshi Pandya b Shreyash Patel",
+          "runs": 13,
+          "balls": 23,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 56.52
+        },
+        {
+          "name": "Prashant Mukherjee MCC",
+          "status": "lbw b Jk Ram",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "Karmvir MCC",
+          "status": "st †Maharshi Pandya b Sudhakar Botta",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Arvinth",
+          "status": "run out Ashish Rana / † Maharshi Pandya",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Rakesh Kumar Rajendran",
+          "status": "not out",
+          "runs": 6,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 300.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 4,
+          "economy": 6.0
+        },
+        {
+          "name": "Naveen Battula",
+          "overs": 3.4,
+          "maidens": 1,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 3.82
+        },
+        {
+          "name": "Shreyash Patel",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "name": "Jk Ram",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 3,
+          "economy": 8.33
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "name": "Arjun Bhatia",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 15,
+          "wicket": 1,
+          "player": "Unique Bhateja",
+          "overs": "4.1"
+        },
+        {
+          "score": 21,
+          "wicket": 2,
+          "player": "T aimoor T ariq",
+          "overs": "4.5"
+        },
+        {
+          "score": 32,
+          "wicket": 3,
+          "player": "Shubh Sandhu",
+          "overs": "6.3"
+        },
+        {
+          "score": 33,
+          "wicket": 4,
+          "player": "Gurinder Randhawa",
+          "overs": "7.3"
+        },
+        {
+          "score": 34,
+          "wicket": 5,
+          "player": "Prateek Bansal MCC",
+          "overs": "7.5"
+        },
+        {
+          "score": 100,
+          "wicket": 6,
+          "player": "Hardip MCC",
+          "overs": "15"
+        },
+        {
+          "score": 104,
+          "wicket": 7,
+          "player": "Prashant Mukherjee MCC",
+          "overs": "15.5"
+        },
+        {
+          "score": 104,
+          "wicket": 8,
+          "player": "Akshay Ravi",
+          "overs": "16.1"
+        },
+        {
+          "score": 105,
+          "wicket": 9,
+          "player": "Karmvir MCC",
+          "overs": "16.4"
+        },
+        {
+          "score": 114,
+          "wicket": 10,
+          "player": "Arvinth",
+          "overs": "17.4"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "28/2",
+      "overs": 6,
+      "batting": [
+        {
+          "name": "Siddharth Khanna",
+          "status": "c Karmvir MCC b Hardip MCC",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "c Shubh Sandhu b Hardip MCC",
+          "runs": 6,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "not out",
+          "runs": 6,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86
+        },
+        {
+          "name": "Naveen Battula",
+          "status": "not out",
+          "runs": 11,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 122.22
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hardip MCC",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 5.33
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 4,
+          "wicket": 1,
+          "player": "Siddharth Khanna",
+          "overs": "1"
+        },
+        {
+          "score": 12,
+          "wicket": 2,
+          "player": "Maharshi Pandya",
+          "overs": "3"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Akshay Ravi",
+        "runs": 51,
+        "balls": 33,
+        "fours": 1,
+        "sixes": 4,
+        "strike_rate": 154.55
+      },
+      {
+        "name": "Hardip Mcc",
+        "runs": 13,
+        "balls": 23,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 56.52
+      },
+      {
+        "name": "Naveen Battula",
+        "runs": 11,
+        "balls": 9,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 122.22
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Sudhakar Botta",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 24,
+        "wickets": 4,
+        "economy": 6.0
+      },
+      {
+        "name": "Jk Ram",
+        "overs": 3,
+        "maidens": 0,
+        "runs": 25,
+        "wickets": 3,
+        "economy": 8.33
+      },
+      {
+        "name": "Hardip Mcc",
+        "overs": 3,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 2,
+        "economy": 4.0
+      }
+    ]
+  }
+}

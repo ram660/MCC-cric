@@ -1,0 +1,510 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Whonnock WARRIORS",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Whonnock WARRIORS",
+      "decision": "bat"
+    },
+    "venue": "brown park, Langley",
+    "date": "2024-08-11",
+    "result": "Whonnock WARRIORS won by 26 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Whonnock WARRIORS",
+      "total_score": "106/9",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c Jk Ram b Naveen Battula",
+          "runs": 31,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 106.9
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c Sudhakar Botta b Naveen Battula",
+          "runs": 13,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 81.25
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "run out Shreyash Patel",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Ritesh Shinde",
+          "status": "c Siddharth Khanna b Shreyash Patel",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78
+        },
+        {
+          "name": "Rahul",
+          "status": "b Naveen Battula",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "b Naveen Battula",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "DEEP AK CRIC CANADA",
+          "status": "lbw b Jk Ram",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14
+        },
+        {
+          "name": "Parth Patel",
+          "status": "lbw b Naveen Battula",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Sudheer",
+          "status": "c †Siddharth Khanna b Sudhakar Botta",
+          "runs": 6,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Shiva Srikumar",
+          "status": "not out",
+          "runs": 4,
+          "balls": 25,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.0
+        },
+        {
+          "name": "Ram Malineni",
+          "status": "not out",
+          "runs": 5,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 38.46
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4,
+          "maidens": 1,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "name": "Srinivas Manne",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        },
+        {
+          "name": "Naveen Battula",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 5,
+          "economy": 4.75
+        },
+        {
+          "name": "Shreyash Patel",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "name": "Jk Ram",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 4,
+          "maidens": 1,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 44,
+          "wicket": 1,
+          "player": "Abhilash Reddy Gade",
+          "overs": "4.3"
+        },
+        {
+          "score": 46,
+          "wicket": 2,
+          "player": "Akshay Reddy Putta",
+          "overs": "4.5"
+        },
+        {
+          "score": 58,
+          "wicket": 3,
+          "player": "Ritesh Shinde",
+          "overs": "7.2"
+        },
+        {
+          "score": 65,
+          "wicket": 4,
+          "player": "Rahul",
+          "overs": "8.4"
+        },
+        {
+          "score": 65,
+          "wicket": 5,
+          "player": "Mahesh Gogineni",
+          "overs": "9"
+        },
+        {
+          "score": 81,
+          "wicket": 6,
+          "player": "Sharath Reddy Gade",
+          "overs": "10.5"
+        },
+        {
+          "score": 81,
+          "wicket": 7,
+          "player": "Parth Patel",
+          "overs": "11"
+        },
+        {
+          "score": 84,
+          "wicket": 8,
+          "player": "DEEP AK CRIC CANADA",
+          "overs": "11.4"
+        },
+        {
+          "score": 94,
+          "wicket": 9,
+          "player": "Sudheer",
+          "overs": "15.3"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "80/10",
+      "overs": 17.4,
+      "batting": [
+        {
+          "name": "Naveen Battula",
+          "status": "c †Ritesh Shinde b Sudheer",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "c Ram Malineni b Raghu",
+          "runs": 7,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.84
+        },
+        {
+          "name": "Siddharth Khanna",
+          "status": "c Sharath Reddy Gade b Sudheer",
+          "runs": 13,
+          "balls": 19,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 68.42
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "b Ram Malineni",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Shreyash Patel",
+          "status": "b Raghu",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Arjun Bhatia",
+          "status": "c DEEP AK CRIC CANADA b Mahesh Gogineni",
+          "runs": 11,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 78.57
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "status": "b DEEP AK CRIC CANADA",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Bharath P",
+          "status": "not out",
+          "runs": 6,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 46.15
+        },
+        {
+          "name": "Sudheer Niddani",
+          "status": "run out Raghu / † Ritesh Shinde",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Srinivas Manne",
+          "status": "b DEEP AK CRIC CANADA",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Jk Ram",
+          "status": "run out Mahesh Gogineni",
+          "runs": 17,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 85.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 2,
+          "economy": 4.33
+        },
+        {
+          "name": "Shiva Srikumar",
+          "overs": 3.4,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 3.0
+        },
+        {
+          "name": "Ram Malineni",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 5,
+          "wickets": 1,
+          "economy": 2.5
+        },
+        {
+          "name": "Raghu",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 7.67
+        },
+        {
+          "name": "DEEP AK CRIC CANADA",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 3,
+          "wickets": 1,
+          "economy": 1.5
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 1,
+          "wicket": 1,
+          "player": "Naveen Battula",
+          "overs": "0.1"
+        },
+        {
+          "score": 17,
+          "wicket": 2,
+          "player": "Siddharth Khanna",
+          "overs": "4.5"
+        },
+        {
+          "score": 25,
+          "wicket": 3,
+          "player": "Ashish Rana",
+          "overs": "7"
+        },
+        {
+          "score": 29,
+          "wicket": 4,
+          "player": "Shreyash Patel",
+          "overs": "8"
+        },
+        {
+          "score": 33,
+          "wicket": 5,
+          "player": "Maharshi Pandya",
+          "overs": "9.1"
+        },
+        {
+          "score": 45,
+          "wicket": 6,
+          "player": "Naga Bhaskar Sharma Mukka",
+          "overs": "10.4"
+        },
+        {
+          "score": 48,
+          "wicket": 7,
+          "player": "Arjun Bhatia",
+          "overs": "11.5"
+        },
+        {
+          "score": 50,
+          "wicket": 8,
+          "player": "Sudheer Niddani",
+          "overs": "12.3"
+        },
+        {
+          "score": 50,
+          "wicket": 9,
+          "player": "Srinivas Manne",
+          "overs": "12.5"
+        },
+        {
+          "score": 80,
+          "wicket": 10,
+          "player": "Jk Ram",
+          "overs": "17.4"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Sharath Reddy Gade",
+        "runs": 31,
+        "balls": 29,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 106.9
+      },
+      {
+        "name": "Jk Ram",
+        "runs": 17,
+        "balls": 20,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 85.0
+      },
+      {
+        "name": "Abhilash Reddy Gade",
+        "runs": 13,
+        "balls": 16,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 81.25
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Naveen Battula",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 5,
+        "economy": 4.75
+      },
+      {
+        "name": "Deepak Cric Canada",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 2,
+        "economy": 4.0
+      },
+      {
+        "name": "Sudheer",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 13,
+        "wickets": 2,
+        "economy": 4.33
+      }
+    ]
+  },
+  "match_summary": "The Whonnock WARRIORS defeated the Kanaka Kings by 26 runs at brown park, Langley on 2024-08-11. The Whonnock WARRIORS, after winning the toss and electing to bat, posted a total of 106/9 in their 20 overs. The Kanaka Kings were then bowled out for 80 in 17.4 overs.\n\nSharath Reddy Gade top-scored for Whonnock WARRIORS with 31 runs, followed by Abhilash Reddy Gade with 13 runs. For the Kanaka Kings, JK Ram scored 17 runs. Naveen Battula was the standout bowler, taking 5 wickets for 19 runs. DEEP AK CRIC CANADA and Sudheer both picked up 2 wickets each."
+}

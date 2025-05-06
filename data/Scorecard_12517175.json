@@ -1,0 +1,442 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Maple Mavericks",
+      "team2": "Albion Avengers"
+    },
+    "toss": {
+      "winner": "Maple Mavericks",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-08-30",
+    "result": "Maple Mavericks won by 41 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "181/7",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "c Sunilkumar Prajapati b Sampath Chowdary Nimmagadda",
+          "runs": 31,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 163.16
+        },
+        {
+          "name": "Shivam",
+          "status": "c Sudheer K b Naveen Narpina",
+          "runs": 34,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 121.43
+        },
+        {
+          "name": "Bharath V intha",
+          "status": "c Naveen Narpina b Sandeep Nimmagadda",
+          "runs": 36,
+          "balls": 39,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 92.31
+        },
+        {
+          "name": "Dhruval Patel",
+          "status": "c Teja b V ivek R",
+          "runs": 30,
+          "balls": 20,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 150.0
+        },
+        {
+          "name": "Kanishk",
+          "status": "c †Harsimran b Sunilkumar Prajapati",
+          "runs": 17,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 170.0
+        },
+        {
+          "name": "Rakesh",
+          "status": "not out",
+          "runs": 17,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 283.33
+        },
+        {
+          "name": "Krishna",
+          "status": "b Sunilkumar Prajapati",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Jaynish Patel",
+          "status": "run out V ivek R / Sunilkumar Prajapati",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vivek R",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 1.75
+        },
+        {
+          "name": "Sunilkumar Prajapati",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 39,
+          "wickets": 2,
+          "economy": 13.0
+        },
+        {
+          "name": "Teja",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 11.5
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 9.33
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 13.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 59,
+          "wicket": 1,
+          "player": "V AMSI REDDY NALLA",
+          "overs": "5.5 ov"
+        },
+        {
+          "score": 75,
+          "wicket": 2,
+          "player": "Shivam",
+          "overs": "9 ov"
+        },
+        {
+          "score": 137,
+          "wicket": 3,
+          "player": "Dhruval Patel",
+          "overs": "16.2 ov"
+        },
+        {
+          "score": 155,
+          "wicket": 4,
+          "player": "Bharath V intha",
+          "overs": "18.3 ov"
+        },
+        {
+          "score": 174,
+          "wicket": 5,
+          "player": "Kanishk",
+          "overs": "19.2 ov"
+        },
+        {
+          "score": 174,
+          "wicket": 6,
+          "player": "Krishna",
+          "overs": "19.3 ov"
+        },
+        {
+          "score": 181,
+          "wicket": 7,
+          "player": "Jaynish Patel",
+          "overs": "20 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "140/7",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Sudheer K",
+          "status": "c Dhruval Patel b jay",
+          "runs": 28,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 116.67
+        },
+        {
+          "name": "Daqoo M",
+          "status": "c Rakesh b Sree K",
+          "runs": 19,
+          "balls": 10,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 190.0
+        },
+        {
+          "name": "Teja",
+          "status": "c Gaurav Shienhmar b Kanishk",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Vivek R",
+          "status": "st †Shivam b Gaurav Shienhmar",
+          "runs": 6,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "c Rakesh b Gaurav Shienhmar",
+          "runs": 13,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 76.47
+        },
+        {
+          "name": "Sunilkumar Prajapati",
+          "status": "run out Krishna",
+          "runs": 41,
+          "balls": 37,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 110.81
+        },
+        {
+          "name": "Harsimran",
+          "status": "run out Dhruval Patel / † Shivam",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "not out",
+          "runs": 13,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 108.33
+        },
+        {
+          "name": "Naveen Narpina",
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sree K",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "name": "Kanishk",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 9.33
+        },
+        {
+          "name": "Rakesh",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        },
+        {
+          "name": "Gaurav Shienhmar",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "name": "jay",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "name": "Krishna",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 27,
+          "wicket": 1,
+          "player": "Daqoo M",
+          "overs": "2.4 ov"
+        },
+        {
+          "score": 37,
+          "wicket": 2,
+          "player": "T eja",
+          "overs": "4.2 ov"
+        },
+        {
+          "score": 60,
+          "wicket": 3,
+          "player": "V ivek R",
+          "overs": "7.2 ov"
+        },
+        {
+          "score": 67,
+          "wicket": 4,
+          "player": "Sudheer K",
+          "overs": "8.5 ov"
+        },
+        {
+          "score": 95,
+          "wicket": 5,
+          "player": "Winston Garnepudi",
+          "overs": "13.5 ov"
+        },
+        {
+          "score": 108,
+          "wicket": 6,
+          "player": "Harsimran",
+          "overs": "15.3 ov"
+        },
+        {
+          "score": 139,
+          "wicket": 7,
+          "player": "Sunilkumar Prajapati",
+          "overs": "19.4 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Sunilkumar Prajapati",
+        "runs": 41,
+        "balls": 37,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 110.81
+      },
+      {
+        "name": "Bharath Reddy",
+        "runs": 36,
+        "balls": 39,
+        "fours": 0,
+        "sixes": 2,
+        "strike_rate": 92.31
+      },
+      {
+        "name": "Shivam",
+        "runs": 34,
+        "balls": 28,
+        "fours": 2,
+        "sixes": 3,
+        "strike_rate": 121.43
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Gaurav Shienhmar",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 23,
+        "wickets": 2,
+        "economy": 5.75
+      },
+      {
+        "name": "Sunilkumar Prajapati",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 39,
+        "wickets": 2,
+        "economy": 13.0
+      },
+      {
+        "name": "Vivek R",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 7,
+        "wickets": 1,
+        "economy": 1.75
+      }
+    ]
+  }
+}

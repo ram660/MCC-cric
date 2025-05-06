@@ -1,0 +1,474 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Mavengers",
+      "team2": "Warrengers"
+    },
+    "toss": {
+      "winner": "Mavengers",
+      "decision": "opt to bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-06-29",
+    "result": "Warrengers won by 5 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Mavengers",
+      "total_score": "111/10",
+      "overs": 19.3,
+      "batting": [
+        {
+          "name": "Siddharth Khanna",
+          "status": "b Ram Malineni",
+          "runs": 12,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0
+        },
+        {
+          "name": "Vinjam Sundeep Kumar",
+          "status": "c Ram Malineni b Sudheer",
+          "runs": 4,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 57.14
+        },
+        {
+          "name": "Shiv",
+          "status": "b Harshavardhan Reddy Bobba",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "c Ram Malineni b Sudheer",
+          "runs": 45,
+          "balls": 43,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 104.65
+        },
+        {
+          "name": "JK Ram",
+          "status": "c Ram Malineni b Raja Allam",
+          "runs": 9,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 69.23
+        },
+        {
+          "name": "Michael",
+          "status": "b Naveen Narpina",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78
+        },
+        {
+          "name": "Bhaskar Sharma MCC",
+          "status": "c Sampath Chowdary Nimmagadda b Raja Allam",
+          "runs": 9,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 69.23
+        },
+        {
+          "name": "Ankit Khanna",
+          "status": "not out",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Abdul Cricket",
+          "status": "c Teja b Sudheer",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Madan Reddy",
+          "status": "c Ram Malineni b Raja Allam",
+          "runs": 4,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Gagandeep Singh",
+          "status": "b Raja Allam",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 4.67
+        },
+        {
+          "name": "Harshavardhan Reddy Bobba",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 4.67
+        },
+        {
+          "name": "Ram Malineni",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "name": "Teja",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "name": "Raja Allam",
+          "overs": 2.3,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 4,
+          "economy": 3.2
+        },
+        {
+          "name": "Rahul",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 10.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 16,
+          "wicket": 1,
+          "player": "Vinjam Sundeep Kumar",
+          "overs": "2.5 ov"
+        },
+        {
+          "score": 21,
+          "wicket": 2,
+          "player": "Shiv",
+          "overs": "4 ov"
+        },
+        {
+          "score": 22,
+          "wicket": 3,
+          "player": "Siddharth Khanna",
+          "overs": "4.1 ov"
+        },
+        {
+          "score": 44,
+          "wicket": 4,
+          "player": "JK Ram",
+          "overs": "9.2 ov"
+        },
+        {
+          "score": 66,
+          "wicket": 5,
+          "player": "Michael",
+          "overs": "12.2 ov"
+        },
+        {
+          "score": 102,
+          "wicket": 6,
+          "player": "Bhaskar Sharma MCC",
+          "overs": "16.5 ov"
+        },
+        {
+          "score": 102,
+          "wicket": 7,
+          "player": "Ashish Rana",
+          "overs": "17.1 ov"
+        },
+        {
+          "score": 104,
+          "wicket": 8,
+          "player": "Abdul Cricket",
+          "overs": "17.4 ov"
+        },
+        {
+          "score": 111,
+          "wicket": 9,
+          "player": "Madan Reddy",
+          "overs": "19.2 ov"
+        },
+        {
+          "score": 111,
+          "wicket": 10,
+          "player": "Gagandeep Singh",
+          "overs": "19.3 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Warrengers",
+      "total_score": "114/5",
+      "overs": 16.5,
+      "batting": [
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "b Michael",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67
+        },
+        {
+          "name": "Santhosh Kotagiri",
+          "status": "b Gagandeep Singh",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 71.43
+        },
+        {
+          "name": "Rahul",
+          "status": "c †Michael b Madan Reddy",
+          "runs": 16,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.21
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "status": "b Gagandeep Singh",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Naveen Narpina",
+          "status": "c †Michael b Ankit Khanna",
+          "runs": 14,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 53.85
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "not out",
+          "runs": 18,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 94.74
+        },
+        {
+          "name": "Harshavardhan Reddy Bobba",
+          "status": "not out",
+          "runs": 42,
+          "balls": 23,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 182.61
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Michael",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 5.33
+        },
+        {
+          "name": "Gagandeep Singh",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 2,
+          "economy": 5.5
+        },
+        {
+          "name": "JK Ram",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Shiv",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 4.5
+        },
+        {
+          "name": "Ankit Khanna",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "name": "Madan Reddy",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "name": "Bhaskar Sharma MCC",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "name": "Vinjam Sundeep Kumar",
+          "overs": 0.5,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 21.6
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 8,
+          "wicket": 1,
+          "player": "Santhosh Kotagiri",
+          "overs": "1.5 ov"
+        },
+        {
+          "score": 10,
+          "wicket": 2,
+          "player": "Krishna Ananthaneni",
+          "overs": "2.5 ov"
+        },
+        {
+          "score": 11,
+          "wicket": 3,
+          "player": "Sampath Chowdary Nimmagadda",
+          "overs": "3.1 ov"
+        },
+        {
+          "score": 46,
+          "wicket": 4,
+          "player": "Rahul",
+          "overs": "9.3 ov"
+        },
+        {
+          "score": 48,
+          "wicket": 5,
+          "player": "Naveen Narpina",
+          "overs": "10.2 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Ashish Rana",
+        "runs": 45,
+        "balls": 43,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 104.65
+      },
+      {
+        "name": "Harshavardhan Reddy Bobba",
+        "runs": 42,
+        "balls": 23,
+        "fours": 4,
+        "sixes": 2,
+        "strike_rate": 182.61
+      },
+      {
+        "name": "Mahesh Gogineni",
+        "runs": 18,
+        "balls": 19,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 94.74
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Raja Allam",
+        "overs": 2.3,
+        "maidens": 0,
+        "runs": 8,
+        "wickets": 4,
+        "economy": 3.2
+      },
+      {
+        "name": "Sudheer",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 3,
+        "economy": 4.67
+      },
+      {
+        "name": "Gagandeep Singh",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 2,
+        "economy": 5.5
+      }
+    ]
+  },
+  "match_summary": "The Warrengers defeated the Mavengers by 5 wickets at Selvey Park, Maple Ridge on 2024-06-29. The Mavengers, after winning the toss and opting to bat, were all out for 111 in 19.3 overs. The Warrengers responded with 114/5 in 16.5 overs.\n\nFor the Mavengers, Ashish Rana top-scored with 45 runs. Raja Allam was the pick of the Warrengers bowlers, taking 4 wickets for 8 runs, while Sudheer supported with 3 wickets for 14 runs. Harshavardhan Reddy Bobba contributed a crucial 42 runs for the Warrengers. Gagandeep Singh took 2 wickets for 11 runs for the Mavengers."
+}

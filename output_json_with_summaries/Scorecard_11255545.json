@@ -1,0 +1,362 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Kanaka Kings",
+      "team2": "Albion Avengers"
+    },
+    "toss": {
+      "winner": "Kanaka Kings",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-05-18",
+    "result": "Albion Avengers won by 8 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "141/6",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Siddharth Khanna",
+          "status": "b Naveen Narpina",
+          "runs": 22,
+          "balls": 28,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 78.57
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "c Daqoo M b Winston Garnepudi",
+          "runs": 37,
+          "balls": 41,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 90.24
+        },
+        {
+          "name": "Naveen Battula",
+          "status": "run out Sandeep Nimmagadda",
+          "runs": 10,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Rakesh",
+          "status": "not out",
+          "runs": 47,
+          "balls": 30,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 156.67
+        },
+        {
+          "name": "Bharath P",
+          "status": "c DSP b V ivek R",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "c&b Nishu",
+          "runs": 9,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 112.5
+        },
+        {
+          "name": "Sanket",
+          "status": "run out Nishu / Sandeep Nimmagadda",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Nishu",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "name": "Jaggu",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 13.0
+        },
+        {
+          "name": "Krishna",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "name": "Vivek R",
+          "overs": 4.0,
+          "maidens": 1,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 4.25
+        },
+        {
+          "name": "DSP",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 71,
+          "wicket": 1,
+          "player": "Siddharth Khanna",
+          "overs": "10.5"
+        },
+        {
+          "score": 72,
+          "wicket": 2,
+          "player": "Maharshi Pandya",
+          "overs": "11.2"
+        },
+        {
+          "score": 89,
+          "wicket": 3,
+          "player": "Naveen Battula",
+          "overs": "14.2"
+        },
+        {
+          "score": 97,
+          "wicket": 4,
+          "player": "Bharath P",
+          "overs": "15.3"
+        },
+        {
+          "score": 127,
+          "wicket": 5,
+          "player": "Sudhakar Botta",
+          "overs": "18.5"
+        },
+        {
+          "score": 129,
+          "wicket": 6,
+          "player": "Sanket",
+          "overs": "19.1"
+        }
+      ]
+    },
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "142/2",
+      "overs": 18.3,
+      "batting": [
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "c Naga Bhaskar Sharma Mukka b Sudhakar Botta",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Daqoo M",
+          "status": "not out",
+          "runs": 65,
+          "balls": 53,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 122.64
+        },
+        {
+          "name": "Jaggu",
+          "status": "b Shreyash Patel",
+          "runs": 3,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "Ketan Chawda",
+          "status": "not out",
+          "runs": 64,
+          "balls": 44,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 145.45
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "name": "Naveen Battula",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.25
+        },
+        {
+          "name": "Shreyash Patel",
+          "overs": 2.3,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 10.0
+        },
+        {
+          "name": "Rakesh",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "name": "Jk Ram",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "name": "Siddharth Khanna",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 2,
+          "wicket": 1,
+          "player": "Krishna Ananthaneni",
+          "overs": "0.3"
+        },
+        {
+          "score": 16,
+          "wicket": 2,
+          "player": "Jaggu",
+          "overs": "4.1"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Daqoo M",
+        "runs": 65,
+        "balls": 53,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 122.64
+      },
+      {
+        "name": "Ketan Chawda",
+        "runs": 64,
+        "balls": 44,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 145.45
+      },
+      {
+        "name": "Rakesh",
+        "runs": 47,
+        "balls": 30,
+        "fours": 2,
+        "sixes": 2,
+        "strike_rate": 156.67
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Vivek R",
+        "overs": 4.0,
+        "maidens": 1,
+        "runs": 17,
+        "wickets": 1,
+        "economy": 4.25
+      },
+      {
+        "name": "Gunish",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 1,
+        "economy": 5.5
+      },
+      {
+        "name": "Naveen Narpina",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 1,
+        "economy": 5.5
+      }
+    ]
+  },
+  "match_summary": "Albion Avengers defeated Kanaka Kings by 8 wickets at Selvey Park, Maple Ridge on 2024-05-18. Kanaka Kings, after winning the toss and electing to bat, scored 141/6 in their 20 overs. Rakesh top-scored for them with 47 runs, followed by Maharshi Pandya with 37. Albion Avengers' Vivek R and Naveen Narpina took 1 wicket each.\n\nAlbion Avengers chased the target, finishing at 142/2 in 18.3 overs. Daqoo M led the chase with 65 runs, supported by Ketan Chawda's 64. Sudhakar Botta and Shreyash Patel picked up a wicket each for Kanaka Kings."
+}

@@ -1,0 +1,520 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "MEADOW MARVELS",
+      "team2": "RIDGE ROCKERS"
+    },
+    "toss": {
+      "winner": "MEADOW MARVELS",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-09-07",
+    "result": "RIDGE ROCKERS won by 4 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "MEADOW MARVELS",
+      "total_score": "181/10",
+      "overs": 22.0,
+      "batting": [
+        {
+          "name": "Daqoo M",
+          "status": "b Bharath V intha",
+          "runs": 37,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 2,
+          "strike_rate": 246.67
+        },
+        {
+          "name": "Krishna",
+          "status": "b Bharath V intha",
+          "runs": 7,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Shivam",
+          "status": "c Rakesh b Ram Malineni",
+          "runs": 27,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 192.86
+        },
+        {
+          "name": "Vivek K",
+          "status": "b Srinivas Manne",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c (sub) Raja Allam b Ram Malineni",
+          "runs": 10,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 90.91
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "status": "c Naga Bhaskar Sharma Mukka b Krishna Chaitanya(KC)",
+          "runs": 6,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 120.0
+        },
+        {
+          "name": "Vivek R",
+          "status": "run out Rakesh",
+          "runs": 18,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Karma Malik",
+          "status": "c Sharath Reddy Gade b Rakesh",
+          "runs": 35,
+          "balls": 31,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 112.9
+        },
+        {
+          "name": "Sree K",
+          "status": "c Sharath Reddy Gade b Ram Malineni",
+          "runs": 13,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 118.18
+        },
+        {
+          "name": "Rahul",
+          "status": "not out",
+          "runs": 13,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 144.44
+        },
+        {
+          "name": "Nageswara Kolla",
+          "status": "c Rakesh b Ram Malineni",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Harsha Madi Reddy",
+          "status": "not out",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Rakesh",
+          "overs": 5.0,
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 7.4
+        },
+        {
+          "name": "MANGAL SINDHAR",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        },
+        {
+          "name": "Bharath V intha",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 2,
+          "economy": 9.25
+        },
+        {
+          "name": "Srinivas Manne",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "name": "Ram Malineni",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 4,
+          "economy": 7.0
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 6.67
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Sudheer K",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 10.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 39,
+          "wicket": 1,
+          "player": "Krishna",
+          "overs": "3.2"
+        },
+        {
+          "score": 46,
+          "wicket": 2,
+          "player": "Daqoo M",
+          "overs": "3.5"
+        },
+        {
+          "score": 69,
+          "wicket": 3,
+          "player": "V ivek K",
+          "overs": "6.1"
+        },
+        {
+          "score": 78,
+          "wicket": 4,
+          "player": "Shivam",
+          "overs": "7.4"
+        },
+        {
+          "score": 87,
+          "wicket": 5,
+          "player": "Sampath Chowdary Nimmagadda",
+          "overs": "8.5"
+        },
+        {
+          "score": 98,
+          "wicket": 6,
+          "player": "Abhilash Reddy Gade",
+          "overs": "9.5"
+        },
+        {
+          "score": 142,
+          "wicket": 7,
+          "player": "V ivek R",
+          "overs": "15.3"
+        },
+        {
+          "score": 155,
+          "wicket": 8,
+          "player": "Karma Malik",
+          "overs": "18"
+        },
+        {
+          "score": 176,
+          "wicket": 9,
+          "player": "Sree K",
+          "overs": "20.2"
+        },
+        {
+          "score": 178,
+          "wicket": 10,
+          "player": "Nageswara Kolla",
+          "overs": "20.5"
+        }
+      ]
+    },
+    {
+      "batting_team": "RIDGE ROCKERS",
+      "total_score": "182/7",
+      "overs": 21.5,
+      "batting": [
+        {
+          "name": "Sudheer K",
+          "status": "c †Daqoo M b Harsha Madi Reddy",
+          "runs": 29,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 120.83
+        },
+        {
+          "name": "Bharath V intha",
+          "status": "c Abhilash Reddy Gade b Karma Malik",
+          "runs": 17,
+          "balls": 13,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 130.77
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "c Vivek R b Nageswara Kolla",
+          "runs": 50,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 142.86
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "c Sree K b Krishna",
+          "runs": 10,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 142.86
+        },
+        {
+          "name": "Rakesh",
+          "status": "c Vivek R b V ivek K",
+          "runs": 16,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 145.45
+        },
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c Nageswara Kolla b V ivek K",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "MANGAL SINDHAR",
+          "status": "not out",
+          "runs": 14,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "status": "b Vivek K",
+          "runs": 17,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 89.47
+        },
+        {
+          "name": "Srinivas Manne",
+          "status": "not out",
+          "runs": 9,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 128.57
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sree K",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 32,
+          "wickets": 0,
+          "economy": 10.67
+        },
+        {
+          "name": "Vivek R",
+          "overs": 4.5,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 5.38
+        },
+        {
+          "name": "Karma Malik",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 12.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "name": "Harsha Madi Reddy",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 11.0
+        },
+        {
+          "name": "Krishna",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 11.5
+        },
+        {
+          "name": "Vivek K",
+          "overs": 5.0,
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 3,
+          "economy": 6.2
+        },
+        {
+          "name": "Nageswara Kolla",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 8.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 31,
+          "wicket": 1,
+          "player": "Bharath V intha",
+          "overs": "4.2"
+        },
+        {
+          "score": 64,
+          "wicket": 2,
+          "player": "Sudheer K",
+          "overs": "7.5"
+        },
+        {
+          "score": 97,
+          "wicket": 3,
+          "player": "Mahesh Gogineni",
+          "overs": "11"
+        },
+        {
+          "score": 128,
+          "wicket": 4,
+          "player": "V AMSI REDDY NALLA",
+          "overs": "14.2"
+        },
+        {
+          "score": 135,
+          "wicket": 5,
+          "player": "Sharath Reddy Gade",
+          "overs": "15.1"
+        },
+        {
+          "score": 137,
+          "wicket": 6,
+          "player": "Rakesh",
+          "overs": "15.4"
+        },
+        {
+          "score": 170,
+          "wicket": 7,
+          "player": "Naga Bhaskar Sharma Mukka",
+          "overs": "20.1"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Vamsi Reddy Nalla",
+        "runs": 50,
+        "balls": 35,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 142.86
+      },
+      {
+        "name": "Daqoo M",
+        "runs": 37,
+        "balls": 15,
+        "fours": 2,
+        "sixes": 2,
+        "strike_rate": 246.67
+      },
+      {
+        "name": "Karma Malik",
+        "runs": 35,
+        "balls": 31,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 112.9
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Ram Malineni",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 4,
+        "economy": 7.0
+      },
+      {
+        "name": "Vivek K",
+        "overs": 5.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 3,
+        "economy": 6.2
+      },
+      {
+        "name": "Bharath Reddy",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 37,
+        "wickets": 2,
+        "economy": 9.25
+      }
+    ]
+  }
+}

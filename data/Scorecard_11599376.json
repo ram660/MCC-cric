@@ -1,0 +1,426 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Cottonwood Challengers",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Kanaka Kings",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-06-09",
+    "result": "Kanaka Kings won by 6 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "93/10",
+      "overs": 17.3,
+      "batting": [
+        {
+          "name": "RANJOT SINGH",
+          "status": "c Naga Bhaskar Sharma Mukka b Siddharth Khanna",
+          "runs": 46,
+          "balls": 32,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 143.75
+        },
+        {
+          "name": "Unique Bhateja",
+          "status": "b Shreyash Patel",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Jobanpreet Josan",
+          "status": "b Siddharth Khanna",
+          "runs": 14,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 58.33
+        },
+        {
+          "name": "Rohin Kapur",
+          "status": "c Siddharth Khanna b Ashish Rana",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Shivam Patel",
+          "status": "c Naga Bhaskar Sharma Mukka b Jk Ram",
+          "runs": 2,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 18.18
+        },
+        {
+          "name": "Hardip MCC",
+          "status": "not out",
+          "runs": 10,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5
+        },
+        {
+          "name": "Ganesh Pachava",
+          "status": "c Siddharth Khanna b Naga Bhaskar Sharma Mukka",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Gurinder Randhawa",
+          "status": "c Jk Ram b Naga Bhaskar Sharma Mukka",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Evyan",
+          "status": "c Ashish Rana b Jk Ram",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0
+        },
+        {
+          "name": "Shubh Sandhu",
+          "status": "c Bharath P b Jk Ram",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Yash T rivedi",
+          "status": "b Jk Ram",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.33
+        },
+        {
+          "name": "Shreyash Patel",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 9.25
+        },
+        {
+          "name": "Siddharth Khanna",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "name": "Jk Ram",
+          "overs": 2.3,
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 4,
+          "economy": 1.6
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 2,
+          "economy": 4.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 9,
+          "wicket": 1,
+          "player": "Unique Bhateja",
+          "overs": "1.1"
+        },
+        {
+          "score": 59,
+          "wicket": 2,
+          "player": "Jobanpreet Josan",
+          "overs": "8.3"
+        },
+        {
+          "score": 69,
+          "wicket": 3,
+          "player": "RANJOT SINGH",
+          "overs": "10.2"
+        },
+        {
+          "score": 69,
+          "wicket": 4,
+          "player": "Rohin Kapur",
+          "overs": "11.1"
+        },
+        {
+          "score": 81,
+          "wicket": 5,
+          "player": "Shivam Patel",
+          "overs": "13.1"
+        },
+        {
+          "score": 87,
+          "wicket": 6,
+          "player": "Ganesh Pachava",
+          "overs": "15"
+        },
+        {
+          "score": 89,
+          "wicket": 7,
+          "player": "Gurinder Randhawa",
+          "overs": "16.1"
+        },
+        {
+          "score": 93,
+          "wicket": 8,
+          "player": "Evyan",
+          "overs": "17.1"
+        },
+        {
+          "score": 93,
+          "wicket": 9,
+          "player": "Shubh Sandhu",
+          "overs": "17.2"
+        },
+        {
+          "score": 93,
+          "wicket": 10,
+          "player": "Yash T rivedi",
+          "overs": "17.3"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "94/4",
+      "overs": 17.4,
+      "batting": [
+        {
+          "name": "Siddharth Khanna",
+          "status": "c Hardip MCC b Evyan",
+          "runs": 8,
+          "balls": 4,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 200.0
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "not out",
+          "runs": 44,
+          "balls": 49,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 89.8
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "c RANJOT SINGH b Evyan",
+          "runs": 8,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73
+        },
+        {
+          "name": "Michael",
+          "status": "b Yash T rivedi",
+          "runs": 8,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 47.06
+        },
+        {
+          "name": "MANGAL SINDHAR",
+          "status": "run out Y ash T rivedi / Gurinder Randhawa",
+          "runs": 7,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 53.85
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "not out",
+          "runs": 7,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 41.18
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Evyan",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 10.33
+        },
+        {
+          "name": "Hardip MCC",
+          "overs": 4,
+          "maidens": 1,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 2.0
+        },
+        {
+          "name": "Yash T rivedi",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "name": "Shivam Patel",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "name": "Ganesh Pachava",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "name": "RANJOT SINGH",
+          "overs": 1.4,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 6.6
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 9,
+          "wicket": 1,
+          "player": "Siddharth Khanna",
+          "overs": "0.4"
+        },
+        {
+          "score": 24,
+          "wicket": 2,
+          "player": "Ashish Rana",
+          "overs": "2.4"
+        },
+        {
+          "score": 47,
+          "wicket": 3,
+          "player": "Michael",
+          "overs": "7.1"
+        },
+        {
+          "score": 70,
+          "wicket": 4,
+          "player": "MANGAL SINDHAR",
+          "overs": "12.4"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Ranjot Singh",
+        "runs": 46,
+        "balls": 32,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 143.75
+      },
+      {
+        "name": "Maharshi Pandya",
+        "runs": 44,
+        "balls": 49,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 89.8
+      },
+      {
+        "name": "Jobanpreet Josan",
+        "runs": 14,
+        "balls": 24,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 58.33
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Jk Ram",
+        "overs": 2.3,
+        "maidens": 0,
+        "runs": 4,
+        "wickets": 4,
+        "economy": 1.6
+      },
+      {
+        "name": "Siddharth Khanna",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 2,
+        "economy": 3.0
+      },
+      {
+        "name": "Naga Bhaskar Sharma Mukka",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 8,
+        "wickets": 2,
+        "economy": 4.0
+      }
+    ]
+  }
+}

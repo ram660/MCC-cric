@@ -1,0 +1,404 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Cottonwood Challengers"
+    },
+    "toss": {
+      "winner": "Albion Avengers",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-08-11",
+    "result": "Cottonwood Challengers won by 7 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "119/10",
+      "overs": 19.5,
+      "batting": [
+        {
+          "name": "Sudheer K",
+          "status": "c Evyan b Akshay Ravi",
+          "runs": 11,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Daqoo M",
+          "status": "b Hardip MCC",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Vivek R",
+          "status": "c Prithiv b Hardip MCC",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0
+        },
+        {
+          "name": "Ketan Chawda",
+          "status": "b Akshay Ravi",
+          "runs": 14,
+          "balls": 11,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 127.27
+        },
+        {
+          "name": "Nishu",
+          "status": "b Arvinth",
+          "runs": 9,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 45.0
+        },
+        {
+          "name": "Harsimran",
+          "status": "c Evyan b Karmvir MCC",
+          "runs": 13,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 86.67
+        },
+        {
+          "name": "Kalyan V arma Alluri",
+          "status": "c Prashant Mukherjee MCC b Arvinth",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "run out RANJOT SINGH",
+          "runs": 18,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 112.5
+        },
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "b Arvinth",
+          "runs": 10,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "not out",
+          "runs": 15,
+          "balls": 17,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.24
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "status": "run out Jobanpreet Josan",
+          "runs": 4,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 44.44
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hardip MCC",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 5.25
+        },
+        {
+          "name": "Akshay Ravi",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "name": "Evyan",
+          "overs": 3.5,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.96
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "name": "RANJOT SINGH",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "name": "Arvinth",
+          "overs": 3,
+          "maidens": 1,
+          "runs": 14,
+          "wickets": 3,
+          "economy": 4.67
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 2,
+          "wicket": 1,
+          "player": "Daqoo M",
+          "overs": "0.3"
+        },
+        {
+          "score": 13,
+          "wicket": 2,
+          "player": "V ivek R",
+          "overs": "2.2"
+        },
+        {
+          "score": 19,
+          "wicket": 3,
+          "player": "Sudheer K",
+          "overs": "3.3"
+        },
+        {
+          "score": 35,
+          "wicket": 4,
+          "player": "Ketan Chawda",
+          "overs": "5.4"
+        },
+        {
+          "score": 65,
+          "wicket": 5,
+          "player": "Nishu",
+          "overs": "10.3"
+        },
+        {
+          "score": 65,
+          "wicket": 6,
+          "player": "Kalyan V arma Alluri",
+          "overs": "11"
+        },
+        {
+          "score": 65,
+          "wicket": 7,
+          "player": "Harsimran",
+          "overs": "11.1"
+        },
+        {
+          "score": 93,
+          "wicket": 8,
+          "player": "Krishna Ananthaneni",
+          "overs": "14.5"
+        },
+        {
+          "score": 103,
+          "wicket": 9,
+          "player": "Winston Garnepudi",
+          "overs": "15.5"
+        },
+        {
+          "score": 119,
+          "wicket": 10,
+          "player": "Sampath Chowdary Nimmagadda",
+          "overs": "19.5"
+        }
+      ]
+    },
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "122/3",
+      "overs": 18.5,
+      "batting": [
+        {
+          "name": "RANJOT SINGH",
+          "status": "not out",
+          "runs": 47,
+          "balls": 52,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 90.38
+        },
+        {
+          "name": "Jobanpreet Josan",
+          "status": "c Sampath Chowdary Nimmagadda b V ivek R",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Maulik Mehta",
+          "status": "c Winston Garnepudi b V ivek R",
+          "runs": 29,
+          "balls": 24,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 120.83
+        },
+        {
+          "name": "Prashant Mukherjee MCC",
+          "status": "lbw b V ivek R",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Akshay Ravi",
+          "status": "not out",
+          "runs": 37,
+          "balls": 35,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 105.71
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vivek R",
+          "overs": 4,
+          "maidens": 2,
+          "runs": 4,
+          "wickets": 3,
+          "economy": 1.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 2.5,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 7.41
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "name": "Nishu",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 7.25
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 8.67
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "name": "Harsimran",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 2,
+          "wicket": 1,
+          "player": "Jobanpreet Josan",
+          "overs": "0.5"
+        },
+        {
+          "score": 43,
+          "wicket": 2,
+          "player": "Maulik Mehta",
+          "overs": "6.5"
+        },
+        {
+          "score": 43,
+          "wicket": 3,
+          "player": "Prashant Mukherjee MCC",
+          "overs": "7"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Ranjot Singh",
+        "runs": 47,
+        "balls": 52,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 90.38
+      },
+      {
+        "name": "Akshay Ravi",
+        "runs": 37,
+        "balls": 35,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 105.71
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Vivek R",
+        "overs": 4,
+        "maidens": 2,
+        "runs": 4,
+        "wickets": 3,
+        "economy": 1.0
+      },
+      {
+        "name": "Arvinth",
+        "overs": 3,
+        "maidens": 1,
+        "runs": 14,
+        "wickets": 3,
+        "economy": 4.67
+      }
+    ]
+  },
+  "match_summary": "Cottonwood Challengers defeated Albion Avengers by 7 wickets at Selvey Park, Maple Ridge on 2024-08-11. Albion Avengers, after winning the toss and electing to bat, scored 119/10. Cottonwood Challengers responded with 122/3 to win the match.\n\nThe top batting performances for Cottonwood Challengers were by Ranjot Singh (47 runs) and Akshay Ravi (37 runs). For Albion Avengers, Winston Garnepudi scored 18 runs. The best bowling figures were achieved by Vivek R (3/4) and Arvinth (3/14)."
+}

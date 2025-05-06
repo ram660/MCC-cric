@@ -1,0 +1,315 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Albion Avengers",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-07-13",
+    "result": "Albion Avengers won by 6 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "98/4",
+      "overs": 10.0,
+      "batting": [
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "c Bharath P b Naga Bhaskar Sharma Mukka",
+          "runs": 26,
+          "balls": 10,
+          "fours": 6,
+          "sixes": 3,
+          "strike_rate": 260.0
+        },
+        {
+          "name": "Nishu",
+          "status": "st †Maharshi Pandya b Shreyash Patel",
+          "runs": 30,
+          "balls": 21,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 142.86
+        },
+        {
+          "name": "Vivek R",
+          "status": "st †Maharshi Pandya b Sudhakar Botta",
+          "runs": 27,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 158.82
+        },
+        {
+          "name": "Naveen Narpina",
+          "status": "c Jaynish Patel b Ashish Rana",
+          "runs": 3,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.86
+        },
+        {
+          "name": "Teja",
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "status": "not out",
+          "runs": 2,
+          "balls": 4,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 50.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shreyash Patel",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 13.0
+        },
+        {
+          "name": "Sudhakar Botta",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 10.5
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 10.5
+        },
+        {
+          "name": "Jk Ram",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "name": "Bharath P",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 31,
+          "wicket": 1,
+          "player": "V AMSI REDDY NALLA",
+          "overs": "1.5 ov"
+        },
+        {
+          "score": 78,
+          "wicket": 2,
+          "player": "Nishu",
+          "overs": "6.4 ov"
+        },
+        {
+          "score": 91,
+          "wicket": 3,
+          "player": "V ivek R",
+          "overs": "8.4 ov"
+        },
+        {
+          "score": 95,
+          "wicket": 4,
+          "player": "Naveen Narpina",
+          "overs": "9.2 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "92/2",
+      "overs": 10.0,
+      "batting": [
+        {
+          "name": "Maharshi Pandya",
+          "status": "lbw b Harsha Madi Reddy",
+          "runs": 44,
+          "balls": 26,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 169.23
+        },
+        {
+          "name": "Bharath P",
+          "status": "b Harsha Madi Reddy",
+          "runs": 23,
+          "balls": 21,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 109.52
+        },
+        {
+          "name": "Jaynish Patel",
+          "status": "not out",
+          "runs": 5,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "not out",
+          "runs": 12,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 133.33
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "name": "Teja",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "name": "Nishu",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 5,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "name": "Shivam Patel",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Harsha Madi Reddy",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 9.5
+        },
+        {
+          "name": "Guru Boya",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 62,
+          "wicket": 1,
+          "player": "Maharshi Pandya",
+          "overs": "7 ov"
+        },
+        {
+          "score": 78,
+          "wicket": 2,
+          "player": "Bharath P ",
+          "overs": "8.1 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Maharshi Pandya",
+        "runs": 44,
+        "balls": 26,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 169.23
+      },
+      {
+        "name": "Gunish",
+        "runs": 30,
+        "balls": 21,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 142.86
+      },
+      {
+        "name": "Vivek R",
+        "runs": 27,
+        "balls": 17,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 158.82
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Harsha Madi Reddy",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 2,
+        "economy": 9.5
+      },
+      {
+        "name": "Shreyash Patel",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 1,
+        "economy": 9.0
+      },
+      {
+        "name": "Sudhakar Botta",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 1,
+        "economy": 10.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Whonnock WARRIORS",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Whonnock WARRIORS",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-07-14",
+    "result": "Whonnock WARRIORS won by 54 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Whonnock WARRIORS",
+      "total_score": "141/7",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c Bharath P b Jk Ram",
+          "runs": 14,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 87.5
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "c Sudhakar Botta b Srinivas Manne",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Rahul",
+          "status": "c Ashish Rana b Sampath Chowdary Nimmagadda",
+          "runs": 14,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 82.35
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "not out",
+          "runs": 50,
+          "balls": 44,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 113.64
+        },
+        {
+          "name": "Raja Allam",
+          "status": "st †Maharshi Pandya b Sampath Chowdary Nimmagadda",
+          "runs": 18,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 81.82
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c Sudheer Niddani b Sudhakar Botta",
+          "runs": 14,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 155.56
+        },
+        {
+          "name": "DEEP AK CRIC CANADA",
+          "status": "c Sudheer Niddani b Srinivas Manne",
+          "runs": 8,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Ritesh Shinde",
+          "status": "b Srinivas Manne",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 41,
+          "wickets": 1,
+          "economy": 10.25
+        },
+        {
+          "name": "Srinivas Manne",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 3,
+          "economy": 4.33
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 5.67
+        },
+        {
+          "name": "Jk Ram",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.33
+        },
+        {
+          "name": "Bharath P",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 8.67
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 3,
+          "wicket": 1,
+          "player": "Akshay Reddy Putta",
+          "overs": "1.1 ov"
+        },
+        {
+          "score": 31,
+          "wicket": 2,
+          "player": "Sharath Reddy Gade",
+          "overs": "5.1 ov"
+        },
+        {
+          "score": 35,
+          "wicket": 3,
+          "player": "Rahul",
+          "overs": "6.1 ov"
+        },
+        {
+          "score": 86,
+          "wicket": 4,
+          "player": "Raja Allam",
+          "overs": "14.3 ov"
+        },
+        {
+          "score": 107,
+          "wicket": 5,
+          "player": "Abhilash Reddy Gade",
+          "overs": "17 ov"
+        },
+        {
+          "score": 137,
+          "wicket": 6,
+          "player": "DEEP AK CRIC CANADA",
+          "overs": "19.3 ov"
+        },
+        {
+          "score": 141,
+          "wicket": 7,
+          "player": "Ritesh Shinde",
+          "overs": "20 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "87/10",
+      "overs": 19.3,
+      "batting": [
+        {
+          "name": "Jk Ram",
+          "status": "c †Ritesh Shinde b Sudheer",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Bharath P",
+          "status": "c DEEP AK CRIC CANADA b Raja Allam",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "c Sharath Reddy Gade b Sudheer",
+          "runs": 7,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 70.0
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "c Dileep Reddy V atti b Sudheer",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "status": "b Sudheer",
+          "runs": 4,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "c Sudheer b Ram Malineni",
+          "runs": 5,
+          "balls": 8,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 62.5
+        },
+        {
+          "name": "Sudheer Niddani",
+          "status": "lbw b Abhilash Reddy Gade",
+          "runs": 16,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 42.11
+        },
+        {
+          "name": "Arjun Bhatia",
+          "status": "c Ritesh Shinde b Ram Malineni",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "status": "c Raja Allam b DEEP AK CRIC CANADA",
+          "runs": 5,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 22.73
+        },
+        {
+          "name": "Shreyash Patel",
+          "status": "st †Ritesh Shinde b Mahesh Gogineni",
+          "runs": 20,
+          "balls": 24,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Srinivas Manne",
+          "status": "not out",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 400.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 4,
+          "economy": 2.75
+        },
+        {
+          "name": "Raja Allam",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "name": "Ram Malineni",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 2,
+          "economy": 5.0
+        },
+        {
+          "name": "Raghu",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "name": "DEEP AK CRIC CANADA",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 3.67
+        },
+        {
+          "name": "Dileep Reddy V atti",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 1.3,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "name": "Sharath Reddy Gade",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 0,
+          "wicket": 1,
+          "player": "Jk Ram",
+          "overs": "0.1 ov"
+        },
+        {
+          "score": 3,
+          "wicket": 2,
+          "player": "Bharath P ",
+          "overs": "1.4 ov"
+        },
+        {
+          "score": 5,
+          "wicket": 3,
+          "player": "Ashish Rana",
+          "overs": "2.1 ov"
+        },
+        {
+          "score": 9,
+          "wicket": 4,
+          "player": "Naga Bhaskar Sharma Mukka",
+          "overs": "3 ov"
+        },
+        {
+          "score": 17,
+          "wicket": 5,
+          "player": "Maharshi Pandya",
+          "overs": "5 ov"
+        },
+        {
+          "score": 21,
+          "wicket": 6,
+          "player": "Sudhakar Botta",
+          "overs": "5.3 ov"
+        },
+        {
+          "score": 21,
+          "wicket": 7,
+          "player": "Arjun Bhatia",
+          "overs": "5.4 ov"
+        },
+        {
+          "score": 41,
+          "wicket": 8,
+          "player": "Sampath Chowdary Nimmagadda",
+          "overs": "12 ov"
+        },
+        {
+          "score": 81,
+          "wicket": 9,
+          "player": "Sudheer Niddani",
+          "overs": "18.5 ov"
+        },
+        {
+          "score": 87,
+          "wicket": 10,
+          "player": "Shreyash Patel",
+          "overs": "19.3 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Mahesh Gogineni",
+        "runs": 50,
+        "balls": 44,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 113.64
+      },
+      {
+        "name": "Shreyash Patel",
+        "runs": 20,
+        "balls": 24,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 83.33
+      },
+      {
+        "name": "Raja Allam",
+        "runs": 18,
+        "balls": 22,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 81.82
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Sudheer",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 4,
+        "economy": 2.75
+      },
+      {
+        "name": "Srinivas Manne",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 13,
+        "wickets": 3,
+        "economy": 4.33
+      },
+      {
+        "name": "Ram Malineni",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 10,
+        "wickets": 2,
+        "economy": 5.0
+      }
+    ]
+  }
+}

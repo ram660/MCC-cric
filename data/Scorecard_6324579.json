@@ -1,0 +1,435 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Albion Avengers",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-04-30",
+    "result": "Kanaka Kings won by 4 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "107/8",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "KETAN CHA WDA",
+          "status": "lbw b Sudhakar Botta",
+          "runs": 31,
+          "balls": 40,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.5
+        },
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "c †Maharshi Pandya b Adarsh Singh",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Sudheer",
+          "status": "run out † Maharshi Pandya / Sudhakar Botta",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Hemanth Daita",
+          "status": "b Ashish Rana",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Rakesh Kumar Rajendran",
+          "status": "b Sudhakar Botta",
+          "runs": 4,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 36.36
+        },
+        {
+          "name": "Sunith Raju",
+          "status": "lbw b Sudhakar Botta",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "MANGAL SINDHAR",
+          "status": "c Vicky b Ankit Khanna",
+          "runs": 9,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 64.29
+        },
+        {
+          "name": "DSP",
+          "status": "not out",
+          "runs": 22,
+          "balls": 33,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "b Ankit Khanna",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0
+        },
+        {
+          "name": "Kalyan V arma Alluri",
+          "status": "not out",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Adarsh Singh",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "name": "Hardip Singh Chandail",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 3.5
+        },
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 3,
+          "economy": 5.0
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 6.25
+        },
+        {
+          "name": "Ankit Khanna",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 23,
+          "wicket": 1,
+          "player": "Krishna Ananthaneni",
+          "overs": "5 ov"
+        },
+        {
+          "score": 31,
+          "wicket": 2,
+          "player": "Sudheer",
+          "overs": "6 ov"
+        },
+        {
+          "score": 31,
+          "wicket": 3,
+          "player": "Hemanth Daita",
+          "overs": "6.1 ov"
+        },
+        {
+          "score": 45,
+          "wicket": 4,
+          "player": "Rakesh Kumar Rajendran",
+          "overs": "9.1 ov"
+        },
+        {
+          "score": 51,
+          "wicket": 5,
+          "player": "Sunith Raju",
+          "overs": "10 ov"
+        },
+        {
+          "score": 58,
+          "wicket": 6,
+          "player": "KET AN CHA WDA",
+          "overs": "11.1 ov"
+        },
+        {
+          "score": 78,
+          "wicket": 7,
+          "player": "MANGAL SINDHAR",
+          "overs": "15.2 ov"
+        },
+        {
+          "score": 92,
+          "wicket": 8,
+          "player": "Akshay Reddy Putta",
+          "overs": "17.1 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "108/6",
+      "overs": 16.4,
+      "batting": [
+        {
+          "name": "Vicky",
+          "status": "b Hemanth Daita",
+          "runs": 9,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Mandip T rehan",
+          "status": "c&b Rakesh Kumar Rajendran",
+          "runs": 9,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Sanket",
+          "status": "lbw b Kalyan V arma Alluri",
+          "runs": 16,
+          "balls": 20,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0
+        },
+        {
+          "name": "Siddharth Khanna",
+          "status": "b Hemanth Daita",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "lbw b KET AN CHA WDA",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "Abhishek Naik",
+          "status": "not out",
+          "runs": 20,
+          "balls": 24,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Unique Bhateja",
+          "status": "c Krishna Ananthaneni b Kalyan V arma Alluri",
+          "runs": 17,
+          "balls": 10,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 170.0
+        },
+        {
+          "name": "Hardip Singh Chandail",
+          "status": "not out",
+          "runs": 8,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 266.67
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sunith Raju",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.33
+        },
+        {
+          "name": "Sudheer",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 5.75
+        },
+        {
+          "name": "Rakesh Kumar Rajendran",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "name": "Hemanth Daita",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 8.5
+        },
+        {
+          "name": "KETAN CHA WDA",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "name": "Kalyan V arma Alluri",
+          "overs": 1.4,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 12.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 21,
+          "wicket": 1,
+          "player": "Mandip T rehan",
+          "overs": "5.5 ov"
+        },
+        {
+          "score": 28,
+          "wicket": 2,
+          "player": "V icky",
+          "overs": "6.3 ov"
+        },
+        {
+          "score": 45,
+          "wicket": 3,
+          "player": "Siddharth Khanna",
+          "overs": "8.3 ov"
+        },
+        {
+          "score": 46,
+          "wicket": 4,
+          "player": "Maharshi Pandya",
+          "overs": "9.1 ov"
+        },
+        {
+          "score": 72,
+          "wicket": 5,
+          "player": "Sanket",
+          "overs": "13.4 ov"
+        },
+        {
+          "score": 99,
+          "wicket": 6,
+          "player": "Unique Bhateja",
+          "overs": "16.2 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Ketan Chawda",
+        "runs": 31,
+        "balls": 40,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 77.5
+      },
+      {
+        "name": "D S P",
+        "runs": 22,
+        "balls": 33,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 66.67
+      },
+      {
+        "name": "Abhishek Naik",
+        "runs": 20,
+        "balls": 24,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 83.33
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Sudhakar Botta",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 3,
+        "economy": 5.0
+      },
+      {
+        "name": "Ankit Khanna",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 2,
+        "economy": 5.5
+      },
+      {
+        "name": "Hemanth Daita",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 2,
+        "economy": 8.5
+      }
+    ]
+  }
+}

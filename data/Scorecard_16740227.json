@@ -1,0 +1,457 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Maple Mavericks",
+      "team2": "Whonnock WARRIORS"
+    },
+    "toss": {
+      "winner": "Whonnock WARRIORS",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2025-04-26",
+    "result": "Maple Mavericks won by 131 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "151/8",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Sudheer K",
+          "status": "c Avinash Raju b Raja Allam",
+          "runs": 12,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Rounak Sardesai",
+          "status": "lbw b Ram Malineni",
+          "runs": 18,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 112.5
+        },
+        {
+          "name": "Parvinder sharma",
+          "status": "b Deepak",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Tilak",
+          "status": "c Mahesh Gogineni b Winston Garnepudi",
+          "runs": 18,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Dhruval Patel",
+          "status": "c Avinash Raju b Winston Garnepudi",
+          "runs": 66,
+          "balls": 37,
+          "fours": 3,
+          "sixes": 5,
+          "strike_rate": 178.38
+        },
+        {
+          "name": "Mayank Misra",
+          "status": "c Sharath Reddy Gade b Deepak",
+          "runs": 11,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 64.71
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "c Abhilash Reddy Gade b Raja Allam",
+          "runs": 5,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 55.56
+        },
+        {
+          "name": "Shivam Patel",
+          "status": "c †Ritesh Shinde b Deepak",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Santhosh Kotagiri",
+          "status": "not out",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "status": "not out",
+          "runs": 8,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 266.67
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Ram Malineni",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "name": "Raja Allam",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 2,
+          "economy": 7.5
+        },
+        {
+          "name": "Deepak",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 3.75
+        },
+        {
+          "name": "Waseem Baba",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 12.5
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 2,
+          "economy": 3.67
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 15.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 15.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 25,
+          "wicket": 1,
+          "player": "Sudheer K",
+          "overs": "3.3 ov"
+        },
+        {
+          "score": 29,
+          "wicket": 2,
+          "player": "Parvinder sharma",
+          "overs": "4.2 ov"
+        },
+        {
+          "score": 37,
+          "wicket": 3,
+          "player": "Rounak Sardesai",
+          "overs": "6 ov"
+        },
+        {
+          "score": 73,
+          "wicket": 4,
+          "player": "T ilak",
+          "overs": "10.4 ov"
+        },
+        {
+          "score": 131,
+          "wicket": 5,
+          "player": "Dhruval Patel",
+          "overs": "16.4 ov"
+        },
+        {
+          "score": 133,
+          "wicket": 6,
+          "player": "Mayank Misra",
+          "overs": "17.1 ov"
+        },
+        {
+          "score": 133,
+          "wicket": 7,
+          "player": "Shivam Patel",
+          "overs": "17.3 ov"
+        },
+        {
+          "score": 141,
+          "wicket": 8,
+          "player": "V AMSI REDDY NALLA",
+          "overs": "19.3 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Whonnock WARRIORS",
+      "total_score": "107/7",
+      "overs": 17.2,
+      "batting": [
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c †Rounak Sardesai b Parvinder sharma",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "lbw b Parvinder sharma",
+          "runs": 34,
+          "balls": 26,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 130.77
+        },
+        {
+          "name": "Avinash Raju",
+          "status": "lbw b Dhruval Patel",
+          "runs": 13,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 92.86
+        },
+        {
+          "name": "Ritesh Shinde",
+          "status": "c Tilak b V AMSI REDDY NALLA",
+          "runs": 26,
+          "balls": 37,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 70.27
+        },
+        {
+          "name": "Waseem Baba",
+          "status": "c Tilak b Parvinder sharma",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "c Sudheer K b Parvinder sharma",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "run out T ilak",
+          "runs": 12,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Harsha Reddy",
+          "status": "not out",
+          "runs": 10,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 111.11
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Parvinder sharma",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 4,
+          "economy": 5.0
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 14.0
+        },
+        {
+          "name": "Tilak",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Dhruval Patel",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 3.2,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 5.4
+        },
+        {
+          "name": "Mayank Misra",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Shivam Patel",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 2,
+          "wicket": 1,
+          "player": "Sharath Reddy Gade",
+          "overs": "0.2 ov"
+        },
+        {
+          "score": 41,
+          "wicket": 2,
+          "player": "A vinash Raju",
+          "overs": "4.3 ov"
+        },
+        {
+          "score": 64,
+          "wicket": 3,
+          "player": "Abhilash Reddy Gade",
+          "overs": "8.4 ov"
+        },
+        {
+          "score": 64,
+          "wicket": 4,
+          "player": "W aseem Baba",
+          "overs": "9 ov"
+        },
+        {
+          "score": 70,
+          "wicket": 5,
+          "player": "Mahesh Gogineni",
+          "overs": "10.5 ov"
+        },
+        {
+          "score": 91,
+          "wicket": 6,
+          "player": "Winston Garnepudi",
+          "overs": "14.4 ov"
+        },
+        {
+          "score": 107,
+          "wicket": 7,
+          "player": "Ritesh Shinde",
+          "overs": "17.2 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Dhruval Patel",
+        "runs": 66,
+        "balls": 37,
+        "fours": 3,
+        "sixes": 5,
+        "strike_rate": 178.38
+      },
+      {
+        "name": "Abhilash Reddy Gade",
+        "runs": 34,
+        "balls": 26,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 130.77
+      },
+      {
+        "name": "Ritesh Shinde",
+        "runs": 26,
+        "balls": 37,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 70.27
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Parvinder Sharma",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 4,
+        "economy": 5.0
+      },
+      {
+        "name": "Deepak",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 3,
+        "economy": 3.75
+      },
+      {
+        "name": "Winston Garnepudi",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 2,
+        "economy": 3.67
+      }
+    ]
+  }
+}

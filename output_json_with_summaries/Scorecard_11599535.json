@@ -1,0 +1,383 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Cottonwood Challengers",
+      "team2": "Whonnock Warriors"
+    },
+    "toss": {
+      "winner": "Whonnock Warriors",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-07-28",
+    "result": "Whonnock Warriors won by 7 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "114/8",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "RANJOT SINGH",
+          "status": "b DEEP AK CRIC CANADA",
+          "runs": 16,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 76.19
+        },
+        {
+          "name": "Unique Bhateja",
+          "status": "c Abhilash Reddy Gade b Ram Malineni",
+          "runs": 14,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 93.33
+        },
+        {
+          "name": "Rajeev",
+          "status": "c DEEP AK CRIC CANADA b Ram Malineni",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Akshay Ravi",
+          "status": "c Akshay Reddy Putta b Ram Malineni",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Shivam Patel",
+          "status": "c DEEP AK CRIC CANADA b Ram Malineni",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "Evyan",
+          "status": "not out",
+          "runs": 37,
+          "balls": 38,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 97.37
+        },
+        {
+          "name": "Prateek Bansal MCC",
+          "status": "c Abhilash Reddy Gade b Ankit Khanna",
+          "runs": 3,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 37.5
+        },
+        {
+          "name": "Hardip MCC",
+          "status": "run out Parth Patel / † Sharath Reddy Gade",
+          "runs": 19,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 90.48
+        },
+        {
+          "name": "Yash T rivedi",
+          "status": "b Sudheer",
+          "runs": 15,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 214.29
+        },
+        {
+          "name": "Karmvir MCC",
+          "status": "not out",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 200.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "name": "Shiva Srikumar",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 28,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "DEEP AK CRIC CANADA",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.75
+        },
+        {
+          "name": "Ram Malineni",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 4,
+          "economy": 3.25
+        },
+        {
+          "name": "Ankit Khanna",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 25,
+          "wicket": 1,
+          "player": "Unique Bhateja",
+          "overs": "5.1"
+        },
+        {
+          "score": 25,
+          "wicket": 2,
+          "player": "Rajeev",
+          "overs": "5.2"
+        },
+        {
+          "score": 34,
+          "wicket": 3,
+          "player": "RANJOT SINGH",
+          "overs": "6.4"
+        },
+        {
+          "score": 35,
+          "wicket": 4,
+          "player": "Shivam Patel",
+          "overs": "7.2"
+        },
+        {
+          "score": 36,
+          "wicket": 5,
+          "player": "Akshay Ravi",
+          "overs": "7.4"
+        },
+        {
+          "score": 44,
+          "wicket": 6,
+          "player": "Prateek Bansal MCC",
+          "overs": "10.4"
+        },
+        {
+          "score": 74,
+          "wicket": 7,
+          "player": "Hardip MCC",
+          "overs": "16.4"
+        },
+        {
+          "score": 112,
+          "wicket": 8,
+          "player": "Yash T rivedi",
+          "overs": "19.5"
+        }
+      ]
+    },
+    {
+      "batting_team": "Whonnock Warriors",
+      "total_score": "115/3",
+      "overs": 17.2,
+      "batting": [
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c Akshay Ravi b Rajeev",
+          "runs": 25,
+          "balls": 20,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 125.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c Evyan b Karmvir MCC",
+          "runs": 22,
+          "balls": 23,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 95.65
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "b Evyan",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0
+        },
+        {
+          "name": "Rahul",
+          "status": "not out",
+          "runs": 34,
+          "balls": 40,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 85.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "not out",
+          "runs": 16,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 84.21
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Akshay Ravi",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        },
+        {
+          "name": "Hardip MCC",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "name": "Rajeev",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "name": "Evyan",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 5.67
+        },
+        {
+          "name": "Shivam Patel",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 2.2,
+          "maidens": 1,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 7.29
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 40,
+          "wicket": 1,
+          "player": "Sharath Reddy Gade",
+          "overs": "4.4"
+        },
+        {
+          "score": 45,
+          "wicket": 2,
+          "player": "Akshay Reddy Putta",
+          "overs": "5.3"
+        },
+        {
+          "score": 74,
+          "wicket": 3,
+          "player": "Abhilash Reddy Gade",
+          "overs": "10.3"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Evyan",
+        "runs": 37,
+        "balls": 38,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 97.37
+      },
+      {
+        "name": "Rahul",
+        "runs": 34,
+        "balls": 40,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 85.0
+      },
+      {
+        "name": "Sharath Reddy Gade",
+        "runs": 25,
+        "balls": 20,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 125.0
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Ram Malineni",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 13,
+        "wickets": 4,
+        "economy": 3.25
+      },
+      {
+        "name": "Ankit Khanna",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 1,
+        "economy": 4.0
+      },
+      {
+        "name": "Rajeev",
+        "runs": 16,
+        "overs": 4.0,
+        "maidens": 0,
+        "wickets": 1,
+        "economy": 4.0
+      }
+    ]
+  },
+  "match_summary": "The Whonnock Warriors defeated the Cottonwood Challengers by 7 wickets at Selvey Park, Maple Ridge on 2024-07-28. The Whonnock Warriors won the toss and chose to field. The Cottonwood Challengers scored 114/8 in their 20 overs, with Evyan top-scoring with 37 runs and Hardip MCC contributing 19 runs. Ram Malineni was the pick of the bowlers for Whonnock Warriors, taking 4 wickets for 13 runs.\n\nIn response, the Whonnock Warriors reached the target of 115, finishing at 115/3 in 17.2 overs. Rahul scored 34 runs and Sharath Reddy Gade added 25 runs. Rajeev and Karmvir MCC each took 1 wicket for the Cottonwood Challengers."
+}

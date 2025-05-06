@@ -1,0 +1,82 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Albion Avengers",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-04-27",
+    "result": "Abandoned (Rain out)"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "0/0",
+      "overs": 0.0,
+      "batting": [
+        {
+          "name": "Ketan Chawda",
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Shikhar Nautiyal",
+          "overs": 0,
+          "maidens": 0,
+          "runs": 0,
+          "wickets": 0,
+          "economy": 0.0
+        }
+      ],
+      "fall_of_wickets": []
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "0/0",
+      "overs": 0.0,
+      "batting": [],
+      "bowling": [],
+      "fall_of_wickets": []
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Ketan Chawda",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0.0
+      },
+      {
+        "name": "Krishna Ananthaneni",
+        "runs": 0,
+        "balls": 0,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 0.0
+      }
+    ],
+    "bowling": []
+  }
+}

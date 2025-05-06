@@ -1,0 +1,318 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Kanaka Kings",
+      "team2": "Maple Mavericks"
+    },
+    "toss": {
+      "winner": "Maple Mavericks",
+      "decision": "opt to field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-07-07",
+    "result": "Maple Mavericks won by 10 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "28/10",
+      "overs": 8.5,
+      "batting": [
+        {
+          "name": "Naveen Battula",
+          "status": "c VAMSI REDDY NALLA b Rakesh",
+          "runs": 14,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Siddharth Khanna",
+          "status": "lbw b Krishna Chaitanya(KC)",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Unique Bhateja",
+          "status": "run out Rakesh / Sampath Chowdary Nimmagadda",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Michael",
+          "status": "c Rakesh b Sree K",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "MANGAL SINDHAR",
+          "status": "b Rakesh",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Sudheer Niddani",
+          "status": "lbw b Krishna",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Bharath P",
+          "status": "lbw b Rakesh",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0
+        },
+        {
+          "name": "Srinivas Manne",
+          "status": "c Kanishk b Rakesh",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "b Krishna",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "status": "not out",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Yash T rivedi",
+          "status": "c VAMSI REDDY NALLA b Rakesh",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "name": "Sree K",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "name": "Rakesh",
+          "overs": 2.5,
+          "maidens": 2,
+          "runs": 4,
+          "wickets": 5,
+          "economy": 1.41
+        },
+        {
+          "name": "Krishna",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 3,
+          "wickets": 2,
+          "economy": 1.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 1,
+          "wicket": 1,
+          "player": "Siddharth Khanna",
+          "overs": "0.3 ov"
+        },
+        {
+          "score": 7,
+          "wicket": 2,
+          "player": "Unique Bhateja",
+          "overs": "1.4 ov"
+        },
+        {
+          "score": 15,
+          "wicket": 3,
+          "player": "Michael",
+          "overs": "3.2 ov"
+        },
+        {
+          "score": 21,
+          "wicket": 4,
+          "player": "Naveen Battula",
+          "overs": "4.4 ov"
+        },
+        {
+          "score": 23,
+          "wicket": 5,
+          "player": "Sudheer Niddani",
+          "overs": "5.4 ov"
+        },
+        {
+          "score": 23,
+          "wicket": 6,
+          "player": "MANGAL SINDHAR",
+          "overs": "6.1 ov"
+        },
+        {
+          "score": 23,
+          "wicket": 7,
+          "player": "Srinivas Manne",
+          "overs": "6.3 ov"
+        },
+        {
+          "score": 24,
+          "wicket": 8,
+          "player": "Sudhakar Botta",
+          "overs": "7.5 ov"
+        },
+        {
+          "score": 24,
+          "wicket": 9,
+          "player": "Bharath P",
+          "overs": "8.1 ov"
+        },
+        {
+          "score": 28,
+          "wicket": 10,
+          "player": "Yash T rivedi",
+          "overs": "8.5 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "29/0",
+      "overs": 2.4,
+      "batting": [
+        {
+          "name": "Kanishk",
+          "status": "not out",
+          "runs": 19,
+          "balls": 12,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 158.33
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "not out",
+          "runs": 10,
+          "balls": 4,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 250.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 1.4,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 10.2
+        },
+        {
+          "name": "Srinivas Manne",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        }
+      ],
+      "fall_of_wickets": []
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Kanishk",
+        "runs": 19,
+        "balls": 12,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 158.33
+      },
+      {
+        "name": "Naveen Battula",
+        "runs": 14,
+        "balls": 14,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 100.0
+      },
+      {
+        "name": "Vamsi Reddy Nalla",
+        "runs": 10,
+        "balls": 4,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 250.0
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Rakesh",
+        "overs": 2.5,
+        "maidens": 2,
+        "runs": 4,
+        "wickets": 5,
+        "economy": 1.41
+      },
+      {
+        "name": "Krishna",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 3,
+        "wickets": 2,
+        "economy": 1.5
+      },
+      {
+        "name": "Krishna Chaitanya(kc)",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 8,
+        "wickets": 1,
+        "economy": 4.0
+      }
+    ]
+  },
+  "match_summary": "The Maple Mavericks defeated the Kanaka Kings by 10 wickets at Selvey Park, Maple Ridge on 2024-07-07. The Maple Mavericks won the toss and opted to field. Kanaka Kings were bundled out for 28 in 8.5 overs. Naveen Battula top-scored for the Kanaka Kings with 14 runs. The Maple Mavericks chased down the target, scoring 29/0 in 2.4 overs, with Kanishk scoring 19 runs and VAMSI REDDY NALLA contributing 10 runs. Rakesh was the standout bowler, taking 5 wickets for just 4 runs. Krishna also bowled well, picking up 2 wickets for 3 runs."
+}

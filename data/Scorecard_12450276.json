@@ -1,0 +1,300 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Cottonwood Challengers",
+      "team2": "Albion Avengers"
+    },
+    "toss": {
+      "winner": "Albion Avengers",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-08-25",
+    "result": "Albion Avengers won by 8 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "139/3",
+      "overs": 18.0,
+      "batting": [
+        {
+          "name": "Harmeet Singh",
+          "status": "b Winston Garnepudi",
+          "runs": 24,
+          "balls": 33,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73
+        },
+        {
+          "name": "Maulik Mehta",
+          "status": "c Naveen Narpina b Sandeep Nimmagadda",
+          "runs": 49,
+          "balls": 53,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 92.45
+        },
+        {
+          "name": "Akshay Ravi",
+          "status": "lbw b Winston Garnepudi",
+          "runs": 18,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 163.64
+        },
+        {
+          "name": "Evyan",
+          "status": "not out",
+          "runs": 24,
+          "balls": 11,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 218.18
+        },
+        {
+          "name": "Hardip MCC",
+          "status": "not out",
+          "runs": 4,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 133.33
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vivek R",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 7.75
+        },
+        {
+          "name": "Teja",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.75
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Sudheer K",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 1,
+          "economy": 9.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 74,
+          "wicket": 1,
+          "player": "Harmeet Singh",
+          "overs": "12.3"
+        },
+        {
+          "score": 104,
+          "wicket": 2,
+          "player": "Maulik Mehta",
+          "overs": "15.4"
+        },
+        {
+          "score": 122,
+          "wicket": 3,
+          "player": "Akshay Ravi",
+          "overs": "16.5"
+        }
+      ]
+    },
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "140/2",
+      "overs": 17.5,
+      "batting": [
+        {
+          "name": "Sudheer K",
+          "status": "c †Maulik Mehta b Akshay Ravi",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Daqoo M",
+          "status": "b Hardip MCC",
+          "runs": 15,
+          "balls": 14,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 107.14
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "not out",
+          "runs": 66,
+          "balls": 51,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 129.41
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "not out",
+          "runs": 42,
+          "balls": 41,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 102.44
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Akshay Ravi",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "name": "Hardip MCC",
+          "overs": 4.0,
+          "maidens": 1,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 8.67
+        },
+        {
+          "name": "Yash T rivedi",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 8.67
+        },
+        {
+          "name": "Evyan",
+          "overs": 3.5,
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 0,
+          "economy": 9.39
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 0,
+          "wicket": 1,
+          "player": "Sudheer K",
+          "overs": "0.2"
+        },
+        {
+          "score": 29,
+          "wicket": 2,
+          "player": "Daqoo M",
+          "overs": "4.5"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Sandeep Nimmagadda",
+        "runs": 66,
+        "balls": 51,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 129.41
+      },
+      {
+        "name": "Maulik Mehta",
+        "runs": 49,
+        "balls": 53,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 92.45
+      },
+      {
+        "name": "Winston Garnepudi",
+        "runs": 42,
+        "balls": 41,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 102.44
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Winston Garnepudi",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 2,
+        "economy": 7.75
+      },
+      {
+        "name": "Hardip Mcc",
+        "overs": 4.0,
+        "maidens": 1,
+        "runs": 23,
+        "wickets": 1,
+        "economy": 5.75
+      },
+      {
+        "name": "Akshay Ravi",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 26,
+        "wickets": 1,
+        "economy": 6.5
+      }
+    ]
+  }
+}

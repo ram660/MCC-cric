@@ -1,0 +1,464 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Whonnock WARRIORS",
+      "team2": "Albion Avengers"
+    },
+    "toss": {
+      "winner": "Albion Avengers",
+      "decision": "field"
+    },
+    "venue": "brown park, Langley",
+    "date": "2024-08-18",
+    "result": "Whonnock WARRIORS won by 28 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Whonnock WARRIORS",
+      "total_score": "116/10",
+      "overs": 15.5,
+      "batting": [
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c (sub) Kalyan V arma Alluri b V ivek R",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Sudheer",
+          "status": "b Nishu",
+          "runs": 9,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 64.29
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "c Vivek R b Sampath Chowdary Nimmagadda",
+          "runs": 2,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c Nishu b Naveen Narpina",
+          "runs": 11,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 137.5
+        },
+        {
+          "name": "Rahul",
+          "status": "b Naveen Narpina",
+          "runs": 12,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 60.0
+        },
+        {
+          "name": "Harshavardhan Reddy Bobba",
+          "status": "run out Naveen Narpina / Daqoo M",
+          "runs": 55,
+          "balls": 29,
+          "fours": 1,
+          "sixes": 6,
+          "strike_rate": 189.66
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "c Krishna Ananthaneni b Nishu",
+          "runs": 6,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 200.0
+        },
+        {
+          "name": "DEEP AK CRIC CANADA",
+          "status": "not out",
+          "runs": 5,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Parth Patel",
+          "status": "run out (sub) Kalyan V arma Alluri / Daqoo M",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Raja Allam",
+          "status": "b Sandeep Nimmagadda",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Ram Malineni",
+          "status": "run out Sandeep Nimmagadda",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Vivek R",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "name": "Sampath Chowdary Nimmagadda",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 1,
+          "economy": 12.33
+        },
+        {
+          "name": "Nishu",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 2,
+          "economy": 2.5
+        },
+        {
+          "name": "Naveen Narpina",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 2,
+          "economy": 4.67
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 1.4,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 10.8
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 17.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 0,
+          "wicket": 1,
+          "player": "Sharath Reddy Gade",
+          "overs": "0.5 ov"
+        },
+        {
+          "score": 12,
+          "wicket": 2,
+          "player": "Akshay Reddy Putta",
+          "overs": "3.2 ov"
+        },
+        {
+          "score": 20,
+          "wicket": 3,
+          "player": "Sudheer",
+          "overs": "4.5 ov"
+        },
+        {
+          "score": 33,
+          "wicket": 4,
+          "player": "Abhilash Reddy Gade",
+          "overs": "6.2 ov"
+        },
+        {
+          "score": 78,
+          "wicket": 5,
+          "player": "Rahul",
+          "overs": "12.3 ov"
+        },
+        {
+          "score": 86,
+          "wicket": 6,
+          "player": "Mahesh Gogineni",
+          "overs": "13.1 ov"
+        },
+        {
+          "score": 113,
+          "wicket": 7,
+          "player": "Harshavardhan Reddy Bobba",
+          "overs": "14.4 ov"
+        },
+        {
+          "score": 114,
+          "wicket": 8,
+          "player": "Parth Patel",
+          "overs": "15.1 ov"
+        },
+        {
+          "score": 116,
+          "wicket": 9,
+          "player": "Raja Allam",
+          "overs": "15.4 ov"
+        },
+        {
+          "score": 116,
+          "wicket": 10,
+          "player": "Ram Malineni",
+          "overs": "15.5 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "88/7",
+      "overs": 13.0,
+      "batting": [
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "c Mahesh Gogineni b Shiva Srikumar",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5
+        },
+        {
+          "name": "Harsimran",
+          "status": "run out Sharath Reddy Gade",
+          "runs": 13,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 76.47
+        },
+        {
+          "name": "Vivek R",
+          "status": "b Raja Allam",
+          "runs": 18,
+          "balls": 17,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 105.88
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "b DEEP AK CRIC CANADA",
+          "runs": 24,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 160.0
+        },
+        {
+          "name": "Nishu",
+          "status": "c Ram Malineni b Raja Allam",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Daqoo M",
+          "status": "b Raja Allam",
+          "runs": 8,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 160.0
+        },
+        {
+          "name": "Teja",
+          "status": "b DEEP AK CRIC CANADA",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0
+        },
+        {
+          "name": "Naveen Narpina",
+          "status": "not out",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Sudheer K",
+          "status": "not out",
+          "runs": 11,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 220.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 3.67
+        },
+        {
+          "name": "Shiva Srikumar",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "name": "DEEP AK CRIC CANADA",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 6.33
+        },
+        {
+          "name": "Raja Allam",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 3,
+          "economy": 7.0
+        },
+        {
+          "name": "Ram Malineni",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 29,
+          "wickets": 0,
+          "economy": 14.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 5,
+          "wicket": 1,
+          "player": "Krishna Ananthaneni",
+          "overs": "1.4 ov"
+        },
+        {
+          "score": 38,
+          "wicket": 2,
+          "player": "Harsimran",
+          "overs": "6.5 ov"
+        },
+        {
+          "score": 38,
+          "wicket": 3,
+          "player": "V ivek R",
+          "overs": "7.1 ov"
+        },
+        {
+          "score": 38,
+          "wicket": 4,
+          "player": "Nishu",
+          "overs": "7.3 ov"
+        },
+        {
+          "score": 68,
+          "wicket": 5,
+          "player": "Daqoo M",
+          "overs": "9.4 ov"
+        },
+        {
+          "score": 73,
+          "wicket": 6,
+          "player": "Winston Garnepudi",
+          "overs": "11.1 ov"
+        },
+        {
+          "score": 74,
+          "wicket": 7,
+          "player": "T eja",
+          "overs": "11.5 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Harshavardhan Reddy Bobba",
+        "runs": 55,
+        "balls": 29,
+        "fours": 1,
+        "sixes": 6,
+        "strike_rate": 189.66
+      },
+      {
+        "name": "Winston Garnepudi",
+        "runs": 24,
+        "balls": 15,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 160.0
+      },
+      {
+        "name": "Vivek R",
+        "runs": 18,
+        "balls": 17,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 105.88
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Raja Allam",
+        "overs": 3,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 3,
+        "economy": 7.0
+      },
+      {
+        "name": "Gunish",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 10,
+        "wickets": 2,
+        "economy": 2.5
+      },
+      {
+        "name": "Naveen Narpina",
+        "overs": 3,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 2,
+        "economy": 4.67
+      }
+    ]
+  },
+  "match_summary": "Whonnock Warriors won against Albion Avengers by 28 runs in a match held at brown park, Langley on 2024-08-18. Albion Avengers won the toss and chose to field. Whonnock Warriors scored 116/10 in 15.5 overs, while Albion Avengers scored 88/7 in 13 overs.\n\nThe top batting performances for Whonnock Warriors came from Harshavardhan Reddy Bobba (55 runs) and Rahul (12 runs). For Albion Avengers, Winston Garnepudi scored 24 runs and Vivek R scored 18 runs. The top bowling performances were by Raja Allam (3 wickets for 21 runs) and DEEP AK CRIC CANADA (2 wickets for 19 runs). Naveen Narpina and Nishu also took 2 wickets each."
+}

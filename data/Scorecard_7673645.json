@@ -1,0 +1,473 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "MCC WARRIORS",
+      "team2": "MCC MARSHALS"
+    },
+    "toss": {
+      "winner": "MCC WARRIORS",
+      "decision": "bat"
+    },
+    "venue": "brown park, Langley",
+    "date": "2023-08-20",
+    "result": "MCC WARRIORS won by 59 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "MCC WARRIORS",
+      "total_score": "136/6",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "b Gaurav Shienhmar",
+          "runs": 36,
+          "balls": 28,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 128.57
+        },
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c Bheemla Nayak b Krishna Chaitanya(KC)",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "c Gopi b Sandeep Nimmagadda",
+          "runs": 6,
+          "balls": 14,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86
+        },
+        {
+          "name": "Maulik Mehta",
+          "status": "c Sandeep Nimmagadda b Jk Ram",
+          "runs": 3,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "not out",
+          "runs": 30,
+          "balls": 31,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 96.77
+        },
+        {
+          "name": "Bharath P",
+          "status": "c Gopi b V AMSI REDDY NALLA",
+          "runs": 16,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 84.21
+        },
+        {
+          "name": "Sudheer",
+          "status": "c Bheemla Nayak b Sandeep Nimmagadda",
+          "runs": 23,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 164.29
+        },
+        {
+          "name": "DSP",
+          "status": "not out",
+          "runs": 7,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 116.67
+        }
+      ],
+      "bowling": [
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 1,
+          "economy": 7.75
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 7.0
+        },
+        {
+          "name": "Gaurav Shienhmar",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "name": "Jk Ram",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "name": "TEJAS KANETKAR",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "name": "Bheemla Nayak",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 15,
+          "wicket": 1,
+          "player": "Sharath Reddy Gade",
+          "overs": "1.5 ov"
+        },
+        {
+          "score": 42,
+          "wicket": 2,
+          "player": "Akshay Reddy Putta",
+          "overs": "6.4 ov"
+        },
+        {
+          "score": 51,
+          "wicket": 3,
+          "player": "Abhilash Reddy Gade",
+          "overs": "7.5 ov"
+        },
+        {
+          "score": 53,
+          "wicket": 4,
+          "player": "Maulik Mehta",
+          "overs": "8.5 ov"
+        },
+        {
+          "score": 85,
+          "wicket": 5,
+          "player": "Bharath P",
+          "overs": "13 ov"
+        },
+        {
+          "score": 123,
+          "wicket": 6,
+          "player": "Sudheer",
+          "overs": "18 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "MCC MARSHALS",
+      "total_score": "77/9",
+      "overs": 18.2,
+      "batting": [
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "b Sudheer",
+          "runs": 3,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.0
+        },
+        {
+          "name": "Sudheer Niddani",
+          "status": "b Mahesh Gogineni",
+          "runs": 11,
+          "balls": 31,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 35.48
+        },
+        {
+          "name": "TEJAS KANETKAR",
+          "status": "st †Sharath Reddy Gade b Prashant Mukherjee MCC",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "Bheemla Nayak",
+          "status": "c Sharath Reddy Gade b Sudheer",
+          "runs": 13,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 76.47
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "c Abhilash Reddy Gade b Raghu",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Gaurav Shienhmar",
+          "status": "c Abhilash Reddy Gade b Prashant Mukherjee MCC",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "run out Sharath Reddy Gade",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5
+        },
+        {
+          "name": "Gopi",
+          "status": "c †Maulik Mehta b Harsha Madi Reddy",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "status": "c Prashant Mukherjee MCC b DSP",
+          "runs": 8,
+          "balls": 11,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 72.73
+        },
+        {
+          "name": "Jk Ram",
+          "status": "not out",
+          "runs": 12,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "overs": 2,
+          "maidens": 1,
+          "runs": 2,
+          "wickets": 0,
+          "economy": 1.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "name": "Prashant Mukherjee MCC",
+          "overs": 3,
+          "maidens": 1,
+          "runs": 11,
+          "wickets": 2,
+          "economy": 3.67
+        },
+        {
+          "name": "Raghu",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 5.33
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 1,
+          "economy": 3.5
+        },
+        {
+          "name": "Harsha Madi Reddy",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 3.0
+        },
+        {
+          "name": "DSP",
+          "overs": 1.2,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 1,
+          "economy": 8.25
+        },
+        {
+          "name": "Sharath Reddy Gade",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 5,
+          "wicket": 1,
+          "player": "Krishna Ananthaneni",
+          "overs": "3 ov"
+        },
+        {
+          "score": 11,
+          "wicket": 2,
+          "player": "TEJAS KANETKAR",
+          "overs": "5.2 ov"
+        },
+        {
+          "score": 37,
+          "wicket": 3,
+          "player": "Bheemla Nayak",
+          "overs": "9.4 ov"
+        },
+        {
+          "score": 40,
+          "wicket": 4,
+          "player": "V AMSI REDDY NALLA",
+          "overs": "10.5 ov"
+        },
+        {
+          "score": 45,
+          "wicket": 5,
+          "player": "Gaurav Shienhmar",
+          "overs": "11.3 ov"
+        },
+        {
+          "score": 47,
+          "wicket": 6,
+          "player": "Sudheer Niddani",
+          "overs": "12.3 ov"
+        },
+        {
+          "score": 52,
+          "wicket": 7,
+          "player": "Gopi",
+          "overs": "13.5 ov"
+        },
+        {
+          "score": 54,
+          "wicket": 8,
+          "player": "Sandeep Nimmagadda",
+          "overs": "14.2 ov"
+        },
+        {
+          "score": 77,
+          "wicket": 9,
+          "player": "Krishna Chaitanya(KC)",
+          "overs": "18.2 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Abhilash Reddy Gade",
+        "runs": 36,
+        "balls": 28,
+        "fours": 3,
+        "sixes": 1,
+        "strike_rate": 128.57
+      },
+      {
+        "name": "Mahesh Gogineni",
+        "runs": 30,
+        "balls": 31,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 96.77
+      },
+      {
+        "name": "Sudheer",
+        "runs": 23,
+        "balls": 14,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 164.29
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Sudheer",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 9,
+        "wickets": 2,
+        "economy": 3.0
+      },
+      {
+        "name": "Prashant Mukherjee Mcc",
+        "overs": 3.0,
+        "maidens": 1,
+        "runs": 11,
+        "wickets": 2,
+        "economy": 3.67
+      },
+      {
+        "name": "Sandeep Nimmagadda",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 21,
+        "wickets": 2,
+        "economy": 7.0
+      }
+    ]
+  }
+}

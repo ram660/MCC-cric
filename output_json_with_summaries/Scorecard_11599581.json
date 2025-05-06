@@ -1,0 +1,411 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Cottonwood Challengers",
+      "team2": "Maple Mavericks"
+    },
+    "toss": {
+      "winner": "Maple Mavericks",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-08-17",
+    "result": "Maple Mavericks won by 7 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "98/8",
+      "overs": 18.1,
+      "batting": [
+        {
+          "name": "RANJOT SINGH",
+          "status": "c Shivam b Gaurav Shienhmar",
+          "runs": 28,
+          "balls": 32,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 87.5
+        },
+        {
+          "name": "Harmeet Singh",
+          "status": "c Bharath V intha b Krishna Chaitanya(KC)",
+          "runs": 15,
+          "balls": 9,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 166.67
+        },
+        {
+          "name": "Maulik Mehta",
+          "status": "b Kanishk",
+          "runs": 5,
+          "balls": 10,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Akshay Ravi",
+          "status": "retired hurt",
+          "runs": 34,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 106.25
+        },
+        {
+          "name": "Shivam Patel",
+          "status": "c Sree K b Gaurav Shienhmar",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Evyan",
+          "status": "b Kanishk",
+          "runs": 7,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 58.33
+        },
+        {
+          "name": "Nikhil",
+          "status": "b Rakesh",
+          "runs": 0,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Yash T rivedi",
+          "status": "c Dhruval Patel b Gaurav Shienhmar",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Karmvir MCC",
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Prashant Mukherjee MCC",
+          "status": "lbw b Gaurav Shienhmar",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sree K",
+          "overs": 2.1,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 9.23
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "name": "Kanishk",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 4.25
+        },
+        {
+          "name": "Rakesh",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 5.0
+        },
+        {
+          "name": "Gaurav Shienhmar",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 4,
+          "economy": 4.0
+        },
+        {
+          "name": "Krishna",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 7.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 29,
+          "wicket": 1,
+          "player": "Harmeet Singh",
+          "overs": "4"
+        },
+        {
+          "score": 42,
+          "wicket": 2,
+          "player": "Maulik Mehta",
+          "overs": "6.4"
+        },
+        {
+          "score": 62,
+          "wicket": 3,
+          "player": "RANJOT SINGH",
+          "overs": "10.1"
+        },
+        {
+          "score": 63,
+          "wicket": 4,
+          "player": "Shivam Patel",
+          "overs": "10.4"
+        },
+        {
+          "score": 86,
+          "wicket": 5,
+          "player": "Evyan",
+          "overs": "14.4"
+        },
+        {
+          "score": 94,
+          "wicket": 6,
+          "player": "Nikhil",
+          "overs": "15.5"
+        },
+        {
+          "score": 96,
+          "wicket": 6,
+          "player": "Akshay Ravi",
+          "overs": "17.1"
+        },
+        {
+          "score": 97,
+          "wicket": 7,
+          "player": "Y ash T rivedi",
+          "overs": "17.2"
+        },
+        {
+          "score": 97,
+          "wicket": 8,
+          "player": "Prashant Mukherjee MCC",
+          "overs": "17.5"
+        },
+        {
+          "score": 98,
+          "wicket": 8,
+          "player": "Akshay Ravi",
+          "overs": "18.1"
+        }
+      ]
+    },
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "99/3",
+      "overs": 14.1,
+      "batting": [
+        {
+          "name": "Bharath V intha",
+          "status": "c RANJOT SINGH b Shivam Patel",
+          "runs": 37,
+          "balls": 33,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 112.12
+        },
+        {
+          "name": "Shivam",
+          "status": "c&b Shivam Patel",
+          "runs": 24,
+          "balls": 19,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 126.32
+        },
+        {
+          "name": "Krishna",
+          "status": "c Karmvir MCC b Shivam Patel",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Anil MCC",
+          "status": "not out",
+          "runs": 10,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5
+        },
+        {
+          "name": "Rakesh",
+          "status": "not out",
+          "runs": 21,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 140.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Evyan (c)",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "name": "Shivam Patel",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 3,
+          "economy": 4.33
+        },
+        {
+          "name": "Nikhil",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "name": "Prashant Mukherjee MCC",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 5.5
+        },
+        {
+          "name": "Yash T rivedi",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Harmeet Singh",
+          "overs": 0.1,
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 24.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 40,
+          "wicket": 1,
+          "player": "Shivam",
+          "overs": "5.3"
+        },
+        {
+          "score": 40,
+          "wicket": 2,
+          "player": "Krishna",
+          "overs": "6"
+        },
+        {
+          "score": 73,
+          "wicket": 3,
+          "player": "Bharath V intha",
+          "overs": "10.4"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Bharath Reddy",
+        "runs": 37,
+        "balls": 33,
+        "fours": 3,
+        "sixes": 2,
+        "strike_rate": 112.12
+      },
+      {
+        "name": "Akshay Ravi",
+        "runs": 34,
+        "balls": 32,
+        "fours": 0,
+        "sixes": 2,
+        "strike_rate": 106.25
+      },
+      {
+        "name": "Ranjot Singh",
+        "runs": 28,
+        "balls": 32,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 87.5
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Gaurav Shienhmar",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 4,
+        "economy": 4.0
+      },
+      {
+        "name": "Shivam Patel",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 13,
+        "wickets": 3,
+        "economy": 4.33
+      },
+      {
+        "name": "Kanishk",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 17,
+        "wickets": 2,
+        "economy": 4.25
+      }
+    ]
+  },
+  "match_summary": "The Maple Mavericks defeated the Cottonwood Challengers by 7 wickets at Selvey Park, Maple Ridge on 2024-08-17. The Cottonwood Challengers batted first, scoring 98/8 in 18.1 overs. Akshay Ravi top-scored with 34 runs, followed by Ranjot Singh with 28 runs. Gaurav Shienhmar was the pick of the bowlers for the Maple Mavericks, taking 4 wickets for 16 runs. Kanishk supported well with 2 wickets for 17 runs.\n\nIn response, the Maple Mavericks reached 99/3 in 14.1 overs. Bharath V intha led the chase with 37 runs, while Shivam contributed 24 runs. Shivam Patel was the standout bowler for the Cottonwood Challengers, claiming 3 wickets for 13 runs."
+}

@@ -1,0 +1,399 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Valley Vikings",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Kanaka Kings",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-06-04",
+    "result": "Valley Vikings won by 2 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Valley Vikings",
+      "total_score": "130/6",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Harsha",
+          "status": "c Maharshi Pandya b Ankit Khanna",
+          "runs": 8,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Krishna",
+          "status": "st †Maharshi Pandya b Ashish Rana",
+          "runs": 40,
+          "balls": 35,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 114.29
+        },
+        {
+          "name": "Harshith Reddy",
+          "status": "b Hardip Singh Chandail",
+          "runs": 13,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 86.67
+        },
+        {
+          "name": "Rakesh",
+          "status": "lbw b Sudhakar Botta",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0
+        },
+        {
+          "name": "Daqoo M",
+          "status": "b Hardip Singh Chandail",
+          "runs": 0,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Pavan Pothamsetty",
+          "status": "st †Maharshi Pandya b Ashish Rana",
+          "runs": 26,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 92.86
+        },
+        {
+          "name": "Sree K",
+          "status": "not out",
+          "runs": 22,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 146.67
+        },
+        {
+          "name": "Srikanth Reddy",
+          "status": "not out",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Adarsh Singh",
+          "overs": 4.0,
+          "maidens": 1,
+          "runs": 31,
+          "wickets": 0,
+          "economy": 7.75
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "name": "Ankit Khanna",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "name": "Hardip Singh Chandail",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 2,
+          "economy": 7.0
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 4.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 16,
+          "wicket": 1,
+          "player": "Harsha",
+          "overs": "3.2"
+        },
+        {
+          "score": 53,
+          "wicket": 2,
+          "player": "Harshith Reddy ",
+          "overs": "7.5"
+        },
+        {
+          "score": 56,
+          "wicket": 3,
+          "player": "Rakesh",
+          "overs": "8.3"
+        },
+        {
+          "score": 58,
+          "wicket": 4,
+          "player": "Daqoo M",
+          "overs": "10"
+        },
+        {
+          "score": 87,
+          "wicket": 5,
+          "player": "Krishna",
+          "overs": "15"
+        },
+        {
+          "score": 106,
+          "wicket": 6,
+          "player": "Pavan Pothamsetty ",
+          "overs": "17.3"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "128/5",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Siddharth Khanna",
+          "status": "b Sree K",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Unique Bhateja",
+          "status": "b SaiT eja",
+          "runs": 19,
+          "balls": 27,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 70.37
+        },
+        {
+          "name": "Mandip T rehan",
+          "status": "b Sree K",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "not out",
+          "runs": 58,
+          "balls": 59,
+          "fours": 4,
+          "sixes": 1,
+          "strike_rate": 98.31
+        },
+        {
+          "name": "Hardip Singh Chandail",
+          "status": "c Sree K b Krishna",
+          "runs": 24,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 133.33
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "c Pavan Pothamsetty b Krishna",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "not out",
+          "runs": 11,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 91.67
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sree K",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 4.5
+        },
+        {
+          "name": "Harshith Reddy",
+          "overs": 4.0,
+          "maidens": 1,
+          "runs": 30,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "name": "Rakesh",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 5.25
+        },
+        {
+          "name": "Vishnu",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "name": "Nimma",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "name": "SaiTeja",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "name": "Krishna",
+          "overs": 3.0,
+          "maidens": 1,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 6.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 0,
+          "wicket": 1,
+          "player": "Siddharth Khanna",
+          "overs": "0.2"
+        },
+        {
+          "score": 0,
+          "wicket": 2,
+          "player": "Mandip T rehan",
+          "overs": "0.3"
+        },
+        {
+          "score": 62,
+          "wicket": 3,
+          "player": "Unique Bhateja",
+          "overs": "11.2"
+        },
+        {
+          "score": 110,
+          "wicket": 4,
+          "player": "Hardip Singh Chandail",
+          "overs": "16.1"
+        },
+        {
+          "score": 110,
+          "wicket": 5,
+          "player": "V AMSI REDDY NALLA",
+          "overs": "16.2"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Maharshi Pandya",
+        "runs": 58,
+        "balls": 59,
+        "fours": 4,
+        "sixes": 1,
+        "strike_rate": 98.31
+      },
+      {
+        "name": "Krishna",
+        "runs": 40,
+        "balls": 35,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 114.29
+      },
+      {
+        "name": "Pavan Kumar",
+        "runs": 26,
+        "balls": 28,
+        "fours": 0,
+        "sixes": 1,
+        "strike_rate": 92.86
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Ashish Rana",
+        "overs": 3.0,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 2,
+        "economy": 4.0
+      },
+      {
+        "name": "Sree K",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 2,
+        "economy": 4.5
+      },
+      {
+        "name": "Krishna",
+        "overs": 3.0,
+        "maidens": 1,
+        "runs": 18,
+        "wickets": 2,
+        "economy": 6.0
+      }
+    ]
+  },
+  "match_summary": "Valley Vikings won against Kanaka Kings by 2 runs at Selvey Park, Maple Ridge on 2023-06-04. Valley Vikings batted first, scoring 130/6 in their 20 overs, while Kanaka Kings replied with 128/5.\n\nFor Valley Vikings, Krishna scored 40 runs and Pavan Pothamsetty added 26. For Kanaka Kings, Maharshi Pandya top-scored with 58. The top bowlers for Valley Vikings were Ashish Rana and Krishna, both taking 2 wickets. Sree K also took 2 wickets for Kanaka Kings."
+}

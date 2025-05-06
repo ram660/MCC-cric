@@ -1,0 +1,368 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Maple Mavericks"
+    },
+    "toss": {
+      "winner": "Albion Avengers",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-07-22",
+    "result": "Maple Mavericks won by 9 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "115/8",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "run out Krishna Chaitanya(KC) / Sharath Reddy Gade",
+          "runs": 16,
+          "balls": 22,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 72.73
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "c Nageswara Kolla b Evyan",
+          "runs": 25,
+          "balls": 19,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 131.58
+        },
+        {
+          "name": "Sudheer K",
+          "status": "lbw b Evyan",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Srikanth Reddy",
+          "status": "c Kanishk b Shivam",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "c VAMSI REDDY NALLA b Shivam",
+          "runs": 3,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 75.0
+        },
+        {
+          "name": "Srinivas",
+          "status": "b Evyan",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Kalyan V arma Alluri",
+          "status": "lbw b Akshay Ravi",
+          "runs": 4,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 26.67
+        },
+        {
+          "name": "Sudheer",
+          "status": "run out Nageswara Kolla / V AMSI REDDY NALLA",
+          "runs": 26,
+          "balls": 27,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 96.3
+        },
+        {
+          "name": "Prashant Mukherjee MCC",
+          "status": "not out",
+          "runs": 2,
+          "balls": 12,
+          "fours": 3,
+          "sixes": 1,
+          "strike_rate": 91.3
+        },
+        {
+          "name": "Harsha Madi Reddy",
+          "status": "not out",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Akshay Ravi",
+          "overs": 4.0,
+          "maidens": 1,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 3.25
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 35,
+          "wickets": 0,
+          "economy": 8.75
+        },
+        {
+          "name": "Evyan",
+          "overs": 4.0,
+          "maidens": 1,
+          "runs": 10,
+          "wickets": 3,
+          "economy": 2.5
+        },
+        {
+          "name": "Kanishk",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "name": "Shivam",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.75
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 5.67
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 45,
+          "wicket": 1,
+          "player": "Akshay Reddy Putta",
+          "overs": "6.3 ov"
+        },
+        {
+          "score": 45,
+          "wicket": 2,
+          "player": "Sudheer K",
+          "overs": "6.4 ov"
+        },
+        {
+          "score": 47,
+          "wicket": 3,
+          "player": "Krishna Ananthaneni",
+          "overs": "7.1 ov"
+        },
+        {
+          "score": 51,
+          "wicket": 4,
+          "player": "Srikanth Reddy",
+          "overs": "8 ov"
+        },
+        {
+          "score": 52,
+          "wicket": 5,
+          "player": "Srinivas",
+          "overs": "8.2 ov"
+        },
+        {
+          "score": 57,
+          "wicket": 6,
+          "player": "Mahesh Gogineni",
+          "overs": "9.4 ov"
+        },
+        {
+          "score": 68,
+          "wicket": 7,
+          "player": "Kalyan V arma Alluri",
+          "overs": "12.2 ov"
+        },
+        {
+          "score": 105,
+          "wicket": 8,
+          "player": "Sudheer",
+          "overs": "18.4 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "117/1",
+      "overs": 12.4,
+      "batting": [
+        {
+          "name": "Srikanth Thota",
+          "status": "not out",
+          "runs": 52,
+          "balls": 33,
+          "fours": 8,
+          "sixes": 1,
+          "strike_rate": 157.58
+        },
+        {
+          "name": "Shivam",
+          "status": "c Sudheer K b Akshay Reddy Putta",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Akshay Ravi",
+          "status": "not out",
+          "runs": 51,
+          "balls": 38,
+          "fours": 7,
+          "sixes": 1,
+          "strike_rate": 134.21
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "name": "Srinivas",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "name": "Prashant Mukherjee MCC",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "name": "Kalyan V arma Alluri",
+          "overs": 1.4,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 10.2
+        },
+        {
+          "name": "Harsha Madi Reddy",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 8,
+          "wicket": 1,
+          "player": "Shivam",
+          "overs": "1.3 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Srikanth Thota",
+        "runs": 52,
+        "balls": 33,
+        "fours": 8,
+        "sixes": 1,
+        "strike_rate": 157.58
+      },
+      {
+        "name": "Akshay Ravi",
+        "runs": 51,
+        "balls": 38,
+        "fours": 7,
+        "sixes": 1,
+        "strike_rate": 134.21
+      },
+      {
+        "name": "Sudheer",
+        "runs": 26,
+        "balls": 27,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 96.3
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Jayan Jayabal",
+        "overs": 4.0,
+        "maidens": 1,
+        "runs": 10,
+        "wickets": 3,
+        "economy": 2.5
+      },
+      {
+        "name": "Shivam",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 27,
+        "wickets": 2,
+        "economy": 6.75
+      },
+      {
+        "name": "Akshay Ravi",
+        "overs": 4.0,
+        "maidens": 1,
+        "runs": 13,
+        "wickets": 1,
+        "economy": 3.25
+      }
+    ]
+  }
+}

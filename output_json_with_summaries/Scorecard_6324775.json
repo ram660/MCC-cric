@@ -1,0 +1,442 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Valley Vikings"
+    },
+    "toss": {
+      "winner": "Valley Vikings",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-07-16",
+    "result": "Albion Avengers won by 49 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "151/5",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "c Sree K b Lalith",
+          "runs": 6,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 37.5
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "b Krishna",
+          "runs": 47,
+          "balls": 43,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 109.3
+        },
+        {
+          "name": "Ketan Chawda",
+          "status": "c Harsha b Sree K",
+          "runs": 6,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "c&b Lalith",
+          "runs": 10,
+          "balls": 5,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 200.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "not out",
+          "runs": 35,
+          "balls": 31,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 112.9
+        },
+        {
+          "name": "Vivek R",
+          "status": "b Rakesh",
+          "runs": 26,
+          "balls": 17,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 152.94
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "not out",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sree K",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "name": "Rakesh",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "name": "Lalith",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 2,
+          "economy": 9.0
+        },
+        {
+          "name": "Pavan Pothamsetty",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "name": "SaiTeja",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 9.25
+        },
+        {
+          "name": "Krishna",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 1,
+          "economy": 6.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 30,
+          "wicket": 1,
+          "player": "Krishna Ananthaneni",
+          "overs": "5.2"
+        },
+        {
+          "score": 39,
+          "wicket": 2,
+          "player": "Ketan Chawda",
+          "overs": "6.3"
+        },
+        {
+          "score": 50,
+          "wicket": 3,
+          "player": "Mahesh Gogineni",
+          "overs": "7.3"
+        },
+        {
+          "score": 102,
+          "wicket": 4,
+          "player": "Akshay Reddy Putta",
+          "overs": "14.3"
+        },
+        {
+          "score": 149,
+          "wicket": 5,
+          "player": "V ivek R",
+          "overs": "19.2"
+        }
+      ]
+    },
+    {
+      "batting_team": "Valley Vikings",
+      "total_score": "102/10",
+      "overs": 17.3,
+      "batting": [
+        {
+          "name": "Harsha",
+          "status": "b Sudheer",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Krishna",
+          "status": "run out Akshay Reddy Putta / Ketan Chawda",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Harshith Reddy",
+          "status": "run out Sudheer",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 12.5
+        },
+        {
+          "name": "Pavan Pothamsetty",
+          "status": "c Ketan Chawda b Srinivas",
+          "runs": 33,
+          "balls": 33,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Rakesh",
+          "status": "c Winston Garnepudi b Sandeep Nimmagadda",
+          "runs": 1,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 25.0
+        },
+        {
+          "name": "Daqoo M",
+          "status": "lbw b V ivek R",
+          "runs": 16,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 133.33
+        },
+        {
+          "name": "Vinil Dontha",
+          "status": "run out V ivek R / Ketan Chawda",
+          "runs": 12,
+          "balls": 15,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0
+        },
+        {
+          "name": "Lalith",
+          "status": "c Vivek R b Mahesh Gogineni",
+          "runs": 21,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 123.53
+        },
+        {
+          "name": "Sree K",
+          "status": "c Sandeep Nimmagadda b V ivek R",
+          "runs": 5,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 62.5
+        },
+        {
+          "name": "Nimma",
+          "status": "c Ketan Chawda b V ivek R",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33
+        },
+        {
+          "name": "SaiTeja",
+          "status": "not out",
+          "runs": 1,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 4.0,
+          "maidens": 1,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Vivek R",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 3,
+          "economy": 5.0
+        },
+        {
+          "name": "Srinivas (c)",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 7.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 0.3,
+          "maidens": 0,
+          "runs": 2,
+          "wickets": 1,
+          "economy": 4.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 0,
+          "wicket": 1,
+          "player": "Harsha",
+          "overs": "0.1"
+        },
+        {
+          "score": 1,
+          "wicket": 2,
+          "player": "Krishna",
+          "overs": "0.4"
+        },
+        {
+          "score": 2,
+          "wicket": 3,
+          "player": "Harshith Reddy ",
+          "overs": "2"
+        },
+        {
+          "score": 12,
+          "wicket": 4,
+          "player": "Rakesh",
+          "overs": "3.2"
+        },
+        {
+          "score": 37,
+          "wicket": 5,
+          "player": "Daqoo M",
+          "overs": "7.1"
+        },
+        {
+          "score": 60,
+          "wicket": 6,
+          "player": "V inil Dontha",
+          "overs": "11"
+        },
+        {
+          "score": 75,
+          "wicket": 7,
+          "player": "Pavan Pothamsetty ",
+          "overs": "13.2"
+        },
+        {
+          "score": 96,
+          "wicket": 8,
+          "player": "Sree K",
+          "overs": "16.1"
+        },
+        {
+          "score": 100,
+          "wicket": 9,
+          "player": "Nimma",
+          "overs": "16.4"
+        },
+        {
+          "score": 102,
+          "wicket": 10,
+          "player": "Lalith",
+          "overs": "17.3"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Akshay Reddy Putta",
+        "runs": 47,
+        "balls": 43,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 109.3
+      },
+      {
+        "name": "Winston Garnepudi",
+        "runs": 35,
+        "balls": 31,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 112.9
+      },
+      {
+        "name": "Pavan Kumar",
+        "runs": 33,
+        "balls": 33,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 100.0
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Vivek R",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 3,
+        "economy": 5.0
+      },
+      {
+        "name": "Lalith",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 18,
+        "wickets": 2,
+        "economy": 9.0
+      },
+      {
+        "name": "Mahesh Gogineni",
+        "overs": 0.3,
+        "maidens": 0,
+        "runs": 2,
+        "wickets": 1,
+        "economy": 4.0
+      }
+    ]
+  },
+  "match_summary": "Albion Avengers won against Valley Vikings by 49 runs at Selvey Park, Maple Ridge on 2023-07-16. Valley Vikings won the toss and chose to field. Albion Avengers scored 151/5 in their 20 overs, while Valley Vikings were all out for 102 in 17.3 overs.\n\nFor Albion Avengers, Akshay Reddy Putta scored 47 runs and Winston Garnepudi added 35. Lalith and Krishna took 1 wicket each. For Valley Vikings, Pavan Pothamsetty scored 33 runs. Vivek R was the pick of the bowlers with 3 wickets, while Lalith took 2 wickets."
+}

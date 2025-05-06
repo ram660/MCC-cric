@@ -1,0 +1,436 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Valley Vikings"
+    },
+    "toss": {
+      "winner": "Albion Avengers",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-06-18",
+    "result": "Valley Vikings won by 5 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "120/8",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Ketan Chawda",
+          "status": "c Pavan Pothamsetty b SaiT eja",
+          "runs": 21,
+          "balls": 25,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.0
+        },
+        {
+          "name": "Avinash Raju",
+          "status": "st †Harsha b SaiT eja",
+          "runs": 22,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 84.62
+        },
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "lbw b Pavan Pothamsetty",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "not out",
+          "runs": 30,
+          "balls": 34,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 88.24
+        },
+        {
+          "name": "Srinivas",
+          "status": "c Sree K b V ishnu",
+          "runs": 3,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 60.0
+        },
+        {
+          "name": "Vivek R",
+          "status": "c Sree K b V ishnu",
+          "runs": 22,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 2,
+          "strike_rate": 122.22
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "b Vishnu",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Sunith Raju",
+          "status": "c Nimma b Krishna",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "b Rakesh",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "not out",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sree K",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "name": "Rakesh",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 1,
+          "economy": 5.67
+        },
+        {
+          "name": "Krishna",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "name": "Vishnu",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 3,
+          "economy": 5.0
+        },
+        {
+          "name": "SaiTeja",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 2,
+          "economy": 10.0
+        },
+        {
+          "name": "Pavan Pothamsetty",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 4.33
+        },
+        {
+          "name": "Vinil Dontha",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 51,
+          "wicket": 1,
+          "player": "Ketan Chawda",
+          "overs": "7.5"
+        },
+        {
+          "score": 54,
+          "wicket": 2,
+          "player": "Krishna Ananthaneni",
+          "overs": "8.2"
+        },
+        {
+          "score": 61,
+          "wicket": 3,
+          "player": "A vinash Raju",
+          "overs": "9.4"
+        },
+        {
+          "score": 67,
+          "wicket": 4,
+          "player": "Srinivas",
+          "overs": "11.3"
+        },
+        {
+          "score": 106,
+          "wicket": 5,
+          "player": "V ivek R",
+          "overs": "17.2"
+        },
+        {
+          "score": 109,
+          "wicket": 6,
+          "player": "Mahesh Gogineni",
+          "overs": "17.5"
+        },
+        {
+          "score": 111,
+          "wicket": 7,
+          "player": "Sunith Raju",
+          "overs": "18.2"
+        },
+        {
+          "score": 117,
+          "wicket": 8,
+          "player": "Sandeep Nimmagadda",
+          "overs": "19.4"
+        }
+      ]
+    },
+    {
+      "batting_team": "Valley Vikings",
+      "total_score": "121/5",
+      "overs": 17.0,
+      "batting": [
+        {
+          "name": "Harsha",
+          "status": "run out A vinash Raju",
+          "runs": 5,
+          "balls": 4,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 125.0
+        },
+        {
+          "name": "Krishna",
+          "status": "c Sandeep Nimmagadda b V ivek R",
+          "runs": 14,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 107.69
+        },
+        {
+          "name": "Harshith Reddy",
+          "status": "st †A vinash Raju b Sunith Raju",
+          "runs": 45,
+          "balls": 35,
+          "fours": 5,
+          "sixes": 1,
+          "strike_rate": 128.57
+        },
+        {
+          "name": "Rakesh",
+          "status": "c Avinash Raju b Winston Garnepudi",
+          "runs": 4,
+          "balls": 13,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 30.77
+        },
+        {
+          "name": "Pavan Pothamsetty",
+          "status": "not out",
+          "runs": 37,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 3,
+          "strike_rate": 132.14
+        },
+        {
+          "name": "Vishnu",
+          "status": "run out Krishna Ananthaneni",
+          "runs": 6,
+          "balls": 9,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Srikanth Reddy",
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 8.5
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "name": "Vivek R",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 3.75
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "name": "Srinivas",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Sunith Raju",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 1,
+          "economy": 8.33
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 7,
+          "wicket": 1,
+          "player": "Harsha",
+          "overs": "0.5"
+        },
+        {
+          "score": 41,
+          "wicket": 2,
+          "player": "Krishna",
+          "overs": "4.3"
+        },
+        {
+          "score": 54,
+          "wicket": 3,
+          "player": "Rakesh",
+          "overs": "8"
+        },
+        {
+          "score": 87,
+          "wicket": 4,
+          "player": "Harshith Reddy ",
+          "overs": "13.1"
+        },
+        {
+          "score": 113,
+          "wicket": 5,
+          "player": "V ishnu",
+          "overs": "16.4"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Harshith Reddy",
+        "runs": 45,
+        "balls": 35,
+        "fours": 5,
+        "sixes": 1,
+        "strike_rate": 128.57
+      },
+      {
+        "name": "Pavan Kumar",
+        "runs": 37,
+        "balls": 28,
+        "fours": 2,
+        "sixes": 3,
+        "strike_rate": 132.14
+      },
+      {
+        "name": "Winston Garnepudi",
+        "runs": 30,
+        "balls": 34,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 88.24
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Vishnu",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 3,
+        "economy": 5.0
+      },
+      {
+        "name": "Saiteja",
+        "overs": 2.0,
+        "maidens": 0,
+        "runs": 20,
+        "wickets": 2,
+        "economy": 10.0
+      },
+      {
+        "name": "Vivek R",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 1,
+        "economy": 3.75
+      }
+    ]
+  }
+}

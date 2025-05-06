@@ -1,0 +1,456 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Maple Mavericks",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Kanaka Kings",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-06-23",
+    "result": "Maple Mavericks won by 47 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "109/7",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Shivam",
+          "status": "c&b Naveen Battula",
+          "runs": 16,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 84.21
+        },
+        {
+          "name": "Kanishk",
+          "status": "c Siddharth Khanna b Sudhakar Botta",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Krishna",
+          "status": "run out Srinivas Manne / Maharshi Pandya",
+          "runs": 11,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.62
+        },
+        {
+          "name": "Rounak Sardesai",
+          "status": "c Naga Bhaskar Sharma Mukka b Naveen Battula",
+          "runs": 1,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 14.29
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "c Michael b Sudhakar Botta",
+          "runs": 35,
+          "balls": 37,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 94.59
+        },
+        {
+          "name": "Rakesh",
+          "status": "c Shiva Kulkarni b Jk Ram",
+          "runs": 13,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 72.22
+        },
+        {
+          "name": "Sree K",
+          "status": "c Michael b Sudhakar Botta",
+          "runs": 19,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 86.36
+        },
+        {
+          "name": "Gaurav Shienhmar",
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Arvinth",
+          "status": "not out",
+          "runs": 2,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 200.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 3,
+          "economy": 6.5
+        },
+        {
+          "name": "Srinivas Manne",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 6.5
+        },
+        {
+          "name": "Naveen Battula",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "name": "Shiva Kulkarni",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 0,
+          "economy": 4.25
+        },
+        {
+          "name": "Jk Ram",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 1,
+          "wicket": 1,
+          "player": "Kanishk",
+          "overs": "0.5 ov"
+        },
+        {
+          "score": 34,
+          "wicket": 2,
+          "player": "Shivam",
+          "overs": "5.4 ov"
+        },
+        {
+          "score": 35,
+          "wicket": 3,
+          "player": "Krishna",
+          "overs": "6.1 ov"
+        },
+        {
+          "score": 37,
+          "wicket": 4,
+          "player": "Rounak Sardesai",
+          "overs": "8 ov"
+        },
+        {
+          "score": 67,
+          "wicket": 5,
+          "player": "Rakesh",
+          "overs": "13.2 ov"
+        },
+        {
+          "score": 104,
+          "wicket": 6,
+          "player": "Sree K",
+          "overs": "19.1 ov"
+        },
+        {
+          "score": 107,
+          "wicket": 7,
+          "player": "V AMSI\nREDDY NALLA",
+          "overs": "19.5 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "62/10",
+      "overs": 13.2,
+      "batting": [
+        {
+          "name": "Siddharth Khanna",
+          "status": "c Gaurav Shienhmar b Sree K",
+          "runs": 2,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Naveen Battula",
+          "status": "c Krishna b Krishna Chaitanya(KC)",
+          "runs": 4,
+          "balls": 3,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 133.33
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "b Krishna",
+          "runs": 24,
+          "balls": 29,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 82.76
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "b Krishna Chaitanya(KC)",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Michael",
+          "status": "b VAMSI REDDY NALLA",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27
+        },
+        {
+          "name": "MANGAL SINDHAR",
+          "status": "b VAMSI REDDY NALLA",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Arjun Bhatia",
+          "status": "st †Shivam b Gaurav Shienhmar",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Shiva Kulkarni",
+          "status": "c Rakesh b Krishna",
+          "runs": 10,
+          "balls": 16,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 62.5
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "st †Shivam b Gaurav Shienhmar",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "status": "lbw b Gaurav Shienhmar",
+          "runs": 4,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.14
+        },
+        {
+          "name": "Jk Ram",
+          "status": "not out",
+          "runs": 5,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 250.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sree K",
+          "overs": 3.0,
+          "maidens": 1,
+          "runs": 6,
+          "wickets": 1,
+          "economy": 2.0
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 2,
+          "economy": 7.0
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 17,
+          "wickets": 2,
+          "economy": 5.67
+        },
+        {
+          "name": "Gaurav Shienhmar",
+          "overs": 3.2,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 3,
+          "economy": 3.6
+        },
+        {
+          "name": "Krishna",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 6.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 2,
+          "wicket": 1,
+          "player": "Siddharth Khanna",
+          "overs": "0.3 ov"
+        },
+        {
+          "score": 9,
+          "wicket": 2,
+          "player": "Naveen Battula",
+          "overs": "1.3 ov"
+        },
+        {
+          "score": 9,
+          "wicket": 3,
+          "player": "Ashish Rana",
+          "overs": "1.4 ov"
+        },
+        {
+          "score": 21,
+          "wicket": 4,
+          "player": "Michael",
+          "overs": "5.2 ov"
+        },
+        {
+          "score": 21,
+          "wicket": 5,
+          "player": "MANGAL SINDHAR",
+          "overs": "5.5 ov"
+        },
+        {
+          "score": 24,
+          "wicket": 6,
+          "player": "Arjun Bhatia",
+          "overs": "6.2 ov"
+        },
+        {
+          "score": 50,
+          "wicket": 7,
+          "player": "Shiva Kulkarni",
+          "overs": "10.5 ov"
+        },
+        {
+          "score": 51,
+          "wicket": 8,
+          "player": "Sudhakar Botta",
+          "overs": "11.3 ov"
+        },
+        {
+          "score": 51,
+          "wicket": 9,
+          "player": "Maharshi Pandya",
+          "overs": "12.2 ov"
+        },
+        {
+          "score": 62,
+          "wicket": 10,
+          "player": "Naga Bhaskar Sharma Mukka",
+          "overs": "13.2 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Vamsi Reddy Nalla",
+        "runs": 35,
+        "balls": 37,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 94.59
+      },
+      {
+        "name": "Maharshi Pandya",
+        "runs": 24,
+        "balls": 29,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 82.76
+      },
+      {
+        "name": "Sree K",
+        "runs": 19,
+        "balls": 22,
+        "fours": 0,
+        "sixes": 0,
+        "strike_rate": 86.36
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Gaurav Shienhmar",
+        "overs": 3.2,
+        "maidens": 0,
+        "runs": 12,
+        "wickets": 3,
+        "economy": 3.6
+      },
+      {
+        "name": "Sudhakar Botta",
+        "runs": 26,
+        "wickets": 3,
+        "maidens": 0,
+        "overs": 4.0,
+        "economy": 6.5
+      },
+      {
+        "name": "Naveen Battula",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 2,
+        "economy": 4.0
+      }
+    ]
+  },
+  "match_summary": "The Maple Mavericks won against the Kanaka Kings by 47 runs at Selvey Park, Maple Ridge on 2024-06-23. The Maple Mavericks scored 109/7 in their 20 overs. VAMSI REDDY NALLA top-scored with 35 runs, followed by Sree K with 19 runs and Shivam with 16. The Kanaka Kings were then bowled out for 62 in 13.2 overs.\n\nFor the Kanaka Kings' bowling, Sudhakar Botta and Gaurav Shienhmar were the standout performers, both taking 3 wickets each. Naveen Battula also contributed with 2 wickets. For the Maple Mavericks, Gaurav Shienhmar was the pick of the bowlers with 3 wickets, while VAMSI REDDY NALLA and Krishna Chaitanya(KC) took 2 wickets each."
+}

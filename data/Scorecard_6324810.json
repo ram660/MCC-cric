@@ -1,0 +1,487 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Maple Mavericks",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Maple Mavericks",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-08-05",
+    "result": "Maple Mavericks won by 44 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "139/9",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Srikanth Thota",
+          "status": "c Siddharth Khanna b Sudhakar Botta",
+          "runs": 11,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 57.89
+        },
+        {
+          "name": "Shivam",
+          "status": "lbw b Hardip Singh Chandail",
+          "runs": 6,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 85.71
+        },
+        {
+          "name": "Vivek K",
+          "status": "c Siddharth Khanna b Ashish Rana",
+          "runs": 24,
+          "balls": 14,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 171.43
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "b Hardip Singh Chandail",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Akshay Ravi",
+          "status": "c Hardip Singh Chandail b Siddharth Khanna",
+          "runs": 10,
+          "balls": 21,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 47.62
+        },
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c&b Ankit Khanna",
+          "runs": 5,
+          "balls": 5,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Evyan",
+          "status": "c Sudhakar Botta b Ankit Khanna",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Kanishk",
+          "status": "not out",
+          "runs": 54,
+          "balls": 28,
+          "fours": 2,
+          "sixes": 5,
+          "strike_rate": 192.86
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "b Unique Bhateja",
+          "runs": 11,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 91.67
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "c Siddharth Khanna b Ankit Khanna",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Nageswara Kolla",
+          "status": "not out",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "name": "Hardip Singh Chandail",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 2,
+          "economy": 6.25
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 6.33
+        },
+        {
+          "name": "Ankit Khanna",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 3,
+          "economy": 5.5
+        },
+        {
+          "name": "Unique Bhateja",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "name": "Siddharth Khanna",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 12.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 14,
+          "wicket": 1,
+          "player": "Shivam",
+          "overs": "3.1"
+        },
+        {
+          "score": 26,
+          "wicket": 2,
+          "player": "Srikanth Thota",
+          "overs": "5"
+        },
+        {
+          "score": 27,
+          "wicket": 3,
+          "player": "Abhilash Reddy Gade",
+          "overs": "5.4"
+        },
+        {
+          "score": 47,
+          "wicket": 4,
+          "player": "V ivek K",
+          "overs": "8.3"
+        },
+        {
+          "score": 52,
+          "wicket": 5,
+          "player": "Sharath Reddy Gade",
+          "overs": "9.2"
+        },
+        {
+          "score": 65,
+          "wicket": 6,
+          "player": "Evyan",
+          "overs": "11.4"
+        },
+        {
+          "score": 75,
+          "wicket": 7,
+          "player": "Akshay Ravi",
+          "overs": "13.3"
+        },
+        {
+          "score": 106,
+          "wicket": 8,
+          "player": "V AMSI REDDY NALLA",
+          "overs": "16.3"
+        },
+        {
+          "score": 117,
+          "wicket": 9,
+          "player": "Akshay Reddy Putta",
+          "overs": "17.5"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "95/9",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Unique Bhateja",
+          "status": "run out Srikanth Thota / † Sharath Reddy Gade",
+          "runs": 11,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.62
+        },
+        {
+          "name": "Maulik Mehta",
+          "status": "c Abhilash Reddy Gade b Akshay Ravi",
+          "runs": 13,
+          "balls": 15,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 86.67
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "c&b V AMSI REDDY NALLA",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Zuber Admed",
+          "status": "b VAMSI REDDY NALLA",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "c Srikanth Thota b Akshay Ravi",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "lbw b V ivek K",
+          "runs": 19,
+          "balls": 24,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 79.17
+        },
+        {
+          "name": "Sanket",
+          "status": "b Evyan",
+          "runs": 3,
+          "balls": 11,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 27.27
+        },
+        {
+          "name": "Hardip Singh Chandail",
+          "status": "b Evyan",
+          "runs": 2,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Ankit Khanna",
+          "status": "c Sharath Reddy Gade b Kanishk",
+          "runs": 19,
+          "balls": 17,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 111.76
+        },
+        {
+          "name": "Akash Madaan",
+          "status": "not out",
+          "runs": 11,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 68.75
+        },
+        {
+          "name": "Siddharth Khanna",
+          "status": "not out",
+          "runs": 5,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 71.43
+        }
+      ],
+      "bowling": [
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 11,
+          "wickets": 2,
+          "economy": 2.75
+        },
+        {
+          "name": "Akshay Ravi",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.5
+        },
+        {
+          "name": "Evyan",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 2,
+          "economy": 6.75
+        },
+        {
+          "name": "Kanishk",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 21,
+          "wickets": 1,
+          "economy": 5.25
+        },
+        {
+          "name": "Vivek K",
+          "overs": 4,
+          "maidens": 1,
+          "runs": 12,
+          "wickets": 1,
+          "economy": 3.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 21,
+          "wicket": 1,
+          "player": "Maulik Mehta",
+          "overs": "3.5"
+        },
+        {
+          "score": 23,
+          "wicket": 2,
+          "player": "Maharshi Pandya",
+          "overs": "4.4"
+        },
+        {
+          "score": 23,
+          "wicket": 3,
+          "player": "Zuber Admed",
+          "overs": "5"
+        },
+        {
+          "score": 29,
+          "wicket": 4,
+          "player": "Unique Bhateja",
+          "overs": "6"
+        },
+        {
+          "score": 34,
+          "wicket": 5,
+          "player": "Sudhakar Botta",
+          "overs": "8"
+        },
+        {
+          "score": 55,
+          "wicket": 6,
+          "player": "Sanket",
+          "overs": "12.4"
+        },
+        {
+          "score": 57,
+          "wicket": 7,
+          "player": "Hardip Singh Chandail",
+          "overs": "13"
+        },
+        {
+          "score": 57,
+          "wicket": 8,
+          "player": "Ashish Rana",
+          "overs": "13.2"
+        },
+        {
+          "score": 88,
+          "wicket": 9,
+          "player": "Ankit Khanna",
+          "overs": "18.3"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Kanishk",
+        "runs": 54,
+        "balls": 28,
+        "fours": 2,
+        "sixes": 5,
+        "strike_rate": 192.86
+      },
+      {
+        "name": "Vivek K",
+        "runs": 24,
+        "balls": 14,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 171.43
+      },
+      {
+        "name": "Ankit Khanna",
+        "runs": 19,
+        "balls": 17,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 111.76
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Ankit Khanna",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 3,
+        "economy": 5.5
+      },
+      {
+        "name": "Vamsi Reddy Nalla",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 11,
+        "wickets": 2,
+        "economy": 2.75
+      },
+      {
+        "name": "Akshay Ravi",
+        "overs": 4,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 2,
+        "economy": 5.5
+      }
+    ]
+  }
+}

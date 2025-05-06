@@ -1,0 +1,390 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Kanaka Kings",
+      "team2": "Albion Avengers"
+    },
+    "toss": {
+      "winner": "Kanaka Kings",
+      "decision": "bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-07-09",
+    "result": "Albion Avengers won by 4 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "163/5",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Sanket",
+          "status": "b Sandeep Nimmagadda",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Maulik Mehta",
+          "status": "c Vivek R b Srinivas",
+          "runs": 42,
+          "balls": 29,
+          "fours": 4,
+          "sixes": 2,
+          "strike_rate": 144.83
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "c Vivek R b Sandeep Nimmagadda",
+          "runs": 75,
+          "balls": 54,
+          "fours": 12,
+          "sixes": 0,
+          "strike_rate": 138.89
+        },
+        {
+          "name": "Ashish Rana",
+          "status": "run out Krishna Ananthaneni / Mahesh Gogineni",
+          "runs": 21,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "not out",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Adarsh Singh",
+          "status": "run out Krishna Ananthaneni / Mahesh Gogineni",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Ankit Khanna",
+          "status": "not out",
+          "runs": 0,
+          "balls": 0,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.75
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 31,
+          "wickets": 2,
+          "economy": 7.75
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 26,
+          "wickets": 0,
+          "economy": 13.0
+        },
+        {
+          "name": "Vivek R",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 37,
+          "wickets": 0,
+          "economy": 9.25
+        },
+        {
+          "name": "Srinivas",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 1,
+          "economy": 5.5
+        },
+        {
+          "name": "Harsha Madi Reddy",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 18,
+          "wickets": 0,
+          "economy": 18.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 4,
+          "wickets": 0,
+          "economy": 4.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 12,
+          "wicket": 1,
+          "player": "Sanket",
+          "overs": "2"
+        },
+        {
+          "score": 86,
+          "wicket": 2,
+          "player": "Maulik Mehta",
+          "overs": "10"
+        },
+        {
+          "score": 152,
+          "wicket": 3,
+          "player": "Maharshi Pandya",
+          "overs": "18.3"
+        },
+        {
+          "score": 162,
+          "wicket": 4,
+          "player": "Ashish Rana",
+          "overs": "19.2"
+        },
+        {
+          "score": 163,
+          "wicket": 5,
+          "player": "Adarsh Singh",
+          "overs": "19.5"
+        }
+      ]
+    },
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "164/6",
+      "overs": 18.0,
+      "batting": [
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "c Zuber Admed b Ashish Rana",
+          "runs": 38,
+          "balls": 20,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 190.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "c Raj b Ashish Rana",
+          "runs": 25,
+          "balls": 26,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 96.15
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "c †Maharshi Pandya b Ashish Rana",
+          "runs": 7,
+          "balls": 12,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 58.33
+        },
+        {
+          "name": "Daqoo M",
+          "status": "c Ankit Khanna b Sudhakar Botta",
+          "runs": 21,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 3,
+          "strike_rate": 300.0
+        },
+        {
+          "name": "Vivek R",
+          "status": "not out",
+          "runs": 31,
+          "balls": 21,
+          "fours": 3,
+          "sixes": 2,
+          "strike_rate": 147.62
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "c Maharshi Pandya b Ankit Khanna",
+          "runs": 26,
+          "balls": 19,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 136.84
+        },
+        {
+          "name": "Srinivas",
+          "status": "c Raj b Ashish Rana",
+          "runs": 1,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "MANGAL SINDHAR",
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 43,
+          "wickets": 1,
+          "economy": 10.75
+        },
+        {
+          "name": "Adarsh Singh",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 25,
+          "wickets": 0,
+          "economy": 8.33
+        },
+        {
+          "name": "Ankit Khanna",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 36,
+          "wickets": 1,
+          "economy": 9.0
+        },
+        {
+          "name": "Ashish Rana",
+          "overs": 4,
+          "maidens": 0,
+          "runs": 38,
+          "wickets": 4,
+          "economy": 9.5
+        },
+        {
+          "name": "Raj",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 6.67
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 60,
+          "wicket": 1,
+          "player": "Krishna Ananthaneni",
+          "overs": "6"
+        },
+        {
+          "score": 80,
+          "wicket": 2,
+          "player": "Sandeep Nimmagadda",
+          "overs": "9.2"
+        },
+        {
+          "score": 93,
+          "wicket": 3,
+          "player": "Akshay Reddy Putta",
+          "overs": "10"
+        },
+        {
+          "score": 105,
+          "wicket": 4,
+          "player": "Daqoo M",
+          "overs": "10.5"
+        },
+        {
+          "score": 142,
+          "wicket": 5,
+          "player": "Mahesh Gogineni",
+          "overs": "16"
+        },
+        {
+          "score": 155,
+          "wicket": 6,
+          "player": "Srinivas",
+          "overs": "17.1"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Maharshi Pandya",
+        "runs": 75,
+        "balls": 54,
+        "fours": 12,
+        "sixes": 0,
+        "strike_rate": 138.89
+      },
+      {
+        "name": "Maulik Mehta",
+        "runs": 42,
+        "balls": 29,
+        "fours": 4,
+        "sixes": 2,
+        "strike_rate": 144.83
+      },
+      {
+        "name": "Krishna Ananthaneni",
+        "runs": 38,
+        "balls": 20,
+        "fours": 3,
+        "sixes": 2,
+        "strike_rate": 190.0
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Ashish Rana",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 38,
+        "wickets": 4,
+        "economy": 9.5
+      },
+      {
+        "name": "Sandeep Nimmagadda",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 31,
+        "wickets": 2,
+        "economy": 7.75
+      },
+      {
+        "name": "Srinivas",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 22,
+        "wickets": 1,
+        "economy": 5.5
+      }
+    ]
+  }
+}

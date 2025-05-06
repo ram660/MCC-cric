@@ -1,0 +1,443 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Albion Avengers",
+      "team2": "Kanaka Kings"
+    },
+    "toss": {
+      "winner": "Kanaka Kings",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2023-05-21",
+    "result": "Kanaka Kings won by 5 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Albion Avengers",
+      "total_score": "126/9",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Krishna Ananthaneni",
+          "status": "b Hardip Singh Chandail",
+          "runs": 0,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "lbw b Sudhakar Botta",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "c Ankit Khanna b Hardip Singh Chandail",
+          "runs": 7,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 70.0
+        },
+        {
+          "name": "Srinivas",
+          "status": "not out",
+          "runs": 55,
+          "balls": 45,
+          "fours": 6,
+          "sixes": 0,
+          "strike_rate": 122.22
+        },
+        {
+          "name": "Nishu",
+          "status": "c Raj b Siddharth Khanna",
+          "runs": 11,
+          "balls": 22,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "c Hardip Singh Chandail b Ankit Khanna",
+          "runs": 3,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 75.0
+        },
+        {
+          "name": "Winston Garnepudi",
+          "status": "lbw b Unique Bhateja",
+          "runs": 2,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "status": "c&b Ankit Khanna",
+          "runs": 21,
+          "balls": 15,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 140.0
+        },
+        {
+          "name": "Sudheer",
+          "status": "c Sudhakar Botta b Siddharth Khanna",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Kalyan V arma Alluri",
+          "status": "run out Hardip Singh Chandail",
+          "runs": 3,
+          "balls": 7,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 42.86
+        },
+        {
+          "name": "Harsha Madi Reddy",
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Hardip Singh Chandail",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 2,
+          "economy": 5.5
+        },
+        {
+          "name": "Sudhakar Botta",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 27,
+          "wickets": 1,
+          "economy": 6.75
+        },
+        {
+          "name": "Ankit Khanna",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 4.75
+        },
+        {
+          "name": "Siddharth Khanna",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 2,
+          "economy": 4.75
+        },
+        {
+          "name": "Sharath Reddy Gade",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 22,
+          "wickets": 0,
+          "economy": 11.0
+        },
+        {
+          "name": "Unique Bhateja",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 7.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 1,
+          "wicket": 1,
+          "player": "Krishna Ananthaneni",
+          "overs": "0.2"
+        },
+        {
+          "score": 12,
+          "wicket": 2,
+          "player": "Akshay Reddy Putta",
+          "overs": "2.1"
+        },
+        {
+          "score": 16,
+          "wicket": 3,
+          "player": "Abhilash Reddy Gade",
+          "overs": "3.2"
+        },
+        {
+          "score": 32,
+          "wicket": 4,
+          "player": "Nishu",
+          "overs": "7.5"
+        },
+        {
+          "score": 37,
+          "wicket": 5,
+          "player": "V AMSI REDDY NALLA",
+          "overs": "8.5"
+        },
+        {
+          "score": 51,
+          "wicket": 6,
+          "player": "Winston Garnepudi",
+          "overs": "11.2"
+        },
+        {
+          "score": 94,
+          "wicket": 7,
+          "player": "Sandeep Nimmagadda",
+          "overs": "15.4"
+        },
+        {
+          "score": 109,
+          "wicket": 8,
+          "player": "Sudheer",
+          "overs": "17.3"
+        },
+        {
+          "score": 119,
+          "wicket": 9,
+          "player": "Kalyan V arma Alluri",
+          "overs": "19.1"
+        }
+      ]
+    },
+    {
+      "batting_team": "Kanaka Kings",
+      "total_score": "127/5",
+      "overs": 19.2,
+      "batting": [
+        {
+          "name": "Siddharth Khanna",
+          "status": "c Srinivas b Sandeep Nimmagadda",
+          "runs": 24,
+          "balls": 17,
+          "fours": 4,
+          "sixes": 0,
+          "strike_rate": 141.18
+        },
+        {
+          "name": "Unique Bhateja",
+          "status": "c&b Sandeep Nimmagadda",
+          "runs": 11,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 61.11
+        },
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c Abhilash Reddy Gade b V AMSI REDDY NALLA",
+          "runs": 20,
+          "balls": 16,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 125.0
+        },
+        {
+          "name": "Maharshi Pandya",
+          "status": "lbw b Sandeep Nimmagadda",
+          "runs": 16,
+          "balls": 18,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 88.89
+        },
+        {
+          "name": "Sanket",
+          "status": "not out",
+          "runs": 15,
+          "balls": 18,
+          "fours": 0,
+          "sixes": 1,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Sudhakar Botta",
+          "status": "run out † Akshay Reddy Putta",
+          "runs": 21,
+          "balls": 25,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 84.0
+        },
+        {
+          "name": "Hardip Singh Chandail",
+          "status": "not out",
+          "runs": 5,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 125.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 6.33
+        },
+        {
+          "name": "Nishu",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Sandeep Nimmagadda",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 3,
+          "economy": 4.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 7.67
+        },
+        {
+          "name": "Winston Garnepudi",
+          "overs": 1.2,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Srinivas",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 0,
+          "economy": 16.0
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 6.33
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 37,
+          "wicket": 1,
+          "player": "Siddharth Khanna",
+          "overs": "4.5"
+        },
+        {
+          "score": 41,
+          "wicket": 2,
+          "player": "Unique Bhateja",
+          "overs": "6.2"
+        },
+        {
+          "score": 77,
+          "wicket": 3,
+          "player": "Sharath Reddy Gade",
+          "overs": "11"
+        },
+        {
+          "score": 81,
+          "wicket": 4,
+          "player": "Maharshi Pandya",
+          "overs": "11.3"
+        },
+        {
+          "score": 121,
+          "wicket": 5,
+          "player": "Sudhakar Botta",
+          "overs": "18.3"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Srinivas",
+        "runs": 55,
+        "balls": 45,
+        "fours": 6,
+        "sixes": 0,
+        "strike_rate": 122.22
+      },
+      {
+        "name": "Siddharth Khanna",
+        "runs": 24,
+        "balls": 17,
+        "fours": 4,
+        "sixes": 0,
+        "strike_rate": 141.18
+      },
+      {
+        "name": "Sandeep Nimmagadda",
+        "runs": 21,
+        "balls": 15,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 140.0
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Sandeep Nimmagadda",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 3,
+        "economy": 4.0
+      },
+      {
+        "name": "Ankit Khanna",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 2,
+        "economy": 4.75
+      },
+      {
+        "name": "Siddharth Khanna",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 2,
+        "economy": 4.75
+      }
+    ]
+  }
+}

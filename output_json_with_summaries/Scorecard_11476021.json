@@ -1,0 +1,407 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Cottonwood Challengers",
+      "team2": "Maple Mavericks"
+    },
+    "toss": {
+      "winner": "Maple Mavericks",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-06-01",
+    "result": "Maple Mavericks won by 7 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Cottonwood Challengers",
+      "total_score": "91/8",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "RANJOT SINGH",
+          "status": "c †CricHeroes deleted user b V AMSI REDDY NALLA",
+          "runs": 2,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Unique Bhateja",
+          "status": "run out Rakesh",
+          "runs": 2,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 33.33
+        },
+        {
+          "name": "Shivam Patel",
+          "status": "run out V AMSI REDDY NALLA / † CricHeroes deleted user",
+          "runs": 14,
+          "balls": 32,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 43.75
+        },
+        {
+          "name": "Akshay Ravi",
+          "status": "c †CricHeroes deleted user b Kanishk",
+          "runs": 12,
+          "balls": 14,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 85.71
+        },
+        {
+          "name": "Prateek Bansal MCC",
+          "status": "b jay",
+          "runs": 1,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0
+        },
+        {
+          "name": "Evyan",
+          "status": "c Dhruval Patel b jay",
+          "runs": 13,
+          "balls": 24,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 54.17
+        },
+        {
+          "name": "Shubh Sandhu",
+          "status": "not out",
+          "runs": 25,
+          "balls": 18,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 138.89
+        },
+        {
+          "name": "Gurinder Randhawa",
+          "status": "c jay b Krishna",
+          "runs": 1,
+          "balls": 6,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 16.67
+        },
+        {
+          "name": "Yash T rivedi",
+          "status": "c Rakesh b Krishna",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Naga Bhaskar Sharma Mukka",
+          "status": "not out",
+          "runs": 8,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 80.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sree K",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 4.75
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 1,
+          "economy": 6.5
+        },
+        {
+          "name": "Rakesh",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 0,
+          "economy": 9.5
+        },
+        {
+          "name": "Kanishk",
+          "overs": 2.0,
+          "maidens": 1,
+          "runs": 2,
+          "wickets": 1,
+          "economy": 1.0
+        },
+        {
+          "name": "jay",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 2,
+          "economy": 2.5
+        },
+        {
+          "name": "Krishna",
+          "overs": 4.0,
+          "maidens": 1,
+          "runs": 12,
+          "wickets": 2,
+          "economy": 3.0
+        },
+        {
+          "name": "Arvinth",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 3,
+          "wicket": 1,
+          "player": "RANJOT SINGH",
+          "overs": "1.1"
+        },
+        {
+          "score": 7,
+          "wicket": 2,
+          "player": "Unique Bhateja",
+          "overs": "2.4"
+        },
+        {
+          "score": 28,
+          "wicket": 3,
+          "player": "Akshay Ravi",
+          "overs": "5.4"
+        },
+        {
+          "score": 31,
+          "wicket": 4,
+          "player": "Prateek Bansal MCC",
+          "overs": "7"
+        },
+        {
+          "score": 51,
+          "wicket": 5,
+          "player": "Shivam Patel",
+          "overs": "13.3"
+        },
+        {
+          "score": 59,
+          "wicket": 6,
+          "player": "Evyan",
+          "overs": "14.3"
+        },
+        {
+          "score": 60,
+          "wicket": 7,
+          "player": "Gurinder Randhawa",
+          "overs": "15.3"
+        },
+        {
+          "score": 60,
+          "wicket": 8,
+          "player": "Y ash T rivedi",
+          "overs": "15.4"
+        }
+      ]
+    },
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "92/3",
+      "overs": 12.1,
+      "batting": [
+        {
+          "name": "Rounak Sardesai",
+          "status": "not out",
+          "runs": 31,
+          "balls": 36,
+          "fours": 3,
+          "sixes": 0,
+          "strike_rate": 86.11
+        },
+        {
+          "name": "Krishna",
+          "status": "b Akshay Ravi",
+          "runs": 0,
+          "balls": 4,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Shivam",
+          "status": "run out Shubh Sandhu / Evyan",
+          "runs": 4,
+          "balls": 1,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 400.0
+        },
+        {
+          "name": "Kanishk",
+          "status": "c Evyan b Y ash T rivedi",
+          "runs": 40,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 2,
+          "strike_rate": 148.15
+        },
+        {
+          "name": "Rakesh",
+          "status": "not out",
+          "runs": 4,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Evyan",
+          "overs": 4.0,
+          "maidens": 1,
+          "runs": 24,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Akshay Ravi",
+          "overs": 3,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 1,
+          "economy": 6.67
+        },
+        {
+          "name": "Shivam Patel",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "Yash T rivedi",
+          "overs": 2,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 7.5
+        },
+        {
+          "name": "Karmvir MCC",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 12,
+          "wickets": 0,
+          "economy": 12.0
+        },
+        {
+          "name": "Unique Bhateja",
+          "overs": 1,
+          "maidens": 0,
+          "runs": 7,
+          "wickets": 0,
+          "economy": 7.0
+        },
+        {
+          "name": "RANJOT SINGH",
+          "overs": 0.1,
+          "maidens": 0,
+          "runs": 1,
+          "wickets": 0,
+          "economy": 6.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 6,
+          "wicket": 1,
+          "player": "Krishna",
+          "overs": "1.5"
+        },
+        {
+          "score": 10,
+          "wicket": 2,
+          "player": "Shivam",
+          "overs": "2.1"
+        },
+        {
+          "score": 67,
+          "wicket": 3,
+          "player": "Kanishk",
+          "overs": "8.1"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Kanishk",
+        "runs": 40,
+        "balls": 27,
+        "fours": 1,
+        "sixes": 2,
+        "strike_rate": 148.15
+      },
+      {
+        "name": "Rounak Sardesai",
+        "runs": 31,
+        "balls": 36,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 86.11
+      },
+      {
+        "name": "Shubh Sandhu",
+        "runs": 25,
+        "balls": 18,
+        "fours": 3,
+        "sixes": 0,
+        "strike_rate": 138.89
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Jay",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 10,
+        "wickets": 2,
+        "economy": 2.5
+      },
+      {
+        "name": "Krishna",
+        "overs": 4.0,
+        "maidens": 1,
+        "runs": 12,
+        "wickets": 2,
+        "economy": 3.0
+      },
+      {
+        "name": "Kanishk",
+        "runs": 2,
+        "overs": 2.0,
+        "maidens": 1,
+        "wickets": 1,
+        "economy": 1.0
+      }
+    ]
+  },
+  "match_summary": "The Maple Mavericks defeated the Cottonwood Challengers by 7 wickets at Selvey Park, Maple Ridge, on 2024-06-01. The Mavericks won the toss and chose to field. The Cottonwood Challengers scored 91/8 in their 20 overs. Shubh Sandhu top-scored with 25 runs, followed by Shivam Patel with 14 runs. Jay and Krishna each took 2 wickets for 10 and 12 runs respectively.\n\nThe Maple Mavericks successfully chased the target, finishing at 92/3 in 12.1 overs. Kanishk led the batting effort with 40 runs, while Rounak Sardesai contributed 31 runs. Akshay Ravi and Yash T rivedi each took 1 wicket for the Challengers."
+}

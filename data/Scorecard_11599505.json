@@ -1,0 +1,472 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Maple Mavericks",
+      "team2": "Whonnock WARRIORS"
+    },
+    "toss": {
+      "winner": "Maple Mavericks",
+      "decision": "opt to bat"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-07-13",
+    "result": "Maple Mavericks won by 24 runs"
+  },
+  "innings": [
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "126/6",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Kanishk",
+          "status": "c Abhilash Reddy Gade b Harshavardhan Reddy Bobba",
+          "runs": 6,
+          "balls": 7,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Shivam",
+          "status": "c Harshavardhan Reddy Bobba b Raja Allam",
+          "runs": 11,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 84.62
+        },
+        {
+          "name": "Krishna",
+          "status": "b Harshavardhan Reddy Bobba",
+          "runs": 4,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 40.0
+        },
+        {
+          "name": "Dhruval Patel",
+          "status": "not out",
+          "runs": 70,
+          "balls": 47,
+          "fours": 3,
+          "sixes": 3,
+          "strike_rate": 148.94
+        },
+        {
+          "name": "Rakesh",
+          "status": "c Ankit Khanna b Raja Allam",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Jaynish Patel",
+          "status": "b Raja Allam",
+          "runs": 24,
+          "balls": 30,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 80.0
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "c Mahesh Gogineni b Sudheer",
+          "runs": 7,
+          "balls": 9,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 77.78
+        },
+        {
+          "name": "jay",
+          "status": "not out",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 1,
+          "economy": 5.75
+        },
+        {
+          "name": "Harshavardhan Reddy Bobba",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 2,
+          "economy": 5.75
+        },
+        {
+          "name": "Raja Allam",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 3,
+          "economy": 4.75
+        },
+        {
+          "name": "Ankit Khanna",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 10,
+          "wickets": 0,
+          "economy": 5.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        },
+        {
+          "name": "Raghu",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 0,
+          "economy": 7.5
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 20,
+          "wickets": 0,
+          "economy": 10.0
+        },
+        {
+          "name": "Dileep Reddy V atti",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 8.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 15,
+          "wicket": 1,
+          "player": "Kanishk",
+          "overs": "2"
+        },
+        {
+          "score": 21,
+          "wicket": 2,
+          "player": "Shivam",
+          "overs": "4.2"
+        },
+        {
+          "score": 26,
+          "wicket": 3,
+          "player": "Krishna",
+          "overs": "6"
+        },
+        {
+          "score": 27,
+          "wicket": 4,
+          "player": "Rakesh",
+          "overs": "6.5"
+        },
+        {
+          "score": 98,
+          "wicket": 5,
+          "player": "Jaynish Patel",
+          "overs": "16.1"
+        },
+        {
+          "score": 119,
+          "wicket": 6,
+          "player": "V AMSI REDDY NALLA",
+          "overs": "19.2"
+        }
+      ]
+    },
+    {
+      "batting_team": "Whonnock WARRIORS",
+      "total_score": "102/10",
+      "overs": 18.3,
+      "batting": [
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c Santhosh Kotagiri b Krishna Chaitanya(KC)",
+          "runs": 10,
+          "balls": 12,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "c Dhruval Patel b Krishna Chaitanya(KC)",
+          "runs": 1,
+          "balls": 2,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c jay b Krishna Chaitanya(KC)",
+          "runs": 11,
+          "balls": 16,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 68.75
+        },
+        {
+          "name": "Rahul",
+          "status": "run out V AMSI REDDY NALLA",
+          "runs": 23,
+          "balls": 20,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 115.0
+        },
+        {
+          "name": "Raja Allam",
+          "status": "lbw b Krishna Chaitanya(KC)",
+          "runs": 7,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 70.0
+        },
+        {
+          "name": "Ankit Khanna",
+          "status": "c Santhosh Kotagiri b jay",
+          "runs": 11,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 68.75
+        },
+        {
+          "name": "Harshavardhan Reddy Bobba",
+          "status": "c Krishna b Rakesh",
+          "runs": 24,
+          "balls": 21,
+          "fours": 2,
+          "sixes": 1,
+          "strike_rate": 114.29
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "c Shivam b jay",
+          "runs": 4,
+          "balls": 2,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 200.0
+        },
+        {
+          "name": "Sudheer",
+          "status": "b jay",
+          "runs": 2,
+          "balls": 10,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 20.0
+        },
+        {
+          "name": "Dileep Reddy V atti",
+          "status": "lbw b Krishna",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Raghu",
+          "status": "not out",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        }
+      ],
+      "bowling": [
+        {
+          "name": "VAMSI REDDY NALLA",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 23,
+          "wickets": 0,
+          "economy": 5.75
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 4,
+          "economy": 3.5
+        },
+        {
+          "name": "Rakesh",
+          "overs": 2.3,
+          "maidens": 0,
+          "runs": 14,
+          "wickets": 1,
+          "economy": 5.6
+        },
+        {
+          "name": "jay",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 3,
+          "economy": 3.75
+        },
+        {
+          "name": "Kanishk",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 6,
+          "wickets": 0,
+          "economy": 6.0
+        },
+        {
+          "name": "Krishna",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 30,
+          "wickets": 1,
+          "economy": 10.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 8,
+          "wicket": 1,
+          "player": "Akshay Reddy Putta",
+          "overs": "1.1"
+        },
+        {
+          "score": 21,
+          "wicket": 2,
+          "player": "Sharath Reddy Gade",
+          "overs": "4"
+        },
+        {
+          "score": 29,
+          "wicket": 3,
+          "player": "Abhilash Reddy Gade",
+          "overs": "5.3"
+        },
+        {
+          "score": 39,
+          "wicket": 4,
+          "player": "Raja Allam",
+          "overs": "7.5"
+        },
+        {
+          "score": 63,
+          "wicket": 5,
+          "player": "Rahul",
+          "overs": "11.5"
+        },
+        {
+          "score": 71,
+          "wicket": 6,
+          "player": "Ankit Khanna",
+          "overs": "13.1"
+        },
+        {
+          "score": 75,
+          "wicket": 7,
+          "player": "Mahesh Gogineni",
+          "overs": "13.3"
+        },
+        {
+          "score": 83,
+          "wicket": 8,
+          "player": "Sudheer",
+          "overs": "16"
+        },
+        {
+          "score": 90,
+          "wicket": 9,
+          "player": "Dileep Reddy V atti",
+          "overs": "16.4"
+        },
+        {
+          "score": 102,
+          "wicket": 10,
+          "player": "Harshavardhan Reddy Bobba",
+          "overs": "18.3"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Dhruval Patel",
+        "runs": 70,
+        "balls": 47,
+        "fours": 3,
+        "sixes": 3,
+        "strike_rate": 148.94
+      },
+      {
+        "name": "Harshavardhan Reddy Bobba",
+        "runs": 24,
+        "balls": 21,
+        "fours": 2,
+        "sixes": 1,
+        "strike_rate": 114.29
+      },
+      {
+        "name": "Jaynish Patel",
+        "runs": 24,
+        "balls": 30,
+        "fours": 1,
+        "sixes": 0,
+        "strike_rate": 80.0
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Krishna Chaitanya(kc)",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 14,
+        "wickets": 4,
+        "economy": 3.5
+      },
+      {
+        "name": "Jay",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 3,
+        "economy": 3.75
+      },
+      {
+        "name": "Raja Allam",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 19,
+        "wickets": 3,
+        "economy": 4.75
+      }
+    ]
+  }
+}

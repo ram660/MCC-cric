@@ -1,0 +1,444 @@
+{
+  "match_details": {
+    "teams": {
+      "team1": "Whonnock WARRIORS",
+      "team2": "Maple Mavericks"
+    },
+    "toss": {
+      "winner": "Maple Mavericks",
+      "decision": "field"
+    },
+    "venue": "Selvey Park, Maple Ridge",
+    "date": "2024-08-31",
+    "result": "Maple Mavericks won by 5 wickets"
+  },
+  "innings": [
+    {
+      "batting_team": "Whonnock WARRIORS",
+      "total_score": "95/9",
+      "overs": 20.0,
+      "batting": [
+        {
+          "name": "Sharath Reddy Gade",
+          "status": "c VAMSI REDDY NALLA b Sree K",
+          "runs": 10,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Abhilash Reddy Gade",
+          "status": "c Dhruval Patel b Sree K",
+          "runs": 0,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Ritesh Shinde",
+          "status": "c Shivam b Rakesh",
+          "runs": 8,
+          "balls": 13,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Akshay Reddy Putta",
+          "status": "run out Sree K",
+          "runs": 0,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Rahul",
+          "status": "run out Dhruval Patel / Rakesh",
+          "runs": 29,
+          "balls": 84,
+          "fours": 2,
+          "sixes": 0,
+          "strike_rate": 59.18
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "status": "run out Rakesh",
+          "runs": 4,
+          "balls": 5,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 66.67
+        },
+        {
+          "name": "Raja Allam",
+          "status": "b Kanishk",
+          "runs": 9,
+          "balls": 28,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 50.0
+        },
+        {
+          "name": "Harshavardhan Reddy Bobba",
+          "status": "c Krishna b Dhruval Patel",
+          "runs": 2,
+          "balls": 8,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 28.57
+        },
+        {
+          "name": "DEEP AK CRIC CANADA",
+          "status": "lbw b Dhruval Patel",
+          "runs": 0,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 0.0
+        },
+        {
+          "name": "Ankit Khanna",
+          "status": "not out",
+          "runs": 13,
+          "balls": 38,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 81.25
+        },
+        {
+          "name": "Sudheer",
+          "status": "not out",
+          "runs": 5,
+          "balls": 19,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 166.67
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sree K",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 4.0
+        },
+        {
+          "name": "Krishna Chaitanya(KC)",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 13.0
+        },
+        {
+          "name": "Rakesh",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 19,
+          "wickets": 1,
+          "economy": 4.75
+        },
+        {
+          "name": "Kanishk",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 15,
+          "wickets": 1,
+          "economy": 3.75
+        },
+        {
+          "name": "Krishna",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 13,
+          "wickets": 0,
+          "economy": 4.33
+        },
+        {
+          "name": "Dhruval Patel",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 2,
+          "economy": 4.0
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 1,
+          "wicket": 1,
+          "player": "Abhilash Reddy Gade",
+          "overs": "0.3 ov"
+        },
+        {
+          "score": 19,
+          "wicket": 2,
+          "player": "Sharath Reddy Gade",
+          "overs": "2.4 ov"
+        },
+        {
+          "score": 23,
+          "wicket": 3,
+          "player": "Ritesh Shinde",
+          "overs": "3.2 ov"
+        },
+        {
+          "score": 23,
+          "wicket": 4,
+          "player": "Akshay Reddy Putta",
+          "overs": "4 ov"
+        },
+        {
+          "score": 30,
+          "wicket": 5,
+          "player": "Mahesh Gogineni",
+          "overs": "5.3 ov"
+        },
+        {
+          "score": 53,
+          "wicket": 6,
+          "player": "Raja Allam",
+          "overs": "11.1 ov"
+        },
+        {
+          "score": 58,
+          "wicket": 7,
+          "player": "Harshavardhan Reddy Bobba",
+          "overs": "13.3 ov"
+        },
+        {
+          "score": 58,
+          "wicket": 8,
+          "player": "DEEP AK CRIC CANADA",
+          "overs": "13.5 ov"
+        },
+        {
+          "score": 82,
+          "wicket": 9,
+          "player": "Rahul",
+          "overs": "18.5 ov"
+        }
+      ]
+    },
+    {
+      "batting_team": "Maple Mavericks",
+      "total_score": "99/5",
+      "overs": 17.4,
+      "batting": [
+        {
+          "name": "Bharath V intha",
+          "status": "lbw b Raja Allam",
+          "runs": 36,
+          "balls": 31,
+          "fours": 5,
+          "sixes": 0,
+          "strike_rate": 116.13
+        },
+        {
+          "name": "Shivam",
+          "status": "lbw b Shiva Srikumar",
+          "runs": 5,
+          "balls": 16,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 31.25
+        },
+        {
+          "name": "Kanishk",
+          "status": "run out Abhilash Reddy Gade / Raja Allam",
+          "runs": 1,
+          "balls": 1,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "Dhruval Patel",
+          "status": "c Harshavardhan Reddy Bobba b Sudheer",
+          "runs": 23,
+          "balls": 27,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": 85.19
+        },
+        {
+          "name": "Rakesh",
+          "status": "c Ritesh Shinde b Harshavardhan Reddy Bobba",
+          "runs": 18,
+          "balls": 22,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 81.82
+        },
+        {
+          "name": "Krishna",
+          "status": "not out",
+          "runs": 3,
+          "balls": 3,
+          "fours": 0,
+          "sixes": 0,
+          "strike_rate": 100.0
+        },
+        {
+          "name": "VAMSI REDDY NALLA",
+          "status": "not out",
+          "runs": 5,
+          "balls": 6,
+          "fours": 1,
+          "sixes": 0,
+          "strike_rate": 83.33
+        }
+      ],
+      "bowling": [
+        {
+          "name": "Sudheer",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 6.0
+        },
+        {
+          "name": "Shiva Srikumar",
+          "overs": 4.0,
+          "maidens": 0,
+          "runs": 16,
+          "wickets": 1,
+          "economy": 4.0
+        },
+        {
+          "name": "Raja Allam",
+          "overs": 3.0,
+          "maidens": 0,
+          "runs": 24,
+          "wickets": 1,
+          "economy": 8.0
+        },
+        {
+          "name": "Ankit Khanna",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "name": "DEEP AK CRIC CANADA",
+          "overs": 2.0,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 0,
+          "economy": 4.0
+        },
+        {
+          "name": "Mahesh Gogineni",
+          "overs": 1.0,
+          "maidens": 0,
+          "runs": 9,
+          "wickets": 0,
+          "economy": 9.0
+        },
+        {
+          "name": "Harshavardhan Reddy Bobba",
+          "overs": 1.4,
+          "maidens": 0,
+          "runs": 8,
+          "wickets": 1,
+          "economy": 4.8
+        }
+      ],
+      "fall_of_wickets": [
+        {
+          "score": 31,
+          "wicket": 1,
+          "player": "Shivam",
+          "overs": "6 ov"
+        },
+        {
+          "score": 38,
+          "wicket": 2,
+          "player": "Kanishk",
+          "overs": "6.4 ov"
+        },
+        {
+          "score": 38,
+          "wicket": 3,
+          "player": "Bharath V intha",
+          "overs": "8.4 ov"
+        },
+        {
+          "score": 74,
+          "wicket": 4,
+          "player": "Rakesh",
+          "overs": "15.4 ov"
+        },
+        {
+          "score": 80,
+          "wicket": 5,
+          "player": "Dhruval Patel",
+          "overs": "16.2 ov"
+        }
+      ]
+    }
+  ],
+  "best_performances": {
+    "batting": [
+      {
+        "name": "Bharath Reddy",
+        "runs": 36,
+        "balls": 31,
+        "fours": 5,
+        "sixes": 0,
+        "strike_rate": 116.13
+      },
+      {
+        "name": "Rahul",
+        "runs": 29,
+        "balls": 49,
+        "fours": 2,
+        "sixes": 0,
+        "strike_rate": 59.18
+      },
+      {
+        "name": "Dhruval Patel",
+        "runs": 23,
+        "balls": 27,
+        "fours": 1,
+        "sixes": 1,
+        "strike_rate": 85.19
+      }
+    ],
+    "bowling": [
+      {
+        "name": "Sree K",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 2,
+        "economy": 4.0
+      },
+      {
+        "name": "Dhruval Patel",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 16,
+        "wickets": 2,
+        "economy": 4.0
+      },
+      {
+        "name": "Kanishk",
+        "overs": 4.0,
+        "maidens": 0,
+        "runs": 15,
+        "wickets": 1,
+        "economy": 3.75
+      }
+    ]
+  },
+  "match_summary": "The Maple Mavericks defeated the Whonnock WARRIORS by 5 wickets at Selvey Park, Maple Ridge on 2024-08-31. The Maple Mavericks won the toss and chose to field, restricting the Whonnock WARRIORS to 95/9 in their 20 overs. The Maple Mavericks then chased down the target, finishing on 99/5 in 17.4 overs.\n\nFor the Whonnock WARRIORS, Rahul top-scored with 29 runs. For the Maple Mavericks, Bharath V scored 36 runs and Dhruval Patel scored 23 runs. Sree K and Dhruval Patel both took 2 wickets each for the Whonnock WARRIORS, while Kanishk took 1 wicket."
+}
